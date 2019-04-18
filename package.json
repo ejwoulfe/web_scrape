@@ -11,7 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "csv": "^5.1.1",
+    "fast-csv": "^2.4.1",
+    "fs": "0.0.1-security",
     "jquery": "^3.4.0",
+    "json2csv": "^4.5.0",
     "mysql": "^2.16.0",
     "puppeteer": "^1.14.0",
     "request": "^2.88.0",
