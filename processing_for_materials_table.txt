@@ -1,0 +1,703 @@
+(1,"[Combat] Trina Lead Bullet","../assets/item_images/[Combat] Trina Lead Bullet.png","Processing"),
+(2,"[Combat] Trina Matchlock","../assets/item_images/[Combat] Trina Matchlock.png","Processing"),
+(3,"[Event] Beer Crate","../assets/item_images/[Event] Beer Crate.png","Processing"),
+(4,"[Event] Brave Spirit","../assets/item_images/[Event] Brave Spirit.png","Processing"),
+(5,"[Event] Cacao Chocolate","../assets/item_images/[Event] Cacao Chocolate.png","Processing"),
+(6,"[Event] Kamasylvia Box","../assets/item_images/[Event] Kamasylvia Box.png","Processing"),
+(7,"[Event] Sample Beer Crate","../assets/item_images/[Event] Sample Beer Crate.png","Processing"),
+(8,"[Event] Shiny Kamasylvia Box","../assets/item_images/[Event] Shiny Kamasylvia Box.png","Processing"),
+(9,"[Event] Sweet Candy Pack","../assets/item_images/[Event] Sweet Candy Pack.png","Processing"),
+(10,"[Guild] Beast's Skin","../assets/item_images/[Guild] Beast's Skin.png","Processing"),
+(11,"[Guild] Clearance Request","../assets/item_images/[Guild] Clearance Request.png","Processing"),
+(12,"[Guild] Cloudy Timber","../assets/item_images/[Guild] Cloudy Timber.png","Processing"),
+(13,"[Guild] Crude Decoration","../assets/item_images/[Guild] Crude Decoration.png","Processing"),
+(14,"[Guild] Desert Alloy Ingot","../assets/item_images/[Guild] Desert Alloy Ingot.png","Processing"),
+(15,"[Guild] Elephant Cage Parts","../assets/item_images/[Guild] Elephant Cage Parts.png","Processing"),
+(16,"[Guild] Elephant Food","../assets/item_images/[Guild] Elephant Food.png","Processing"),
+(17,"[Guild] Everlasting Tree Plywood","../assets/item_images/[Guild] Everlasting Tree Plywood.png","Processing"),
+(18,"[Guild] Fresh Veggies","../assets/item_images/[Guild] Fresh Veggies.png","Processing"),
+(19,"[Guild] Ink","../assets/item_images/[Guild] Ink.png","Processing"),
+(20,"[Guild] Iron Core Timber Square","../assets/item_images/[Guild] Iron Core Timber Square.png","Processing"),
+(21,"[Guild] Juicy Fruits","../assets/item_images/[Guild] Juicy Fruits.png","Processing"),
+(22,"[Guild] Old Moon Magic Neutralizer","../assets/item_images/[Guild] Old Moon Magic Neutralizer.png","Processing"),
+(23,"[Guild] Parchment","../assets/item_images/[Guild] Parchment.png","Processing"),
+(24,"[Guild] Phoenix Skin","../assets/item_images/[Guild] Phoenix Skin.png","Processing"),
+(25,"[Guild] Restoration of Cadry's Forbidden Book","../assets/item_images/[Guild] Restoration of Cadry's Forbidden Book.png","Processing"),
+(26,"[Guild] Sandy Ingot","../assets/item_images/[Guild] Sandy Ingot.png","Processing"),
+(27,"[Guild] Sea Horn","../assets/item_images/[Guild] Sea Horn.png","Processing"),
+(28,"[Guild] Seal","../assets/item_images/[Guild] Seal.png","Processing"),
+(29,"[Guild] Soft Hay","../assets/item_images/[Guild] Soft Hay.png","Processing"),
+(30,"[Guild] Spirit-laden Plywood","../assets/item_images/[Guild] Spirit-laden Plywood.png","Processing"),
+(31,"[Guild] Sticky Glue","../assets/item_images/[Guild] Sticky Glue.png","Processing"),
+(32,"[Guild] Stormy Rope","../assets/item_images/[Guild] Stormy Rope.png","Processing"),
+(33,"[Guild] Timber for Fixing the Cage","../assets/item_images/[Guild] Timber for Fixing the Cage.png","Processing"),
+(34,"[Guild] Titanium Stud","../assets/item_images/[Guild] Titanium Stud.png","Processing"),
+(35,"[Guild] Tough Silk Thread","../assets/item_images/[Guild] Tough Silk Thread.png","Processing"),
+(36,"[Guild] Vanadium Chain","../assets/item_images/[Guild] Vanadium Chain.png","Processing"),
+(37,"[Guild] Water for Elephant","../assets/item_images/[Guild] Water for Elephant.png","Processing"),
+(38,"[Guild] Wax","../assets/item_images/[Guild] Wax.png","Processing"),
+(39,"[Guild] Wind-laden Flax Cloth","../assets/item_images/[Guild] Wind-laden Flax Cloth.png","Processing"),
+(40,"[Party] Agile Seal Elixir","../assets/item_images/[Party] Agile Seal Elixir.png","Processing"),
+(41,"[Party] Antidote Elixir","../assets/item_images/[Party] Antidote Elixir.png","Processing"),
+(42,"[Party] Brutal Death Elixir","../assets/item_images/[Party] Brutal Death Elixir.png","Processing"),
+(43,"[Party] Defense Elixir","../assets/item_images/[Party] Defense Elixir.png","Processing"),
+(44,"[Party] Elixir of Advanced Concentration","../assets/item_images/[Party] Elixir of Advanced Concentration.png","Processing"),
+(45,"[Party] Elixir of Agile Spells","../assets/item_images/[Party] Elixir of Agile Spells.png","Processing"),
+(46,"[Party] Elixir of Amity","../assets/item_images/[Party] Elixir of Amity.png","Processing"),
+(47,"[Party] Elixir of Assassination","../assets/item_images/[Party] Elixir of Assassination.png","Processing"),
+(48,"[Party] Elixir of Brutal Carnage","../assets/item_images/[Party] Elixir of Brutal Carnage.png","Processing"),
+(49,"[Party] Elixir of Brutal Perforation","../assets/item_images/[Party] Elixir of Brutal Perforation.png","Processing"),
+(50,"[Party] Elixir of Burn Removal","../assets/item_images/[Party] Elixir of Burn Removal.png","Processing"),
+(51,"[Party] Elixir of Carnage","../assets/item_images/[Party] Elixir of Carnage.png","Processing"),
+(52,"[Party] Elixir of Clear Mentality","../assets/item_images/[Party] Elixir of Clear Mentality.png","Processing"),
+(53,"[Party] Elixir of Concentration","../assets/item_images/[Party] Elixir of Concentration.png","Processing"),
+(54,"[Party] Elixir of Death","../assets/item_images/[Party] Elixir of Death.png","Processing"),
+(55,"[Party] Elixir of Demihuman Hunt","../assets/item_images/[Party] Elixir of Demihuman Hunt.png","Processing"),
+(56,"[Party] Elixir of Detection","../assets/item_images/[Party] Elixir of Detection.png","Processing"),
+(57,"[Party] Elixir of Draining","../assets/item_images/[Party] Elixir of Draining.png","Processing"),
+(58,"[Party] Elixir of Endless Frenzy","../assets/item_images/[Party] Elixir of Endless Frenzy.png","Processing"),
+(59,"[Party] Elixir of Endless Fury","../assets/item_images/[Party] Elixir of Endless Fury.png","Processing"),
+(60,"[Party] Elixir of Endurance","../assets/item_images/[Party] Elixir of Endurance.png","Processing"),
+(61,"[Party] Elixir of Energy","../assets/item_images/[Party] Elixir of Energy.png","Processing"),
+(62,"[Party] Elixir of Expert Training","../assets/item_images/[Party] Elixir of Expert Training.png","Processing"),
+(63,"[Party] Elixir of Flowing Time","../assets/item_images/[Party] Elixir of Flowing Time.png","Processing"),
+(64,"[Party] Elixir of Flowing Wind","../assets/item_images/[Party] Elixir of Flowing Wind.png","Processing"),
+(65,"[Party] Elixir of Frenzy","../assets/item_images/[Party] Elixir of Frenzy.png","Processing"),
+(66,"[Party] Elixir of Fury","../assets/item_images/[Party] Elixir of Fury.png","Processing"),
+(67,"[Party] Elixir of Hemostasis","../assets/item_images/[Party] Elixir of Hemostasis.png","Processing"),
+(68,"[Party] Elixir of Human Hunt","../assets/item_images/[Party] Elixir of Human Hunt.png","Processing"),
+(69,"[Party] Elixir of Intrepid Swiftness","../assets/item_images/[Party] Elixir of Intrepid Swiftness.png","Processing"),
+(70,"[Party] Elixir of Lethal Assassin","../assets/item_images/[Party] Elixir of Lethal Assassin.png","Processing"),
+(71,"[Party] Elixir of Life","../assets/item_images/[Party] Elixir of Life.png","Processing"),
+(72,"[Party] Elixir of Mentality","../assets/item_images/[Party] Elixir of Mentality.png","Processing"),
+(73,"[Party] Elixir of Overwhelming Endurance","../assets/item_images/[Party] Elixir of Overwhelming Endurance.png","Processing"),
+(74,"[Party] Elixir of Perfect Human Hunt","../assets/item_images/[Party] Elixir of Perfect Human Hunt.png","Processing"),
+(75,"[Party] Elixir of Perforation","../assets/item_images/[Party] Elixir of Perforation.png","Processing"),
+(76,"[Party] Elixir of Remarkable Will","../assets/item_images/[Party] Elixir of Remarkable Will.png","Processing"),
+(77,"[Party] Elixir of Resistance","../assets/item_images/[Party] Elixir of Resistance.png","Processing"),
+(78,"[Party] Elixir of Seal","../assets/item_images/[Party] Elixir of Seal.png","Processing"),
+(79,"[Party] Elixir of Sharp Detection","../assets/item_images/[Party] Elixir of Sharp Detection.png","Processing"),
+(80,"[Party] Elixir of Sharp Resistance","../assets/item_images/[Party] Elixir of Sharp Resistance.png","Processing"),
+(81,"[Party] Elixir of Sharp Thorn","../assets/item_images/[Party] Elixir of Sharp Thorn.png","Processing"),
+(82,"[Party] Elixir of Shock","../assets/item_images/[Party] Elixir of Shock.png","Processing"),
+(83,"[Party] Elixir of Sky","../assets/item_images/[Party] Elixir of Sky.png","Processing"),
+(84,"[Party] Elixir of Spells","../assets/item_images/[Party] Elixir of Spells.png","Processing"),
+(85,"[Party] Elixir of Steel Defense","../assets/item_images/[Party] Elixir of Steel Defense.png","Processing"),
+(86,"[Party] Elixir of Strong Draining","../assets/item_images/[Party] Elixir of Strong Draining.png","Processing"),
+(87,"[Party] Elixir of Strong Life","../assets/item_images/[Party] Elixir of Strong Life.png","Processing"),
+(88,"[Party] Elixir of Strong Shock","../assets/item_images/[Party] Elixir of Strong Shock.png","Processing"),
+(89,"[Party] Elixir of Swiftness","../assets/item_images/[Party] Elixir of Swiftness.png","Processing"),
+(90,"[Party] Elixir of Thorn","../assets/item_images/[Party] Elixir of Thorn.png","Processing"),
+(91,"[Party] Elixir of Time","../assets/item_images/[Party] Elixir of Time.png","Processing"),
+(92,"[Party] Elixir of Training","../assets/item_images/[Party] Elixir of Training.png","Processing"),
+(93,"[Party] Elixir of Will","../assets/item_images/[Party] Elixir of Will.png","Processing"),
+(94,"[Party] Elixir of Wind","../assets/item_images/[Party] Elixir of Wind.png","Processing"),
+(95,"[Party] Elixir of Wings","../assets/item_images/[Party] Elixir of Wings.png","Processing"),
+(96,"[Party] EXP Elixir","../assets/item_images/[Party] EXP Elixir.png","Processing"),
+(97,"[Party] Fierce Demihuman Hunting Elixir","../assets/item_images/[Party] Fierce Demihuman Hunting Elixir.png","Processing"),
+(98,"[Party] Fisher's Elixir","../assets/item_images/[Party] Fisher's Elixir.png","Processing"),
+(99,"[Party] Glorious Golden Hand Elixir","../assets/item_images/[Party] Glorious Golden Hand Elixir.png","Processing"),
+(100,"[Party] Golden Hand Elixir","../assets/item_images/[Party] Golden Hand Elixir.png","Processing"),
+(101,"[Party] Griffon's Elixir","../assets/item_images/[Party] Griffon's Elixir.png","Processing"),
+(102,"[Party] Grim Reaper's Elixir","../assets/item_images/[Party] Grim Reaper's Elixir.png","Processing"),
+(103,"[Party] Grim Soul Reaper's Elixir","../assets/item_images/[Party] Grim Soul Reaper's Elixir.png","Processing"),
+(104,"[Party] Improved Elixir of Amity","../assets/item_images/[Party] Improved Elixir of Amity.png","Processing"),
+(105,"[Party] Looney Elixir","../assets/item_images/[Party] Looney Elixir.png","Processing"),
+(106,"[Party] Merciless Sky Elixir","../assets/item_images/[Party] Merciless Sky Elixir.png","Processing"),
+(107,"[Party] Reliable Looney Elixir","../assets/item_images/[Party] Reliable Looney Elixir.png","Processing"),
+(108,"[Party] Resurrection Elixir","../assets/item_images/[Party] Resurrection Elixir.png","Processing"),
+(109,"[Party] Skilled Fisher's Elixir","../assets/item_images/[Party] Skilled Fisher's Elixir.png","Processing"),
+(110,"[Party] Skilled Worker's Elixir","../assets/item_images/[Party] Skilled Worker's Elixir.png","Processing"),
+(111,"[Party] Soaring Wings Elixir","../assets/item_images/[Party] Soaring Wings Elixir.png","Processing"),
+(112,"[Party] Splendid EXP Elixir","../assets/item_images/[Party] Splendid EXP Elixir.png","Processing"),
+(113,"[Party] Strong Griffon's Elixir","../assets/item_images/[Party] Strong Griffon's Elixir.png","Processing"),
+(114,"[Party] Strong Resurrection Elixir","../assets/item_images/[Party] Strong Resurrection Elixir.png","Processing"),
+(115,"[Party] Surging Energy Elixir","../assets/item_images/[Party] Surging Energy Elixir.png","Processing"),
+(116,"[Party] Surging Weenie Elixir","../assets/item_images/[Party] Surging Weenie Elixir.png","Processing"),
+(117,"[Party] Weenie Elixir","../assets/item_images/[Party] Weenie Elixir.png","Processing"),
+(118,"[Party] Worker's Elixir","../assets/item_images/[Party] Worker's Elixir.png","Processing"),
+(119,"[Simple Cooking] Cacao Powder","../assets/item_images/[Simple Cooking] Cacao Powder.png","Processing"),
+(120,"Acacia Plank","../assets/item_images/Acacia Plank.png","Processing"),
+(121,"Acacia Plywood","../assets/item_images/Acacia Plywood.png","Processing"),
+(122,"Agile Seal Elixir","../assets/item_images/Agile Seal Elixir.png","Processing"),
+(123,"Alchemy Stone Shard","../assets/item_images/Alchemy Stone Shard.png","Processing"),
+(124,"Ancient Spirit's Crystal - Swiftness","../assets/item_images/Ancient Spirit's Crystal - Swiftness.png","Processing"),
+(125,"Ancient Spirit's Crystal - Valor","../assets/item_images/Ancient Spirit's Crystal - Valor.png","Processing"),
+(126,"Ancient Spirit's Crystal - Viper","../assets/item_images/Ancient Spirit's Crystal - Viper.png","Processing"),
+(127,"Apprentice's Alchemy Box","../assets/item_images/Apprentice's Alchemy Box.png","Processing"),
+(128,"Apprentice's Boiled Egg Cooking Box","../assets/item_images/Apprentice's Boiled Egg Cooking Box.png","Processing"),
+(129,"Apprentice's Elixir of Wings Alchemy Box","../assets/item_images/Apprentice's Elixir of Wings Alchemy Box.png","Processing"),
+(130,"Apprentice's Five-Grain Chicken Porridge Cooking Box","../assets/item_images/Apprentice's Five-Grain Chicken Porridge Cooking Box.png","Processing"),
+(131,"Apprentice's Fried Fish Cooking Box","../assets/item_images/Apprentice's Fried Fish Cooking Box.png","Processing"),
+(132,"Artisan's Cheese Gratin Cooking Box","../assets/item_images/Artisan's Cheese Gratin Cooking Box.png","Processing"),
+(133,"Artisan's Desert Dumpling Cooking Box","../assets/item_images/Artisan's Desert Dumpling Cooking Box.png","Processing"),
+(134,"Artisan's Elixir of Carnage Alchemy Box","../assets/item_images/Artisan's Elixir of Carnage Alchemy Box.png","Processing"),
+(135,"Artisan's Elixir of Sky Alchemy Box","../assets/item_images/Artisan's Elixir of Sky Alchemy Box.png","Processing"),
+(136,"Artisan's Grim Reaper's Elixir Alchemy Box","../assets/item_images/Artisan's Grim Reaper's Elixir Alchemy Box.png","Processing"),
+(137,"Artisan's Honey Wine Cooking Box","../assets/item_images/Artisan's Honey Wine Cooking Box.png","Processing"),
+(138,"Artisan's Honeycomb Cookie Cooking Box","../assets/item_images/Artisan's Honeycomb Cookie Cooking Box.png","Processing"),
+(139,"Artisan's Meat Croquette Cooking Box","../assets/item_images/Artisan's Meat Croquette Cooking Box.png","Processing"),
+(140,"Artisan's Precious Alchemy Box","../assets/item_images/Artisan's Precious Alchemy Box.png","Processing"),
+(141,"Artisan's Seafood Pasta Cooking Box","../assets/item_images/Artisan's Seafood Pasta Cooking Box.png","Processing"),
+(142,"Ash Plank","../assets/item_images/Ash Plank.png","Processing"),
+(143,"Ash Plywood","../assets/item_images/Ash Plywood.png","Processing"),
+(144,"Awakened Spirit's Crystal","../assets/item_images/Awakened Spirit's Crystal.png","Processing"),
+(145,"Barley Dough","../assets/item_images/Barley Dough.png","Processing"),
+(146,"Barley Flour","../assets/item_images/Barley Flour.png","Processing"),
+(147,"Beast's Draught","../assets/item_images/Beast's Draught.png","Processing"),
+(148,"Birch Plank","../assets/item_images/Birch Plank.png","Processing"),
+(149,"Birch Plywood","../assets/item_images/Birch Plywood.png","Processing"),
+(150,"Black Crystal","../assets/item_images/Black Crystal.png","Processing"),
+(151,"Black Gold Ingot","../assets/item_images/Black Gold Ingot.png","Processing"),
+(152,"Black Magic Crystal - Addis","../assets/item_images/Black Magic Crystal - Addis.png","Processing"),
+(153,"Black Magic Crystal - Carmae","../assets/item_images/Black Magic Crystal - Carmae.png","Processing"),
+(154,"Black Magic Crystal - Cobelinus","../assets/item_images/Black Magic Crystal - Cobelinus.png","Processing"),
+(155,"Black Magic Crystal - Harphia","../assets/item_images/Black Magic Crystal - Harphia.png","Processing"),
+(156,"Black Magic Crystal - Hystria","../assets/item_images/Black Magic Crystal - Hystria.png","Processing"),
+(157,"Black Magic Crystal - Viper","../assets/item_images/Black Magic Crystal - Viper.png","Processing"),
+(158,"Black Stone (Armor)","../assets/item_images/Black Stone (Armor).png","Processing"),
+(159,"Black Stone (Weapon)","../assets/item_images/Black Stone (Weapon).png","Processing"),
+(160,"Black Stone Powder","../assets/item_images/Black Stone Powder.png","Processing"),
+(161,"Blood Ruby","../assets/item_images/Blood Ruby.png","Processing"),
+(162,"Blue Coral","../assets/item_images/Blue Coral.png","Processing"),
+(163,"Blue Crystal","../assets/item_images/Blue Crystal.png","Processing"),
+(164,"Boiled Bird Eggs","../assets/item_images/Boiled Bird Eggs.png","Processing"),
+(165,"Brass Ingot","../assets/item_images/Brass Ingot.png","Processing"),
+(166,"Breezy White Coral","../assets/item_images/Breezy White Coral.png","Processing"),
+(167,"Brilliant Opal","../assets/item_images/Brilliant Opal.png","Processing"),
+(168,"Bronze Ingot","../assets/item_images/Bronze Ingot.png","Processing"),
+(169,"Brutal Death Elixir","../assets/item_images/Brutal Death Elixir.png","Processing"),
+(170,"Butter","../assets/item_images/Butter.png","Processing"),
+(171,"Byproduct Fertilizer","../assets/item_images/Byproduct Fertilizer.png","Processing"),
+(172,"Caphras Stone","../assets/item_images/Caphras Stone.png","Processing"),
+(173,"Cedar Plank","../assets/item_images/Cedar Plank.png","Processing"),
+(174,"Cedar Plywood","../assets/item_images/Cedar Plywood.png","Processing"),
+(175,"Cheese","../assets/item_images/Cheese.png","Processing"),
+(176,"Cheese Gratin","../assets/item_images/Cheese Gratin.png","Processing"),
+(177,"Chicken Feed","../assets/item_images/Chicken Feed.png","Processing"),
+(178,"Clear Liquid Reagent","../assets/item_images/Clear Liquid Reagent.png","Processing"),
+(179,"Concentrated Grain Juice","../assets/item_images/Concentrated Grain Juice.png","Processing"),
+(180,"Concentrated Herbal Juice","../assets/item_images/Concentrated Herbal Juice.png","Processing"),
+(181,"Concentrated Magical Black Stone (Armor)","../assets/item_images/Concentrated Magical Black Stone (Armor).png","Processing"),
+(182,"Concentrated Magical Black Stone (Weapon)","../assets/item_images/Concentrated Magical Black Stone (Weapon).png","Processing"),
+(183,"Cooking Honey","../assets/item_images/Cooking Honey.png","Processing"),
+(184,"Copper Ingot","../assets/item_images/Copper Ingot.png","Processing"),
+(185,"Corn Dough","../assets/item_images/Corn Dough.png","Processing"),
+(186,"Corn Flour","../assets/item_images/Corn Flour.png","Processing"),
+(187,"Cotton Fabric","../assets/item_images/Cotton Fabric.png","Processing"),
+(188,"Cotton Yarn","../assets/item_images/Cotton Yarn.png","Processing"),
+(189,"Cream","../assets/item_images/Cream.png","Processing"),
+(190,"Dark Pudding","../assets/item_images/Dark Pudding.png","Processing"),
+(191,"Dark Red Fang Crystal - Armor","../assets/item_images/Dark Red Fang Crystal - Armor.png","Processing"),
+(192,"Dark Red Fang Crystal - Valor","../assets/item_images/Dark Red Fang Crystal - Valor.png","Processing"),
+(193,"Daybreak Blue Coral","../assets/item_images/Daybreak Blue Coral.png","Processing"),
+(194,"Desert Dumpling","../assets/item_images/Desert Dumpling.png","Processing"),
+(195,"Devourer Helmet","../assets/item_images/Devourer Helmet.png","Processing"),
+(196,"Diamond","../assets/item_images/Diamond.png","Processing"),
+(197,"Distilled Water","../assets/item_images/Distilled Water.png","Processing"),
+(198,"Dried Abalone","../assets/item_images/Dried Abalone.png","Processing"),
+(199,"Dried Amberjack","../assets/item_images/Dried Amberjack.png","Processing"),
+(200,"Dried Amur Minnow","../assets/item_images/Dried Amur Minnow.png","Processing"),
+(201,"Dried Angler","../assets/item_images/Dried Angler.png","Processing"),
+(202,"Dried Arowana","../assets/item_images/Dried Arowana.png","Processing"),
+(203,"Dried Atka Mackerel","../assets/item_images/Dried Atka Mackerel.png","Processing"),
+(204,"Dried Barbel Steed","../assets/item_images/Dried Barbel Steed.png","Processing"),
+(205,"Dried Bass","../assets/item_images/Dried Bass.png","Processing"),
+(206,"Dried Beltfish","../assets/item_images/Dried Beltfish.png","Processing"),
+(207,"Dried Bigeye","../assets/item_images/Dried Bigeye.png","Processing"),
+(208,"Dried Bitterling","../assets/item_images/Dried Bitterling.png","Processing"),
+(209,"Dried Blackfin Sweeper","../assets/item_images/Dried Blackfin Sweeper.png","Processing"),
+(210,"Dried Bleeker","../assets/item_images/Dried Bleeker.png","Processing"),
+(211,"Dried Blue Tang","../assets/item_images/Dried Blue Tang.png","Processing"),
+(212,"Dried Bluefish","../assets/item_images/Dried Bluefish.png","Processing"),
+(213,"Dried Bluegill","../assets/item_images/Dried Bluegill.png","Processing"),
+(214,"Dried Bubble Eye","../assets/item_images/Dried Bubble Eye.png","Processing"),
+(215,"Dried Butterflyfish","../assets/item_images/Dried Butterflyfish.png","Processing"),
+(216,"Dried Carp","../assets/item_images/Dried Carp.png","Processing"),
+(217,"Dried Catfish","../assets/item_images/Dried Catfish.png","Processing"),
+(218,"Dried Cero","../assets/item_images/Dried Cero.png","Processing"),
+(219,"Dried Checkerboard Wrasse","../assets/item_images/Dried Checkerboard Wrasse.png","Processing"),
+(220,"Dried Cherry Salmon","../assets/item_images/Dried Cherry Salmon.png","Processing"),
+(221,"Dried Clownfish","../assets/item_images/Dried Clownfish.png","Processing"),
+(222,"Dried Common Minnow","../assets/item_images/Dried Common Minnow.png","Processing"),
+(223,"Dried Crab","../assets/item_images/Dried Crab.png","Processing"),
+(224,"Dried Crawfish","../assets/item_images/Dried Crawfish.png","Processing"),
+(225,"Dried Croaker","../assets/item_images/Dried Croaker.png","Processing"),
+(226,"Dried Crucian Carp","../assets/item_images/Dried Crucian Carp.png","Processing"),
+(227,"Dried Cuttlefish","../assets/item_images/Dried Cuttlefish.png","Processing"),
+(228,"Dried Cuvier","../assets/item_images/Dried Cuvier.png","Processing"),
+(229,"Dried Dace","../assets/item_images/Dried Dace.png","Processing"),
+(230,"Dried Diamond Minnow","../assets/item_images/Dried Diamond Minnow.png","Processing"),
+(231,"Dried Diamond Starfish","../assets/item_images/Dried Diamond Starfish.png","Processing"),
+(232,"Dried Dollarfish","../assets/item_images/Dried Dollarfish.png","Processing"),
+(233,"Dried Dolphinfish","../assets/item_images/Dried Dolphinfish.png","Processing"),
+(234,"Dried Filefish","../assets/item_images/Dried Filefish.png","Processing"),
+(235,"Dried Flatfish","../assets/item_images/Dried Flatfish.png","Processing"),
+(236,"Dried Flounder","../assets/item_images/Dried Flounder.png","Processing"),
+(237,"Dried Flying Fish","../assets/item_images/Dried Flying Fish.png","Processing"),
+(238,"Dried Fourfinger Threadfin","../assets/item_images/Dried Fourfinger Threadfin.png","Processing"),
+(239,"Dried Freshwater Eel","../assets/item_images/Dried Freshwater Eel.png","Processing"),
+(240,"Dried Goby Minnow","../assets/item_images/Dried Goby Minnow.png","Processing"),
+(241,"Dried Golden-Thread","../assets/item_images/Dried Golden-Thread.png","Processing"),
+(242,"Dried Grayling","../assets/item_images/Dried Grayling.png","Processing"),
+(243,"Dried Greenling","../assets/item_images/Dried Greenling.png","Processing"),
+(244,"Dried Grouper","../assets/item_images/Dried Grouper.png","Processing"),
+(245,"Dried Grunt","../assets/item_images/Dried Grunt.png","Processing"),
+(246,"Dried Gunnel","../assets/item_images/Dried Gunnel.png","Processing"),
+(247,"Dried Gurnard","../assets/item_images/Dried Gurnard.png","Processing"),
+(248,"Dried Herring","../assets/item_images/Dried Herring.png","Processing"),
+(249,"Dried Horn Fish","../assets/item_images/Dried Horn Fish.png","Processing"),
+(250,"Dried Jellyfish","../assets/item_images/Dried Jellyfish.png","Processing"),
+(251,"Dried John Dory","../assets/item_images/Dried John Dory.png","Processing"),
+(252,"Dried Kuhlia Marginata","../assets/item_images/Dried Kuhlia Marginata.png","Processing"),
+(253,"Dried Leather Carp","../assets/item_images/Dried Leather Carp.png","Processing"),
+(254,"Dried Lenok","../assets/item_images/Dried Lenok.png","Processing"),
+(255,"Dried Lobster","../assets/item_images/Dried Lobster.png","Processing"),
+(256,"Dried Mackerel","../assets/item_images/Dried Mackerel.png","Processing"),
+(257,"Dried Mackerel Pike","../assets/item_images/Dried Mackerel Pike.png","Processing"),
+(258,"Dried Mandarin Fish","../assets/item_images/Dried Mandarin Fish.png","Processing"),
+(259,"Dried Maomao","../assets/item_images/Dried Maomao.png","Processing"),
+(260,"Dried Miho Spine Loach","../assets/item_images/Dried Miho Spine Loach.png","Processing"),
+(261,"Dried Moray","../assets/item_images/Dried Moray.png","Processing"),
+(262,"Dried Mudfish","../assets/item_images/Dried Mudfish.png","Processing"),
+(263,"Dried Mudskipper","../assets/item_images/Dried Mudskipper.png","Processing"),
+(264,"Dried Mullet","../assets/item_images/Dried Mullet.png","Processing"),
+(265,"Dried Nibbler","../assets/item_images/Dried Nibbler.png","Processing"),
+(266,"Dried Notch Jaw","../assets/item_images/Dried Notch Jaw.png","Processing"),
+(267,"Dried Octopus","../assets/item_images/Dried Octopus.png","Processing"),
+(268,"Dried Pacu","../assets/item_images/Dried Pacu.png","Processing"),
+(269,"Dried Pearl Oyster Flesh","../assets/item_images/Dried Pearl Oyster Flesh.png","Processing"),
+(270,"Dried Perch","../assets/item_images/Dried Perch.png","Processing"),
+(271,"Dried Pintado","../assets/item_images/Dried Pintado.png","Processing"),
+(272,"Dried Piranha","../assets/item_images/Dried Piranha.png","Processing"),
+(273,"Dried Pomfret","../assets/item_images/Dried Pomfret.png","Processing"),
+(274,"Dried Porcupine Fish","../assets/item_images/Dried Porcupine Fish.png","Processing"),
+(275,"Dried Porgy","../assets/item_images/Dried Porgy.png","Processing"),
+(276,"Dried Ray","../assets/item_images/Dried Ray.png","Processing"),
+(277,"Dried Rock Hind","../assets/item_images/Dried Rock Hind.png","Processing"),
+(278,"Dried Rockfish","../assets/item_images/Dried Rockfish.png","Processing"),
+(279,"Dried Rosefish","../assets/item_images/Dried Rosefish.png","Processing"),
+(280,"Dried Rosy Bitterling","../assets/item_images/Dried Rosy Bitterling.png","Processing"),
+(281,"Dried Round Herring","../assets/item_images/Dried Round Herring.png","Processing"),
+(282,"Dried Roundtail Paradisefish","../assets/item_images/Dried Roundtail Paradisefish.png","Processing"),
+(283,"Dried Salmon","../assets/item_images/Dried Salmon.png","Processing"),
+(284,"Dried Sandeel","../assets/item_images/Dried Sandeel.png","Processing"),
+(285,"Dried Sandfish","../assets/item_images/Dried Sandfish.png","Processing"),
+(286,"Dried Sardine","../assets/item_images/Dried Sardine.png","Processing"),
+(287,"Dried Saurel","../assets/item_images/Dried Saurel.png","Processing"),
+(288,"Dried Scorpion Fish","../assets/item_images/Dried Scorpion Fish.png","Processing"),
+(289,"Dried Sea Bass","../assets/item_images/Dried Sea Bass.png","Processing"),
+(290,"Dried Sea Eel","../assets/item_images/Dried Sea Eel.png","Processing"),
+(291,"Dried Seahorse","../assets/item_images/Dried Seahorse.png","Processing"),
+(292,"Dried Shellfish","../assets/item_images/Dried Shellfish.png","Processing"),
+(293,"Dried Siganid","../assets/item_images/Dried Siganid.png","Processing"),
+(294,"Dried Silver Stripe Round Herring","../assets/item_images/Dried Silver Stripe Round Herring.png","Processing"),
+(295,"Dried Skipjack","../assets/item_images/Dried Skipjack.png","Processing"),
+(296,"Dried Smelt","../assets/item_images/Dried Smelt.png","Processing"),
+(297,"Dried Smokey Chromis","../assets/item_images/Dried Smokey Chromis.png","Processing"),
+(298,"Dried Snakehead","../assets/item_images/Dried Snakehead.png","Processing"),
+(299,"Dried Soho Bitterling","../assets/item_images/Dried Soho Bitterling.png","Processing"),
+(300,"Dried Spotted Barbel","../assets/item_images/Dried Spotted Barbel.png","Processing"),
+(301,"Dried Squid","../assets/item_images/Dried Squid.png","Processing"),
+(302,"Dried Starfish","../assets/item_images/Dried Starfish.png","Processing"),
+(303,"Dried Striped Catfish","../assets/item_images/Dried Striped Catfish.png","Processing"),
+(304,"Dried Striped Shiner","../assets/item_images/Dried Striped Shiner.png","Processing"),
+(305,"Dried Stumpy Bullhead","../assets/item_images/Dried Stumpy Bullhead.png","Processing"),
+(306,"Dried Sturgeon","../assets/item_images/Dried Sturgeon.png","Processing"),
+(307,"Dried Sunfish","../assets/item_images/Dried Sunfish.png","Processing"),
+(308,"Dried Surfperch","../assets/item_images/Dried Surfperch.png","Processing"),
+(309,"Dried Sweetfish","../assets/item_images/Dried Sweetfish.png","Processing"),
+(310,"Dried Swellfish","../assets/item_images/Dried Swellfish.png","Processing"),
+(311,"Dried Swiri","../assets/item_images/Dried Swiri.png","Processing"),
+(312,"Dried Swordfish","../assets/item_images/Dried Swordfish.png","Processing"),
+(313,"Dried Tapertail Anchovy","../assets/item_images/Dried Tapertail Anchovy.png","Processing"),
+(314,"Dried Terrapin","../assets/item_images/Dried Terrapin.png","Processing"),
+(315,"Dried Tilefish","../assets/item_images/Dried Tilefish.png","Processing"),
+(316,"Dried Tongue Sole","../assets/item_images/Dried Tongue Sole.png","Processing"),
+(317,"Dried Trout","../assets/item_images/Dried Trout.png","Processing"),
+(318,"Dried Tuna","../assets/item_images/Dried Tuna.png","Processing"),
+(319,"Dried Whiting","../assets/item_images/Dried Whiting.png","Processing"),
+(320,"Dried Yellow-Head Catfish","../assets/item_images/Dried Yellow-Head Catfish.png","Processing"),
+(321,"Dried Yellowfin Sculpin","../assets/item_images/Dried Yellowfin Sculpin.png","Processing"),
+(322,"Elder Tree Plank","../assets/item_images/Elder Tree Plank.png","Processing"),
+(323,"Elder Tree Plywood","../assets/item_images/Elder Tree Plywood.png","Processing"),
+(324,"Elixir of Advanced Concentration","../assets/item_images/Elixir of Advanced Concentration.png","Processing"),
+(325,"Elixir of Agile Spells","../assets/item_images/Elixir of Agile Spells.png","Processing"),
+(328,"Elixir of Brutal Carnage","../assets/item_images/Elixir of Brutal Carnage.png","Processing"),
+(329,"Elixir of Brutal Perforation","../assets/item_images/Elixir of Brutal Perforation.png","Processing"),
+(331,"Elixir of Clear Mentality","../assets/item_images/Elixir of Clear Mentality.png","Processing"),
+(335,"Elixir of Endless Frenzy","../assets/item_images/Elixir of Endless Frenzy.png","Processing"),
+(336,"Elixir of Endless Fury","../assets/item_images/Elixir of Endless Fury.png","Processing"),
+(338,"Elixir of Expert Training","../assets/item_images/Elixir of Expert Training.png","Processing"),
+(339,"Elixir of Flowing Time","../assets/item_images/Elixir of Flowing Time.png","Processing"),
+(340,"Elixir of Flowing Wind","../assets/item_images/Elixir of Flowing Wind.png","Processing"),
+(342,"Elixir of Intrepid Swiftness","../assets/item_images/Elixir of Intrepid Swiftness.png","Processing"),
+(343,"Elixir of Lethal Assassin","../assets/item_images/Elixir of Lethal Assassin.png","Processing"),
+(345,"Elixir of Overwhelming Endurance","../assets/item_images/Elixir of Overwhelming Endurance.png","Processing"),
+(346,"Elixir of Perfect Human Hunt","../assets/item_images/Elixir of Perfect Human Hunt.png","Processing"),
+(348,"Elixir of Remarkable Will","../assets/item_images/Elixir of Remarkable Will.png","Processing"),
+(350,"Elixir of Sharp Detection","../assets/item_images/Elixir of Sharp Detection.png","Processing"),
+(351,"Elixir of Sharp Resistance","../assets/item_images/Elixir of Sharp Resistance.png","Processing"),
+(352,"Elixir of Sharp Thorn","../assets/item_images/Elixir of Sharp Thorn.png","Processing"),
+(354,"Elixir of Steel Defense","../assets/item_images/Elixir of Steel Defense.png","Processing"),
+(355,"Elixir of Strong Draining","../assets/item_images/Elixir of Strong Draining.png","Processing"),
+(356,"Elixir of Strong Life","../assets/item_images/Elixir of Strong Life.png","Processing"),
+(357,"Elixir of Strong Shock","../assets/item_images/Elixir of Strong Shock.png","Processing"),
+(361,"Emerald","../assets/item_images/Emerald.png","Processing"),
+(362,"Emergency Ship Repair Kit","../assets/item_images/Emergency Ship Repair Kit.png","Processing"),
+(363,"Enhanced Flax Fabric","../assets/item_images/Enhanced Flax Fabric.png","Processing"),
+(364,"Exquisite Cron Meal","../assets/item_images/Exquisite Cron Meal.png","Processing"),
+(365,"Fancy Feather","../assets/item_images/Fancy Feather.png","Processing"),
+(366,"Fancy Reptile Skin","../assets/item_images/Fancy Reptile Skin.png","Processing"),
+(367,"Fierce Demihuman Hunting Elixir","../assets/item_images/Fierce Demihuman Hunting Elixir.png","Processing"),
+(368,"Fine Fancy Feather","../assets/item_images/Fine Fancy Feather.png","Processing"),
+(369,"Fine Fancy Reptile Skin","../assets/item_images/Fine Fancy Reptile Skin.png","Processing"),
+(370,"Fine Hard Hide","../assets/item_images/Fine Hard Hide.png","Processing"),
+(371,"Fine Lightweight Plume","../assets/item_images/Fine Lightweight Plume.png","Processing"),
+(372,"Fine Soft Hide","../assets/item_images/Fine Soft Hide.png","Processing"),
+(373,"Fine Thick Fur","../assets/item_images/Fine Thick Fur.png","Processing"),
+(374,"Fine Thin Hide","../assets/item_images/Fine Thin Hide.png","Processing"),
+(375,"Fine Tough Hide","../assets/item_images/Fine Tough Hide.png","Processing"),
+(376,"Fir Plank","../assets/item_images/Fir Plank.png","Processing"),
+(377,"Fir Plywood","../assets/item_images/Fir Plywood.png","Processing"),
+(378,"Fish Fillet Chips","../assets/item_images/Fish Fillet Chips.png","Processing"),
+(379,"Flax Fabric","../assets/item_images/Flax Fabric.png","Processing"),
+(380,"Flax Thread","../assets/item_images/Flax Thread.png","Processing"),
+(381,"Forest Emerald","../assets/item_images/Forest Emerald.png","Processing"),
+(382,"Fragrant Jerky","../assets/item_images/Fragrant Jerky.png","Processing"),
+(383,"Freekeh Flour","../assets/item_images/Freekeh Flour.png","Processing"),
+(384,"Freekeh Flour Dough","../assets/item_images/Freekeh Flour Dough.png","Processing"),
+(385,"Fried Fish","../assets/item_images/Fried Fish.png","Processing"),
+(386,"Fruit Pudding","../assets/item_images/Fruit Pudding.png","Processing"),
+(387,"Giant's Draught","../assets/item_images/Giant's Draught.png","Processing"),
+(388,"Glorious Golden Hand Elixir","../assets/item_images/Glorious Golden Hand Elixir.png","Processing"),
+(389,"Glue","../assets/item_images/Glue.png","Processing"),
+(390,"Gold Ingot","../assets/item_images/Gold Ingot.png","Processing"),
+(391,"Gold Topaz","../assets/item_images/Gold Topaz.png","Processing"),
+(392,"Golden Coral","../assets/item_images/Golden Coral.png","Processing"),
+(394,"Golden Sun Coral","../assets/item_images/Golden Sun Coral.png","Processing"),
+(395,"Grain Juice","../assets/item_images/Grain Juice.png","Processing"),
+(396,"Green Coral","../assets/item_images/Green Coral.png","Processing"),
+(397,"Green Crystal","../assets/item_images/Green Crystal.png","Processing"),
+(399,"Grim Soul Reaper's Elixir","../assets/item_images/Grim Soul Reaper's Elixir.png","Processing"),
+(400,"Ground Bird Meat","../assets/item_images/Ground Bird Meat.png","Processing"),
+(401,"Ham Sandwich","../assets/item_images/Ham Sandwich.png","Processing"),
+(402,"HAN Magic Crystal - Gervish","../assets/item_images/HAN Magic Crystal - Gervish.png","Processing"),
+(403,"HAN Magic Crystal - Hoom","../assets/item_images/HAN Magic Crystal - Hoom.png","Processing"),
+(404,"HAN Magic Crystal - Macalod","../assets/item_images/HAN Magic Crystal - Macalod.png","Processing"),
+(405,"Hard Black Crystal Shard","../assets/item_images/Hard Black Crystal Shard.png","Processing"),
+(406,"Hard Hide","../assets/item_images/Hard Hide.png","Processing"),
+(407,"Hard Pillar","../assets/item_images/Hard Pillar.png","Processing"),
+(408,"Haystack","../assets/item_images/Haystack.png","Processing"),
+(409,"Healing Stone","../assets/item_images/Healing Stone.png","Processing"),
+(410,"Herbal Juice","../assets/item_images/Herbal Juice.png","Processing"),
+(411,"Highly Concentrated Grain Juice","../assets/item_images/Highly Concentrated Grain Juice.png","Processing"),
+(412,"Highly Concentrated Herbal Juice","../assets/item_images/Highly Concentrated Herbal Juice.png","Processing"),
+(413,"Holiday Gift Box","../assets/item_images/Holiday Gift Box.png","Processing"),
+(414,"Honey Wine","../assets/item_images/Honey Wine.png","Processing"),
+(415,"Honeycomb Cookie","../assets/item_images/Honeycomb Cookie.png","Processing"),
+(416,"HP Potion (Extra Large)","../assets/item_images/HP Potion (Extra Large).png","Processing"),
+(417,"HP Potion (Large)","../assets/item_images/HP Potion (Large).png","Processing"),
+(418,"HP Potion (Medium)","../assets/item_images/HP Potion (Medium).png","Processing"),
+(419,"Improved Elixir of Amity","../assets/item_images/Improved Elixir of Amity.png","Processing"),
+(420,"Indigo Lapis Lazuli","../assets/item_images/Indigo Lapis Lazuli.png","Processing"),
+(421,"Inorganic Fertilizer","../assets/item_images/Inorganic Fertilizer.png","Processing"),
+(422,"Insectivore Plant Powder","../assets/item_images/Insectivore Plant Powder.png","Processing"),
+(423,"Insectivore Plant Sap","../assets/item_images/Insectivore Plant Sap.png","Processing"),
+(424,"Inverted Heart of Garmoth","../assets/item_images/Inverted Heart of Garmoth.png","Processing"),
+(425,"Iron Ingot","../assets/item_images/Iron Ingot.png","Processing"),
+(426,"Jade Coral Ingot","../assets/item_images/Jade Coral Ingot.png","Processing"),
+(427,"Kagtunak","../assets/item_images/Kagtunak.png","Processing"),
+(428,"Knitting Yarn","../assets/item_images/Knitting Yarn.png","Processing"),
+(429,"Krogdalo's Origin Stone","../assets/item_images/Krogdalo's Origin Stone.png","Processing"),
+(430,"Lapis Lazuli","../assets/item_images/Lapis Lazuli.png","Processing"),
+(431,"Lavientia's Fancy Box","../assets/item_images/Lavientia's Fancy Box.png","Processing"),
+(432,"Lavientia's Gold Diamond Ring","../assets/item_images/Lavientia's Gold Diamond Ring.png","Processing"),
+(433,"Lavientia's Gold Ring","../assets/item_images/Lavientia's Gold Ring.png","Processing"),
+(434,"Lavientia's Shiny Box","../assets/item_images/Lavientia's Shiny Box.png","Processing"),
+(435,"Lavientia's Silver Diamond Ring","../assets/item_images/Lavientia's Silver Diamond Ring.png","Processing"),
+(436,"Lavientia's Silver Ring","../assets/item_images/Lavientia's Silver Ring.png","Processing"),
+(437,"Lavientia's Splendid Box","../assets/item_images/Lavientia's Splendid Box.png","Processing"),
+(438,"Lead Ingot","../assets/item_images/Lead Ingot.png","Processing"),
+(439,"Lightweight Plume","../assets/item_images/Lightweight Plume.png","Processing"),
+(440,"Loopy Tree Plank","../assets/item_images/Loopy Tree Plank.png","Processing"),
+(441,"Loopy Tree Plywood","../assets/item_images/Loopy Tree Plywood.png","Processing"),
+(442,"Lump of Raw Sugar","../assets/item_images/Lump of Raw Sugar.png","Processing"),
+(443,"Magical Shard","../assets/item_images/Magical Shard.png","Processing"),
+(444,"Manos Hoe","../assets/item_images/Manos Hoe.png","Processing"),
+(445,"Maple Plank","../assets/item_images/Maple Plank.png","Processing"),
+(446,"Maple Plywood","../assets/item_images/Maple Plywood.png","Processing"),
+(447,"Margoria Dark Iron","../assets/item_images/Margoria Dark Iron.png","Processing"),
+(448,"Master's Dark Pudding Cooking Box","../assets/item_images/Master's Dark Pudding Cooking Box.png","Processing"),
+(449,"Master's Elixir of Assassination Alchemy Box","../assets/item_images/Master's Elixir of Assassination Alchemy Box.png","Processing"),
+(450,"Master's Elixir of Death Alchemy Box","../assets/item_images/Master's Elixir of Death Alchemy Box.png","Processing"),
+(451,"Master's Elixir of Detection Alchemy Box","../assets/item_images/Master's Elixir of Detection Alchemy Box.png","Processing"),
+(452,"Master's Elixir of Frenzy Alchemy Box","../assets/item_images/Master's Elixir of Frenzy Alchemy Box.png","Processing"),
+(453,"Master's Elixir of Perforation Alchemy Box","../assets/item_images/Master's Elixir of Perforation Alchemy Box.png","Processing"),
+(454,"Master's Golden Hand Elixir Alchemy Box","../assets/item_images/Master's Golden Hand Elixir Alchemy Box.png","Processing"),
+(455,"Master's Ham Sandwich Cooking Box","../assets/item_images/Master's Ham Sandwich Cooking Box.png","Processing"),
+(456,"Master's Meat Sandwich Cooking Box","../assets/item_images/Master's Meat Sandwich Cooking Box.png","Processing"),
+(457,"Master's Milk Tea Cooking Box","../assets/item_images/Master's Milk Tea Cooking Box.png","Processing"),
+(458,"Master's Sute Tea Cooking Box","../assets/item_images/Master's Sute Tea Cooking Box.png","Processing"),
+(459,"Meat Croquette","../assets/item_images/Meat Croquette.png","Processing"),
+(460,"Meat Pie","../assets/item_images/Meat Pie.png","Processing"),
+(461,"Meat Sandwich","../assets/item_images/Meat Sandwich.png","Processing"),
+(462,"Meat Stew","../assets/item_images/Meat Stew.png","Processing"),
+(463,"Melted Copper Shard","../assets/item_images/Melted Copper Shard.png","Processing"),
+(464,"Melted Gold Shard","../assets/item_images/Melted Gold Shard.png","Processing"),
+(465,"Melted Iron Shard","../assets/item_images/Melted Iron Shard.png","Processing"),
+(466,"Melted Lead Shard","../assets/item_images/Melted Lead Shard.png","Processing"),
+(467,"Melted Mythril Shard","../assets/item_images/Melted Mythril Shard.png","Processing"),
+(468,"Melted Noc Shard","../assets/item_images/Melted Noc Shard.png","Processing"),
+(469,"Melted Platinum Shard","../assets/item_images/Melted Platinum Shard.png","Processing"),
+(470,"Melted Silver Shard","../assets/item_images/Melted Silver Shard.png","Processing"),
+(471,"Melted Tin Shard","../assets/item_images/Melted Tin Shard.png","Processing"),
+(472,"Melted Titanium Shard","../assets/item_images/Melted Titanium Shard.png","Processing"),
+(473,"Melted Vanadium Shard","../assets/item_images/Melted Vanadium Shard.png","Processing"),
+(474,"Melted Zinc Shard","../assets/item_images/Melted Zinc Shard.png","Processing"),
+(475,"Merciless Sky Elixir","../assets/item_images/Merciless Sky Elixir.png","Processing"),
+(476,"Milk Tea","../assets/item_images/Milk Tea.png","Processing"),
+(477,"Moonlight Opal","../assets/item_images/Moonlight Opal.png","Processing"),
+(478,"Moss Tree Plank","../assets/item_images/Moss Tree Plank.png","Processing"),
+(479,"Moss Tree Plywood","../assets/item_images/Moss Tree Plywood.png","Processing"),
+(480,"MP Potion (Extra Large)","../assets/item_images/MP Potion (Extra Large).png","Processing"),
+(481,"MP Potion (Large)","../assets/item_images/MP Potion (Large).png","Processing"),
+(482,"MP Potion (Medium)","../assets/item_images/MP Potion (Medium).png","Processing"),
+(483,"Mud Crystal","../assets/item_images/Mud Crystal.png","Processing"),
+(484,"Mysterious Acacia Seed","../assets/item_images/Mysterious Acacia Seed.png","Processing"),
+(485,"Mysterious Amanita Mushroom Hypha","../assets/item_images/Mysterious Amanita Mushroom Hypha.png","Processing"),
+(486,"Mysterious Ancient Mushroom Hypha","../assets/item_images/Mysterious Ancient Mushroom Hypha.png","Processing"),
+(487,"Mysterious Arrow Mushroom Hypha","../assets/item_images/Mysterious Arrow Mushroom Hypha.png","Processing"),
+(488,"Mysterious Barley Seed","../assets/item_images/Mysterious Barley Seed.png","Processing"),
+(489,"Mysterious Bluffer Mushroom Hypha","../assets/item_images/Mysterious Bluffer Mushroom Hypha.png","Processing"),
+(490,"Mysterious Bouqet Mushroom Hypha","../assets/item_images/Mysterious Bouqet Mushroom Hypha.png","Processing"),
+(491,"Mysterious Carrot Seed","../assets/item_images/Mysterious Carrot Seed.png","Processing"),
+(492,"Mysterious Cloud Mushroom Hypha","../assets/item_images/Mysterious Cloud Mushroom Hypha.png","Processing"),
+(493,"Mysterious Corn Seed","../assets/item_images/Mysterious Corn Seed.png","Processing"),
+(494,"Mysterious Dalvenia Alrea Seed","../assets/item_images/Mysterious Dalvenia Alrea Seed.png","Processing"),
+(495,"Mysterious Dry Mane Grass Seed","../assets/item_images/Mysterious Dry Mane Grass Seed.png","Processing"),
+(496,"Mysterious Dwarf Mushroom Hypha","../assets/item_images/Mysterious Dwarf Mushroom Hypha.png","Processing"),
+(497,"Mysterious Emperor Mushroom Hypha","../assets/item_images/Mysterious Emperor Mushroom Hypha.png","Processing"),
+(498,"Mysterious Everlasting Herb Seed","../assets/item_images/Mysterious Everlasting Herb Seed.png","Processing"),
+(499,"Mysterious Fig Seed","../assets/item_images/Mysterious Fig Seed.png","Processing"),
+(500,"Mysterious Fire Flake Flower Seed","../assets/item_images/Mysterious Fire Flake Flower Seed.png","Processing"),
+(501,"Mysterious Fog Mushroom Hypha","../assets/item_images/Mysterious Fog Mushroom Hypha.png","Processing"),
+(502,"Mysterious Fortune Teller Mushroom Hypha","../assets/item_images/Mysterious Fortune Teller Mushroom Hypha.png","Processing"),
+(503,"Mysterious Freekeh Seed","../assets/item_images/Mysterious Freekeh Seed.png","Processing"),
+(504,"Mysterious Garlic Seed","../assets/item_images/Mysterious Garlic Seed.png","Processing"),
+(505,"Mysterious Ghost Mushroom Hypha","../assets/item_images/Mysterious Ghost Mushroom Hypha.png","Processing"),
+(506,"Mysterious Grape Seed","../assets/item_images/Mysterious Grape Seed.png","Processing"),
+(507,"Mysterious Hot Pepper Seed","../assets/item_images/Mysterious Hot Pepper Seed.png","Processing"),
+(508,"Mysterious Hump Mushroom Hypha","../assets/item_images/Mysterious Hump Mushroom Hypha.png","Processing"),
+(509,"Mysterious Leccinum Hypha","../assets/item_images/Mysterious Leccinum Hypha.png","Processing"),
+(510,"Mysterious Nolina Seed","../assets/item_images/Mysterious Nolina Seed.png","Processing"),
+(511,"Mysterious Nutmeg Seed","../assets/item_images/Mysterious Nutmeg Seed.png","Processing"),
+(512,"Mysterious Olive Seed","../assets/item_images/Mysterious Olive Seed.png","Processing"),
+(513,"Mysterious Onion Seed","../assets/item_images/Mysterious Onion Seed.png","Processing"),
+(514,"Mysterious Paprika Seed","../assets/item_images/Mysterious Paprika Seed.png","Processing"),
+(515,"Mysterious Penestraria Seed","../assets/item_images/Mysterious Penestraria Seed.png","Processing"),
+(516,"Mysterious Pepper Seed","../assets/item_images/Mysterious Pepper Seed.png","Processing"),
+(517,"Mysterious Pie Mushroom Hypha","../assets/item_images/Mysterious Pie Mushroom Hypha.png","Processing"),
+(518,"Mysterious Pumpkin Seed","../assets/item_images/Mysterious Pumpkin Seed.png","Processing"),
+(519,"Mysterious Purple Mushroom Hypha","../assets/item_images/Mysterious Purple Mushroom Hypha.png","Processing"),
+(520,"Mysterious Seed Potato","../assets/item_images/Mysterious Seed Potato.png","Processing"),
+(521,"Mysterious Seed Sweet Potato","../assets/item_images/Mysterious Seed Sweet Potato.png","Processing"),
+(522,"Mysterious Silk Honey Grass Seed","../assets/item_images/Mysterious Silk Honey Grass Seed.png","Processing"),
+(523,"Mysterious Silver Azalea Seed","../assets/item_images/Mysterious Silver Azalea Seed.png","Processing"),
+(524,"Mysterious Sky Mushroom Hypha","../assets/item_images/Mysterious Sky Mushroom Hypha.png","Processing"),
+(525,"Mysterious Star Anise Seed","../assets/item_images/Mysterious Star Anise Seed.png","Processing"),
+(526,"Mysterious Strawberry Seed","../assets/item_images/Mysterious Strawberry Seed.png","Processing"),
+(527,"Mysterious Sunflower Seed","../assets/item_images/Mysterious Sunflower Seed.png","Processing"),
+(528,"Mysterious Sunrise Herb Seed","../assets/item_images/Mysterious Sunrise Herb Seed.png","Processing"),
+(529,"Mysterious Teff Seed","../assets/item_images/Mysterious Teff Seed.png","Processing"),
+(530,"Mysterious Tiger Mushroom Hypha","../assets/item_images/Mysterious Tiger Mushroom Hypha.png","Processing"),
+(531,"Mysterious Tomato Seed","../assets/item_images/Mysterious Tomato Seed.png","Processing"),
+(532,"Mysterious Truffle Mushroom Hypha","../assets/item_images/Mysterious Truffle Mushroom Hypha.png","Processing"),
+(533,"Mysterious Wheat Seed","../assets/item_images/Mysterious Wheat Seed.png","Processing"),
+(534,"Mystical Spirit Powder","../assets/item_images/Mystical Spirit Powder.png","Processing"),
+(535,"Mythril Ingot","../assets/item_images/Mythril Ingot.png","Processing"),
+(536,"Noc Ingot","../assets/item_images/Noc Ingot.png","Processing"),
+(537,"Ocean Sapphire","../assets/item_images/Ocean Sapphire.png","Processing"),
+(538,"Omelet","../assets/item_images/Omelet.png","Processing"),
+(539,"Organic Fertilizer","../assets/item_images/Organic Fertilizer.png","Processing"),
+(540,"Packaged Old Moon Camping Anvil","../assets/item_images/Packaged Old Moon Camping Anvil.png","Processing"),
+(541,"Palm Plank","../assets/item_images/Palm Plank.png","Processing"),
+(542,"Palm Plywood","../assets/item_images/Palm Plywood.png","Processing"),
+(543,"Piece of Image","../assets/item_images/Piece of Image.png","Processing"),
+(544,"Pine Coated Plywood","../assets/item_images/Pine Coated Plywood.png","Processing"),
+(545,"Pine Plank","../assets/item_images/Pine Plank.png","Processing"),
+(546,"Pine Plywood","../assets/item_images/Pine Plywood.png","Processing"),
+(547,"Platinum Ingot","../assets/item_images/Platinum Ingot.png","Processing"),
+(548,"Polished Opal","../assets/item_images/Polished Opal.png","Processing"),
+(549,"Polished Stone","../assets/item_images/Polished Stone.png","Processing"),
+(550,"Potato Dough","../assets/item_images/Potato Dough.png","Processing"),
+(551,"Potato Flour","../assets/item_images/Potato Flour.png","Processing"),
+(552,"Prairie Green Coral","../assets/item_images/Prairie Green Coral.png","Processing"),
+(553,"Processed Coal","../assets/item_images/Processed Coal.png","Processing"),
+(554,"Professional's Elixir of Amity Alchemy Box","../assets/item_images/Professional's Elixir of Amity Alchemy Box.png","Processing"),
+(555,"Professional's Elixir of Demihuman Hunt Alchemy Box","../assets/item_images/Professional's Elixir of Demihuman Hunt Alchemy Box.png","Processing"),
+(556,"Professional's Fine Scent Cooking Box","../assets/item_images/Professional's Fine Scent Cooking Box.png","Processing"),
+(557,"Professional's Meat Pie Cooking Box","../assets/item_images/Professional's Meat Pie Cooking Box.png","Processing"),
+(558,"Professional's Omelet Cooking Box","../assets/item_images/Professional's Omelet Cooking Box.png","Processing"),
+(559,"Professional's Secret Alchemy Box","../assets/item_images/Professional's Secret Alchemy Box.png","Processing"),
+(560,"Professional's Steak Cooking Box","../assets/item_images/Professional's Steak Cooking Box.png","Processing"),
+(561,"Professional's Sturdy Alchemy Box","../assets/item_images/Professional's Sturdy Alchemy Box.png","Processing"),
+(562,"Pure Copper Crystal","../assets/item_images/Pure Copper Crystal.png","Processing"),
+(563,"Pure Forest Breath","../assets/item_images/Pure Forest Breath.png","Processing"),
+(564,"Pure Gold Crystal","../assets/item_images/Pure Gold Crystal.png","Processing"),
+(565,"Pure Iron Crystal","../assets/item_images/Pure Iron Crystal.png","Processing"),
+(566,"Pure Lead Crystal","../assets/item_images/Pure Lead Crystal.png","Processing"),
+(567,"Pure Mythril Crystal","../assets/item_images/Pure Mythril Crystal.png","Processing"),
+(568,"Pure Noc Crystal","../assets/item_images/Pure Noc Crystal.png","Processing"),
+(569,"Pure Platinum Crystal","../assets/item_images/Pure Platinum Crystal.png","Processing"),
+(570,"Pure Silver Crystal","../assets/item_images/Pure Silver Crystal.png","Processing"),
+(571,"Pure Tin Crystal","../assets/item_images/Pure Tin Crystal.png","Processing"),
+(572,"Pure Titanium Crystal","../assets/item_images/Pure Titanium Crystal.png","Processing"),
+(573,"Pure Vanadium Crystal","../assets/item_images/Pure Vanadium Crystal.png","Processing"),
+(574,"Pure Zinc Crystal","../assets/item_images/Pure Zinc Crystal.png","Processing"),
+(575,"Purified Water","../assets/item_images/Purified Water.png","Processing"),
+(576,"Rare Jerky","../assets/item_images/Rare Jerky.png","Processing"),
+(577,"Red Battlefield Crystal - Addis","../assets/item_images/Red Battlefield Crystal - Addis.png","Processing"),
+(578,"Red Battlefield Crystal: Adamantine","../assets/item_images/Red Battlefield Crystal: Adamantine.png","Processing"),
+(579,"Red Battlefield Crystal: Carmae","../assets/item_images/Red Battlefield Crystal: Carmae.png","Processing"),
+(580,"Red Battlefield Crystal: Cobelinus","../assets/item_images/Red Battlefield Crystal: Cobelinus.png","Processing"),
+(581,"Red Battlefield Crystal: Harphia","../assets/item_images/Red Battlefield Crystal: Harphia.png","Processing"),
+(582,"Red Battlefield Crystal: Hystria","../assets/item_images/Red Battlefield Crystal: Hystria.png","Processing"),
+(583,"Red Battlefield Crystal: Power","../assets/item_images/Red Battlefield Crystal: Power.png","Processing"),
+(584,"Red Battlefield Crystal: Viper","../assets/item_images/Red Battlefield Crystal: Viper.png","Processing"),
+(585,"Red Coral","../assets/item_images/Red Coral.png","Processing"),
+(586,"Red Crystal","../assets/item_images/Red Crystal.png","Processing"),
+(587,"Red Spirit Crystal","../assets/item_images/Red Spirit Crystal.png","Processing"),
+(588,"Refined Grain Juice","../assets/item_images/Refined Grain Juice.png","Processing"),
+(589,"Refined Herbal Juice","../assets/item_images/Refined Herbal Juice.png","Processing"),
+(590,"Reliable Looney Elixir","../assets/item_images/Reliable Looney Elixir.png","Processing"),
+(591,"Resplendent Diamond","../assets/item_images/Resplendent Diamond.png","Processing"),
+(592,"Resplendent Emerald","../assets/item_images/Resplendent Emerald.png","Processing"),
+(593,"Resplendent Lapis Lazuli","../assets/item_images/Resplendent Lapis Lazuli.png","Processing"),
+(594,"Resplendent Ruby","../assets/item_images/Resplendent Ruby.png","Processing"),
+(595,"Resplendent Sapphire","../assets/item_images/Resplendent Sapphire.png","Processing"),
+(596,"Resplendent Topaz","../assets/item_images/Resplendent Topaz.png","Processing"),
+(597,"Ruby","../assets/item_images/Ruby.png","Processing"),
+(598,"Salt","../assets/item_images/Salt.png","Processing"),
+(599,"Sapphire","../assets/item_images/Sapphire.png","Processing"),
+(600,"Savage Draught","../assets/item_images/Savage Draught.png","Processing"),
+(601,"Seafood Cron Meal","../assets/item_images/Seafood Cron Meal.png","Processing"),
+(602,"Seafood Pasta","../assets/item_images/Seafood Pasta.png","Processing"),
+(603,"Sealed Old Moon Camping Anvil","../assets/item_images/Sealed Old Moon Camping Anvil.png","Processing"),
+(604,"Sharp Black Crystal Shard","../assets/item_images/Sharp Black Crystal Shard.png","Processing"),
+(605,"Ship Repair Material","../assets/item_images/Ship Repair Material.png","Processing"),
+(606,"Silk","../assets/item_images/Silk.png","Processing"),
+(607,"Silk Thread","../assets/item_images/Silk Thread.png","Processing"),
+(608,"Silver Ingot","../assets/item_images/Silver Ingot.png","Processing"),
+(609,"Simple Cron Meal","../assets/item_images/Simple Cron Meal.png","Processing"),
+(610,"Skilled Alchemist's Elixir of Energy Alchemy Box","../assets/item_images/Skilled Alchemist's Elixir of Energy Alchemy Box.png","Processing"),
+(611,"Skilled Alchemist's Elixir of Mentality Alchemy Box","../assets/item_images/Skilled Alchemist's Elixir of Mentality Alchemy Box.png","Processing"),
+(612,"Skilled Alchemist's Elixir of Seal Alchemy Box","../assets/item_images/Skilled Alchemist's Elixir of Seal Alchemy Box.png","Processing"),
+(613,"Skilled Cook's Fish Fillet Chip Cooking Box","../assets/item_images/Skilled Cook's Fish Fillet Chip Cooking Box.png","Processing"),
+(614,"Skilled Cook's Fruit Pudding Cooking Box","../assets/item_images/Skilled Cook's Fruit Pudding Cooking Box.png","Processing"),
+(615,"Skilled Cook's Meat Stew Cooking Box","../assets/item_images/Skilled Cook's Meat Stew Cooking Box.png","Processing"),
+(616,"Skilled Cook's Soft Bread Cooking Box","../assets/item_images/Skilled Cook's Soft Bread Cooking Box.png","Processing"),
+(617,"Skilled Fisher's Elixir","../assets/item_images/Skilled Fisher's Elixir.png","Processing"),
+(618,"Skilled Worker's Elixir","../assets/item_images/Skilled Worker's Elixir.png","Processing"),
+(619,"Soaring Wings Elixir","../assets/item_images/Soaring Wings Elixir.png","Processing"),
+(620,"Soft Bread","../assets/item_images/Soft Bread.png","Processing"),
+(621,"Soft Hide","../assets/item_images/Soft Hide.png","Processing"),
+(622,"SP Potion (Extra Large)","../assets/item_images/SP Potion (Extra Large).png","Processing"),
+(623,"SP Potion (Large)","../assets/item_images/SP Potion (Large).png","Processing"),
+(624,"SP Potion (Medium)","../assets/item_images/SP Potion (Medium).png","Processing"),
+(625,"Spirit Essence of Earth","../assets/item_images/Spirit Essence of Earth.png","Processing"),
+(626,"Spirit Essence of Water","../assets/item_images/Spirit Essence of Water.png","Processing"),
+(627,"Spirit Essence of Wind","../assets/item_images/Spirit Essence of Wind.png","Processing"),
+(628,"Splendid EXP Elixir","../assets/item_images/Splendid EXP Elixir.png","Processing"),
+(629,"Standardized Timber Square","../assets/item_images/Standardized Timber Square.png","Processing"),
+(630,"Star Anise Tea","../assets/item_images/Star Anise Tea.png","Processing"),
+(631,"Star Diamond","../assets/item_images/Star Diamond.png","Processing"),
+(632,"Steak","../assets/item_images/Steak.png","Processing"),
+(633,"Steel","../assets/item_images/Steel.png","Processing"),
+(634,"Sticky Blood","../assets/item_images/Sticky Blood.png","Processing"),
+(635,"Stonetail Fodder","../assets/item_images/Stonetail Fodder.png","Processing"),
+(636,"Strong Griffon's Elixir","../assets/item_images/Strong Griffon's Elixir.png","Processing"),
+(637,"Strong Resurrection Elixir","../assets/item_images/Strong Resurrection Elixir.png","Processing"),
+(638,"Sturdy Acacia Plywood","../assets/item_images/Sturdy Acacia Plywood.png","Processing"),
+(639,"Sturdy Ash Plywood","../assets/item_images/Sturdy Ash Plywood.png","Processing"),
+(640,"Sturdy Birch Plywood","../assets/item_images/Sturdy Birch Plywood.png","Processing"),
+(641,"Sturdy Cedar Plywood","../assets/item_images/Sturdy Cedar Plywood.png","Processing"),
+(642,"Sturdy Elder Tree Plywood","../assets/item_images/Sturdy Elder Tree Plywood.png","Processing"),
+(643,"Sturdy Fir Plywood","../assets/item_images/Sturdy Fir Plywood.png","Processing"),
+(644,"Sturdy Loopy Tree Plywood","../assets/item_images/Sturdy Loopy Tree Plywood.png","Processing"),
+(645,"Sturdy Maple Plywood","../assets/item_images/Sturdy Maple Plywood.png","Processing"),
+(646,"Sturdy Moss Tree Plywood","../assets/item_images/Sturdy Moss Tree Plywood.png","Processing"),
+(647,"Sturdy Palm Plywood","../assets/item_images/Sturdy Palm Plywood.png","Processing"),
+(648,"Sturdy Pine Plywood","../assets/item_images/Sturdy Pine Plywood.png","Processing"),
+(649,"Sturdy Timber Square","../assets/item_images/Sturdy Timber Square.png","Processing"),
+(650,"Sturdy White Cedar Plywood","../assets/item_images/Sturdy White Cedar Plywood.png","Processing"),
+(651,"Supreme Fancy Feather","../assets/item_images/Supreme Fancy Feather.png","Processing"),
+(652,"Supreme Fancy Reptile Skin","../assets/item_images/Supreme Fancy Reptile Skin.png","Processing"),
+(653,"Supreme Hard Hide","../assets/item_images/Supreme Hard Hide.png","Processing"),
+(654,"Supreme Lightweight Plume","../assets/item_images/Supreme Lightweight Plume.png","Processing"),
+(655,"Supreme Soft Hide","../assets/item_images/Supreme Soft Hide.png","Processing"),
+(656,"Supreme Thick Fur","../assets/item_images/Supreme Thick Fur.png","Processing"),
+(657,"Supreme Thin Hide","../assets/item_images/Supreme Thin Hide.png","Processing"),
+(658,"Supreme Tough Hide","../assets/item_images/Supreme Tough Hide.png","Processing"),
+(659,"Surging Energy Elixir","../assets/item_images/Surging Energy Elixir.png","Processing"),
+(660,"Surging Weenie Elixir","../assets/item_images/Surging Weenie Elixir.png","Processing"),
+(661,"Sute Tea","../assets/item_images/Sute Tea.png","Processing"),
+(662,"Sweet Potato Dough","../assets/item_images/Sweet Potato Dough.png","Processing"),
+(663,"Sweet Potato Flour","../assets/item_images/Sweet Potato Flour.png","Processing"),
+(664,"T-bone Steak","../assets/item_images/T-bone Steak.png","Processing"),
+(665,"Tea With Fine Scent","../assets/item_images/Tea With Fine Scent.png","Processing"),
+(666,"Teff Flour","../assets/item_images/Teff Flour.png","Processing"),
+(667,"Teff Flour Dough","../assets/item_images/Teff Flour Dough.png","Processing"),
+(668,"Thick Fur","../assets/item_images/Thick Fur.png","Processing"),
+(669,"Thin Hide","../assets/item_images/Thin Hide.png","Processing"),
+(670,"Tin Ingot","../assets/item_images/Tin Ingot.png","Processing"),
+(671,"Titanium Ingot","../assets/item_images/Titanium Ingot.png","Processing"),
+(672,"Topaz","../assets/item_images/Topaz.png","Processing"),
+(673,"Tough Flax Fabric","../assets/item_images/Tough Flax Fabric.png","Processing"),
+(674,"Tough Hide","../assets/item_images/Tough Hide.png","Processing"),
+(675,"Trace of Ascension","../assets/item_images/Trace of Ascension.png","Processing"),
+(676,"Trace of Battle","../assets/item_images/Trace of Battle.png","Processing"),
+(677,"Trace of Death","../assets/item_images/Trace of Death.png","Processing"),
+(678,"Trace of Despair","../assets/item_images/Trace of Despair.png","Processing"),
+(679,"Trace of Memory","../assets/item_images/Trace of Memory.png","Processing"),
+(680,"Trace of Origin","../assets/item_images/Trace of Origin.png","Processing"),
+(681,"Trace of Savagery","../assets/item_images/Trace of Savagery.png","Processing"),
+(682,"Trace of Violence","../assets/item_images/Trace of Violence.png","Processing"),
+(683,"Translucent Crystal","../assets/item_images/Translucent Crystal.png","Processing"),
+(684,"Twilight Red Coral","../assets/item_images/Twilight Red Coral.png","Processing"),
+(685,"Ultimate Armor Reform Stone","../assets/item_images/Ultimate Armor Reform Stone.png","Processing"),
+(686,"Ultimate Delphad Castillion's Carnage Amulet","../assets/item_images/Ultimate Delphad Castillion's Carnage Amulet.png","Processing"),
+(687,"Ultimate Delphad Castillion's Carnage Axe","../assets/item_images/Ultimate Delphad Castillion's Carnage Axe.png","Processing"),
+(688,"Ultimate Delphad Castillion's Carnage Blade","../assets/item_images/Ultimate Delphad Castillion's Carnage Blade.png","Processing"),
+(689,"Ultimate Delphad Castillion's Carnage Gauntlet","../assets/item_images/Ultimate Delphad Castillion's Carnage Gauntlet.png","Processing"),
+(690,"Ultimate Delphad Castillion's Carnage Kriegsmesser","../assets/item_images/Ultimate Delphad Castillion's Carnage Kriegsmesser.png","Processing"),
+(691,"Ultimate Delphad Castillion's Carnage Longbow","../assets/item_images/Ultimate Delphad Castillion's Carnage Longbow.png","Processing"),
+(692,"Ultimate Delphad Castillion's Carnage Longsword","../assets/item_images/Ultimate Delphad Castillion's Carnage Longsword.png","Processing"),
+(693,"Ultimate Delphad Castillion's Carnage Shortsword","../assets/item_images/Ultimate Delphad Castillion's Carnage Shortsword.png","Processing"),
+(694,"Ultimate Delphad Castillion's Carnage Staff","../assets/item_images/Ultimate Delphad Castillion's Carnage Staff.png","Processing"),
+(695,"Ultimate Weapon Reform Stone","../assets/item_images/Ultimate Weapon Reform Stone.png","Processing"),
+(696,"Usable Scantling","../assets/item_images/Usable Scantling.png","Processing"),
+(697,"Vanadium Ingot","../assets/item_images/Vanadium Ingot.png","Processing"),
+(698,"Vell's Heart","../assets/item_images/Vell's Heart.png","Processing"),
+(699,"Verdure Draught","../assets/item_images/Verdure Draught.png","Processing"),
+(700,"Veteran Adventurer's Shoes","../assets/item_images/Veteran Adventurer's Shoes.png","Processing"),
+(701,"Violet Crystal","../assets/item_images/Violet Crystal.png","Processing"),
+(702,"Well-Dried Jerky","../assets/item_images/Well-Dried Jerky.png","Processing"),
+(703,"Wheat Dough","../assets/item_images/Wheat Dough.png","Processing"),
+(704,"Wheat Flour","../assets/item_images/Wheat Flour.png","Processing"),
+(705,"White Cedar Plank","../assets/item_images/White Cedar Plank.png","Processing"),
+(706,"White Cedar Plywood","../assets/item_images/White Cedar Plywood.png","Processing"),
+(707,"White Coral","../assets/item_images/White Coral.png","Processing"),
+(708,"Wind Crystal Gloves","../assets/item_images/Wind Crystal Gloves.png","Processing"),
+(709,"WON Magic Crystal - Addis","../assets/item_images/WON Magic Crystal - Addis.png","Processing"),
+(710,"WON Magic Crystal - Carmae","../assets/item_images/WON Magic Crystal - Carmae.png","Processing"),
+(711,"WON Magic Crystal - Cobelinus","../assets/item_images/WON Magic Crystal - Cobelinus.png","Processing"),
+(712,"WON Magic Crystal - Harphia","../assets/item_images/WON Magic Crystal - Harphia.png","Processing"),
+(713,"WON Magic Crystal - Hystria","../assets/item_images/WON Magic Crystal - Hystria.png","Processing"),
+(714,"WON Magic Crystal - Viper","../assets/item_images/WON Magic Crystal - Viper.png","Processing"),
+(715,"Wool","../assets/item_images/Wool.png","Processing"),
+(717,"Worn Out Cloth","../assets/item_images/Worn Out Cloth.png","Processing"),
+(718,"WP Potion (Extra Large)","../assets/item_images/WP Potion (Extra Large).png","Processing"),
+(719,"WP Potion (Large)","../assets/item_images/WP Potion (Large).png","Processing"),
+(720,"WP Potion (Medium)","../assets/item_images/WP Potion (Medium).png","Processing"),
+(721,"Zinc Ingot","../assets/item_images/Zinc Ingot.png","Processing"),
