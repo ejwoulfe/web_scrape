@@ -1,0 +1,104 @@
+(843,"Aloe Yogurt","../assets/item_images/Aloe Yogurt.png","Cooking"),
+(844,"Assorted Side Dishes","../assets/item_images/Assorted Side Dishes.png","Cooking"),
+(845,"Balenos Meal","../assets/item_images/Balenos Meal.png","Cooking"),
+(846,"Beer","../assets/item_images/Beer.png","Cooking"),
+(847,"Boiled Bird Eggs","../assets/item_images/Boiled Bird Eggs.png","Cooking"),
+(848,"Borscht","../assets/item_images/Borscht.png","Cooking"),
+(849,"Butter-Roasted Lobster","../assets/item_images/Butter-Roasted Lobster.png","Cooking"),
+(850,"Calpheon Meal","../assets/item_images/Calpheon Meal.png","Cooking"),
+(851,"Cheese Gratin","../assets/item_images/Cheese Gratin.png","Cooking"),
+(852,"Cheese Pie","../assets/item_images/Cheese Pie.png","Cooking"),
+(853,"Coconut Cocktail","../assets/item_images/Coconut Cocktail.png","Cooking"),
+(854,"Coconut Fried Fish","../assets/item_images/Coconut Fried Fish.png","Cooking"),
+(855,"Coconut Pasta","../assets/item_images/Coconut Pasta.png","Cooking"),
+(856,"Couscous","../assets/item_images/Couscous.png","Cooking"),
+(857,"Dark Pudding","../assets/item_images/Dark Pudding.png","Cooking"),
+(858,"Date Palm Wine","../assets/item_images/Date Palm Wine.png","Cooking"),
+(859,"Desert Dumpling","../assets/item_images/Desert Dumpling.png","Cooking"),
+(860,"Dressing","../assets/item_images/Dressing.png","Cooking"),
+(861,"Energizing Cron Meal","../assets/item_images/Energizing Cron Meal.png","Cooking"),
+(862,"Essence of Liquor","../assets/item_images/Essence of Liquor.png","Cooking"),
+(863,"Exotic Herbal Wine","../assets/item_images/Exotic Herbal Wine.png","Cooking"),
+(864,"Fig Pie","../assets/item_images/Fig Pie.png","Cooking"),
+(865,"Fish Fillet Chips","../assets/item_images/Fish Fillet Chips.png","Cooking"),
+(866,"Fish Fillet Salad","../assets/item_images/Fish Fillet Salad.png","Cooking"),
+(867,"Fish Soup","../assets/item_images/Fish Soup.png","Cooking"),
+(868,"Five-Grain Chicken Porridge","../assets/item_images/Five-Grain Chicken Porridge.png","Cooking"),
+(869,"Freekeh Snake Stew","../assets/item_images/Freekeh Snake Stew.png","Cooking"),
+(870,"Fried Bird","../assets/item_images/Fried Bird.png","Cooking"),
+(871,"Fried Fish","../assets/item_images/Fried Fish.png","Cooking"),
+(872,"Fried Vegetables","../assets/item_images/Fried Vegetables.png","Cooking"),
+(873,"Fruit and Vegetable Salad","../assets/item_images/Fruit and Vegetable Salad.png","Cooking"),
+(874,"Fruit Juice","../assets/item_images/Fruit Juice.png","Cooking"),
+(875,"Fruit Pie","../assets/item_images/Fruit Pie.png","Cooking"),
+(876,"Fruit Pudding","../assets/item_images/Fruit Pudding.png","Cooking"),
+(877,"Fruit Wine","../assets/item_images/Fruit Wine.png","Cooking"),
+(878,"Ghormeh Sabzi","../assets/item_images/Ghormeh Sabzi.png","Cooking"),
+(879,"Good Feed","../assets/item_images/Good Feed.png","Cooking"),
+(880,"Grain Soup","../assets/item_images/Grain Soup.png","Cooking"),
+(881,"Grilled Bird Meat","../assets/item_images/Grilled Bird Meat.png","Cooking"),
+(882,"Grilled Sausage","../assets/item_images/Grilled Sausage.png","Cooking"),
+(883,"Grilled Scorpion","../assets/item_images/Grilled Scorpion.png","Cooking"),
+(884,"Ham Sandwich","../assets/item_images/Ham Sandwich.png","Cooking"),
+(885,"Hard-boiled Gargoyle Leg","../assets/item_images/Hard-boiled Gargoyle Leg.png","Cooking"),
+(886,"Hard-Boiled Shellfish","../assets/item_images/Hard-Boiled Shellfish.png","Cooking"),
+(887,"High-Quality Carrot Juice","../assets/item_images/High-Quality Carrot Juice.png","Cooking"),
+(888,"Honey Wine","../assets/item_images/Honey Wine.png","Cooking"),
+(889,"Honeycomb Cookie","../assets/item_images/Honeycomb Cookie.png","Cooking"),
+(890,"Hunter's Salad","../assets/item_images/Hunter's Salad.png","Cooking"),
+(891,"Kamasylvia Meal","../assets/item_images/Kamasylvia Meal.png","Cooking"),
+(892,"Khalk's Fermented Wine","../assets/item_images/Khalk's Fermented Wine.png","Cooking"),
+(893,"King of Jungle Hamburg","../assets/item_images/King of Jungle Hamburg.png","Cooking"),
+(894,"Knight Combat Rations","../assets/item_images/Knight Combat Rations.png","Cooking"),
+(895,"Lean Meat Salad","../assets/item_images/Lean Meat Salad.png","Cooking"),
+(896,"Lizard Kebab","../assets/item_images/Lizard Kebab.png","Cooking"),
+(897,"Margoria Seafood Meal","../assets/item_images/Margoria Seafood Meal.png","Cooking"),
+(898,"Meat Croquette","../assets/item_images/Meat Croquette.png","Cooking"),
+(899,"Meat Pasta","../assets/item_images/Meat Pasta.png","Cooking"),
+(900,"Meat Pie","../assets/item_images/Meat Pie.png","Cooking"),
+(901,"Meat Sandwich","../assets/item_images/Meat Sandwich.png","Cooking"),
+(902,"Meat Soup","../assets/item_images/Meat Soup.png","Cooking"),
+(903,"Meat Stew","../assets/item_images/Meat Stew.png","Cooking"),
+(904,"Mediah Meal","../assets/item_images/Mediah Meal.png","Cooking"),
+(905,"Milk Tea","../assets/item_images/Milk Tea.png","Cooking"),
+(906,"Oatmeal","../assets/item_images/Oatmeal.png","Cooking"),
+(907,"Omelet","../assets/item_images/Omelet.png","Cooking"),
+(908,"Organic Feed","../assets/item_images/Organic Feed.png","Cooking"),
+(909,"Pan-Fried Oyster","../assets/item_images/Pan-Fried Oyster.png","Cooking"),
+(910,"Pickled Fish","../assets/item_images/Pickled Fish.png","Cooking"),
+(911,"Pickled Vegetables","../assets/item_images/Pickled Vegetables.png","Cooking"),
+(912,"Pistachio Fried Rice","../assets/item_images/Pistachio Fried Rice.png","Cooking"),
+(913,"Prawn Salad","../assets/item_images/Prawn Salad.png","Cooking"),
+(914,"Rainbow Button Mushroom Cheese Melt","../assets/item_images/Rainbow Button Mushroom Cheese Melt.png","Cooking"),
+(915,"Rainbow Button Mushroom Sandwich","../assets/item_images/Rainbow Button Mushroom Sandwich.png","Cooking"),
+(916,"Red Sauce","../assets/item_images/Red Sauce.png","Cooking"),
+(917,"Roast Marmot","../assets/item_images/Roast Marmot.png","Cooking"),
+(918,"Seafood Grilled with Butter","../assets/item_images/Seafood Grilled with Butter.png","Cooking"),
+(919,"Seafood Mushroom Salad","../assets/item_images/Seafood Mushroom Salad.png","Cooking"),
+(920,"Seafood Pasta","../assets/item_images/Seafood Pasta.png","Cooking"),
+(921,"Serendia Meal","../assets/item_images/Serendia Meal.png","Cooking"),
+(922,"Skewered Llama Cheese Melt","../assets/item_images/Skewered Llama Cheese Melt.png","Cooking"),
+(923,"Smoked Fish Steak","../assets/item_images/Smoked Fish Steak.png","Cooking"),
+(924,"Soft Bread","../assets/item_images/Soft Bread.png","Cooking"),
+(925,"Special Arehaza Meal","../assets/item_images/Special Arehaza Meal.png","Cooking"),
+(926,"Special Carrot Juice","../assets/item_images/Special Carrot Juice.png","Cooking"),
+(927,"Special Drieghanese Meal","../assets/item_images/Special Drieghanese Meal.png","Cooking"),
+(928,"Steak","../assets/item_images/Steak.png","Cooking"),
+(929,"Steamed Bird","../assets/item_images/Steamed Bird.png","Cooking"),
+(930,"Steamed Fish","../assets/item_images/Steamed Fish.png","Cooking"),
+(931,"Steamed Prawn","../assets/item_images/Steamed Prawn.png","Cooking"),
+(932,"Steamed Seafood","../assets/item_images/Steamed Seafood.png","Cooking"),
+(933,"Steamed Whale Meat","../assets/item_images/Steamed Whale Meat.png","Cooking"),
+(934,"Stir-Fried Bracken","../assets/item_images/Stir-Fried Bracken.png","Cooking"),
+(935,"Stir-Fried Meat","../assets/item_images/Stir-Fried Meat.png","Cooking"),
+(936,"Stir-Fried Seafood","../assets/item_images/Stir-Fried Seafood.png","Cooking"),
+(937,"Stir-Fried Vegetables","../assets/item_images/Stir-Fried Vegetables.png","Cooking"),
+(938,"Sute Tea","../assets/item_images/Sute Tea.png","Cooking"),
+(939,"Sweet Honey Wine","../assets/item_images/Sweet Honey Wine.png","Cooking"),
+(940,"Tea With Fine Scent","../assets/item_images/Tea With Fine Scent.png","Cooking"),
+(941,"Teff Bread","../assets/item_images/Teff Bread.png","Cooking"),
+(942,"Teff Sandwich","../assets/item_images/Teff Sandwich.png","Cooking"),
+(943,"Valencia Meal","../assets/item_images/Valencia Meal.png","Cooking"),
+(944,"Vinegar","../assets/item_images/Vinegar.png","Cooking"),
+(945,"Whale Meat Salad","../assets/item_images/Whale Meat Salad.png","Cooking"),
+(946,"White Sauce","../assets/item_images/White Sauce.png","Cooking"),

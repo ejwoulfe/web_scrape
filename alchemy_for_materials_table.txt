@@ -1,0 +1,121 @@
+(722,"Ardan's Jewel","../assets/item_images/Ardan's Jewel.png","Alchemy"),
+(723,"Askasha's Repaired Magic Weapon","../assets/item_images/Askasha's Repaired Magic Weapon.png","Alchemy"),
+(724,"Broken Alchemy Stone Shard","../assets/item_images/Broken Alchemy Stone Shard.png","Alchemy"),
+(725,"Clear Liquid Reagent","../assets/item_images/Clear Liquid Reagent.png","Alchemy"),
+(726,"Clown's Blood","../assets/item_images/Clown's Blood.png","Alchemy"),
+(727,"Defense Elixir","../assets/item_images/Defense Elixir.png","Alchemy"),
+(728,"Elixir of Amity","../assets/item_images/Elixir of Amity.png","Alchemy"),
+(729,"Elixir of Assassination","../assets/item_images/Elixir of Assassination.png","Alchemy"),
+(730,"Elixir of Burn Removal","../assets/item_images/Elixir of Burn Removal.png","Alchemy"),
+(731,"Elixir of Carnage","../assets/item_images/Elixir of Carnage.png","Alchemy"),
+(732,"Elixir of Concentration","../assets/item_images/Elixir of Concentration.png","Alchemy"),
+(733,"Elixir of Death","../assets/item_images/Elixir of Death.png","Alchemy"),
+(734,"Elixir of Deep Sea","../assets/item_images/Elixir of Deep Sea.png","Alchemy"),
+(735,"Elixir of Demihuman Hunt","../assets/item_images/Elixir of Demihuman Hunt.png","Alchemy"),
+(736,"Elixir of Detection","../assets/item_images/Elixir of Detection.png","Alchemy"),
+(737,"Elixir of Draining","../assets/item_images/Elixir of Draining.png","Alchemy"),
+(738,"Elixir of Endurance","../assets/item_images/Elixir of Endurance.png","Alchemy"),
+(739,"Elixir of Energy","../assets/item_images/Elixir of Energy.png","Alchemy"),
+(740,"Elixir of Fond Memories","../assets/item_images/Elixir of Fond Memories.png","Alchemy"),
+(741,"Elixir of Frenzy","../assets/item_images/Elixir of Frenzy.png","Alchemy"),
+(742,"Elixir of Fury","../assets/item_images/Elixir of Fury.png","Alchemy"),
+(743,"Elixir of Hemostasis","../assets/item_images/Elixir of Hemostasis.png","Alchemy"),
+(744,"Elixir of Human Hunt","../assets/item_images/Elixir of Human Hunt.png","Alchemy"),
+(745,"Elixir of Life","../assets/item_images/Elixir of Life.png","Alchemy"),
+(746,"Elixir of Mentality","../assets/item_images/Elixir of Mentality.png","Alchemy"),
+(747,"Elixir of Perforation","../assets/item_images/Elixir of Perforation.png","Alchemy"),
+(748,"Elixir of Resistance","../assets/item_images/Elixir of Resistance.png","Alchemy"),
+(749,"Elixir of Seal","../assets/item_images/Elixir of Seal.png","Alchemy"),
+(750,"Elixir of Shock","../assets/item_images/Elixir of Shock.png","Alchemy"),
+(751,"Elixir of Sky","../assets/item_images/Elixir of Sky.png","Alchemy"),
+(752,"Elixir of Spells","../assets/item_images/Elixir of Spells.png","Alchemy"),
+(753,"Elixir of Swiftness","../assets/item_images/Elixir of Swiftness.png","Alchemy"),
+(754,"Elixir of Time","../assets/item_images/Elixir of Time.png","Alchemy"),
+(755,"Elixir of Training","../assets/item_images/Elixir of Training.png","Alchemy"),
+(756,"Elixir of Will","../assets/item_images/Elixir of Will.png","Alchemy"),
+(757,"Elixir of Wind","../assets/item_images/Elixir of Wind.png","Alchemy"),
+(758,"Elixir of Wings","../assets/item_images/Elixir of Wings.png","Alchemy"),
+(759,"Essence of Abundance","../assets/item_images/Essence of Abundance.png","Alchemy"),
+(760,"Essence of Crimson Flame","../assets/item_images/Essence of Crimson Flame.png","Alchemy"),
+(761,"Essence of Destruction","../assets/item_images/Essence of Destruction.png","Alchemy"),
+(762,"Essence of Enchantment","../assets/item_images/Essence of Enchantment.png","Alchemy"),
+(763,"Essence of Magic Power","../assets/item_images/Essence of Magic Power.png","Alchemy"),
+(764,"Essence of Nature","../assets/item_images/Essence of Nature.png","Alchemy"),
+(765,"Essence of Perfection","../assets/item_images/Essence of Perfection.png","Alchemy"),
+(766,"Essence of the Sun","../assets/item_images/Essence of the Sun.png","Alchemy"),
+(767,"EXP Elixir","../assets/item_images/EXP Elixir.png","Alchemy"),
+(768,"Fisher's Elixir","../assets/item_images/Fisher's Elixir.png","Alchemy"),
+(769,"Gem Polisher","../assets/item_images/Gem Polisher.png","Alchemy"),
+(770,"Golden Hand Elixir","../assets/item_images/Golden Hand Elixir.png","Alchemy"),
+(771,"Griffon's Elixir","../assets/item_images/Griffon's Elixir.png","Alchemy"),
+(772,"Grim Reaper's Elixir","../assets/item_images/Grim Reaper's Elixir.png","Alchemy"),
+(773,"Helix Elixir","../assets/item_images/Helix Elixir.png","Alchemy"),
+(774,"Herbal Gunpowder","../assets/item_images/Herbal Gunpowder.png","Alchemy"),
+(775,"Herbal Poison","../assets/item_images/Herbal Poison.png","Alchemy"),
+(776,"Khalk's Elixir","../assets/item_images/Khalk's Elixir.png","Alchemy"),
+(777,"Leather Glaze","../assets/item_images/Leather Glaze.png","Alchemy"),
+(778,"Legendary Beast's Blood","../assets/item_images/Legendary Beast's Blood.png","Alchemy"),
+(779,"Looney Elixir","../assets/item_images/Looney Elixir.png","Alchemy"),
+(780,"Magic Crystal of Infinity - Absorption","../assets/item_images/Magic Crystal of Infinity - Absorption.png","Alchemy"),
+(781,"Magic Crystal of Infinity - Adamantine","../assets/item_images/Magic Crystal of Infinity - Adamantine.png","Alchemy"),
+(782,"Magic Crystal of Infinity - Agility","../assets/item_images/Magic Crystal of Infinity - Agility.png","Alchemy"),
+(783,"Magic Crystal of Infinity - Air Attack","../assets/item_images/Magic Crystal of Infinity - Air Attack.png","Alchemy"),
+(784,"Magic Crystal of Infinity - Armor","../assets/item_images/Magic Crystal of Infinity - Armor.png","Alchemy"),
+(785,"Magic Crystal of Infinity - Ascension","../assets/item_images/Magic Crystal of Infinity - Ascension.png","Alchemy"),
+(786,"Magic Crystal of Infinity - Assault","../assets/item_images/Magic Crystal of Infinity - Assault.png","Alchemy"),
+(787,"Magic Crystal of Infinity - Back Attack","../assets/item_images/Magic Crystal of Infinity - Back Attack.png","Alchemy"),
+(788,"Magic Crystal of Infinity - Carnage","../assets/item_images/Magic Crystal of Infinity - Carnage.png","Alchemy"),
+(789,"Magic Crystal of Infinity - Counter Attack","../assets/item_images/Magic Crystal of Infinity - Counter Attack.png","Alchemy"),
+(790,"Magic Crystal of Infinity - Critical Hit","../assets/item_images/Magic Crystal of Infinity - Critical Hit.png","Alchemy"),
+(791,"Magic Crystal of Infinity - Descent","../assets/item_images/Magic Crystal of Infinity - Descent.png","Alchemy"),
+(792,"Magic Crystal of Infinity - Down Attack","../assets/item_images/Magic Crystal of Infinity - Down Attack.png","Alchemy"),
+(793,"Magic Crystal of Infinity - Durability","../assets/item_images/Magic Crystal of Infinity - Durability.png","Alchemy"),
+(794,"Magic Crystal of Infinity - Endurance","../assets/item_images/Magic Crystal of Infinity - Endurance.png","Alchemy"),
+(795,"Magic Crystal of Infinity - Energy","../assets/item_images/Magic Crystal of Infinity - Energy.png","Alchemy"),
+(796,"Magic Crystal of Infinity - Evasion","../assets/item_images/Magic Crystal of Infinity - Evasion.png","Alchemy"),
+(797,"Magic Crystal of Infinity - Experience","../assets/item_images/Magic Crystal of Infinity - Experience.png","Alchemy"),
+(798,"Magic Crystal of Infinity - Extraction","../assets/item_images/Magic Crystal of Infinity - Extraction.png","Alchemy"),
+(799,"Magic Crystal of Infinity - Heal","../assets/item_images/Magic Crystal of Infinity - Heal.png","Alchemy"),
+(800,"Magic Crystal of Infinity - Intimidation","../assets/item_images/Magic Crystal of Infinity - Intimidation.png","Alchemy"),
+(801,"Magic Crystal of Infinity - Magic Attack","../assets/item_images/Magic Crystal of Infinity - Magic Attack.png","Alchemy"),
+(802,"Magic Crystal of Infinity - Magic Defense","../assets/item_images/Magic Crystal of Infinity - Magic Defense.png","Alchemy"),
+(803,"Magic Crystal of Infinity - Melee Attack","../assets/item_images/Magic Crystal of Infinity - Melee Attack.png","Alchemy"),
+(804,"Magic Crystal of Infinity - Melee Defense","../assets/item_images/Magic Crystal of Infinity - Melee Defense.png","Alchemy"),
+(805,"Magic Crystal of Infinity - Memory","../assets/item_images/Magic Crystal of Infinity - Memory.png","Alchemy"),
+(806,"Magic Crystal of Infinity - Patience","../assets/item_images/Magic Crystal of Infinity - Patience.png","Alchemy"),
+(807,"Magic Crystal of Infinity - Power","../assets/item_images/Magic Crystal of Infinity - Power.png","Alchemy"),
+(808,"Magic Crystal of Infinity - Precision","../assets/item_images/Magic Crystal of Infinity - Precision.png","Alchemy"),
+(809,"Magic Crystal of Infinity - Ranged Attack","../assets/item_images/Magic Crystal of Infinity - Ranged Attack.png","Alchemy"),
+(810,"Magic Crystal of Infinity - Ranged Defense","../assets/item_images/Magic Crystal of Infinity - Ranged Defense.png","Alchemy"),
+(811,"Magic Crystal of Infinity - Resonance","../assets/item_images/Magic Crystal of Infinity - Resonance.png","Alchemy"),
+(812,"Magic Crystal of Infinity - Siege","../assets/item_images/Magic Crystal of Infinity - Siege.png","Alchemy"),
+(813,"Magic Crystal of Infinity - Speed Attack","../assets/item_images/Magic Crystal of Infinity - Speed Attack.png","Alchemy"),
+(814,"Magic Crystal of Infinity - Strength","../assets/item_images/Magic Crystal of Infinity - Strength.png","Alchemy"),
+(815,"Magic Crystal of Infinity - Sturdiness","../assets/item_images/Magic Crystal of Infinity - Sturdiness.png","Alchemy"),
+(816,"Magic Crystal of Infinity - Submergence","../assets/item_images/Magic Crystal of Infinity - Submergence.png","Alchemy"),
+(817,"Magic Crystal of Infinity - Swiftness","../assets/item_images/Magic Crystal of Infinity - Swiftness.png","Alchemy"),
+(818,"Magic Crystal of Infinity - Valor","../assets/item_images/Magic Crystal of Infinity - Valor.png","Alchemy"),
+(819,"Magic Crystal of Infinity - Vigor","../assets/item_images/Magic Crystal of Infinity - Vigor.png","Alchemy"),
+(820,"Magic Crystal of Infinity - Vision","../assets/item_images/Magic Crystal of Infinity - Vision.png","Alchemy"),
+(821,"Marking Reagent","../assets/item_images/Marking Reagent.png","Alchemy"),
+(822,"Metal Solvent","../assets/item_images/Metal Solvent.png","Alchemy"),
+(823,"Oil of Corruption","../assets/item_images/Oil of Corruption.png","Alchemy"),
+(824,"Oil of Fortitude","../assets/item_images/Oil of Fortitude.png","Alchemy"),
+(825,"Oil of Regeneration","../assets/item_images/Oil of Regeneration.png","Alchemy"),
+(826,"Oil of Storms","../assets/item_images/Oil of Storms.png","Alchemy"),
+(827,"Oil of the Abyss","../assets/item_images/Oil of the Abyss.png","Alchemy"),
+(828,"Oil of Tranquility","../assets/item_images/Oil of Tranquility.png","Alchemy"),
+(829,"Perfume of Courage","../assets/item_images/Perfume of Courage.png","Alchemy"),
+(830,"Perfume of Swiftness","../assets/item_images/Perfume of Swiftness.png","Alchemy"),
+(831,"Plywood Hardener","../assets/item_images/Plywood Hardener.png","Alchemy"),
+(832,"Pure Powder Reagent","../assets/item_images/Pure Powder Reagent.png","Alchemy"),
+(833,"Resurrection Elixir","../assets/item_images/Resurrection Elixir.png","Alchemy"),
+(834,"Sinner's Blood","../assets/item_images/Sinner's Blood.png","Alchemy"),
+(835,"Special Honey Jar","../assets/item_images/Special Honey Jar.png","Alchemy"),
+(836,"Spirit Perfume Elixir","../assets/item_images/Spirit Perfume Elixir.png","Alchemy"),
+(837,"Tyrant's Blood","../assets/item_images/Tyrant's Blood.png","Alchemy"),
+(838,"Weenie Elixir","../assets/item_images/Weenie Elixir.png","Alchemy"),
+(839,"Whale Tendon Elixir","../assets/item_images/Whale Tendon Elixir.png","Alchemy"),
+(840,"Whale Tendon Potion","../assets/item_images/Whale Tendon Potion.png","Alchemy"),
+(841,"Wise Man's Blood","../assets/item_images/Wise Man's Blood.png","Alchemy"),
+(842,"Worker's Elixir","../assets/item_images/Worker's Elixir.png","Alchemy");

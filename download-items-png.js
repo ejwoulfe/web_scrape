@@ -27,14 +27,14 @@ function getArraysLength(arr){
 function downloadImages(){csv.fromPath('itemList.csv')
 .on('data', function(data) {
   
-  putDataIntoArray(data[1], data[2]);
+  putDataIntoArray(data[0], data[1]);
 })
 .on('end', function() {
   
   
   (async () => {
     
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch({ headless: true });
     for(var i = 0; i<getArraysLength(links);i++){
       const page = await browser.newPage();
       var url = String(getLink(i, links));
@@ -50,9 +50,7 @@ function downloadImages(){csv.fromPath('itemList.csv')
       if(err) {
         return console.log(err);
       }
-      
-      console.log("The file was saved!");
-      
+            
     });
     await page.close();
   }
