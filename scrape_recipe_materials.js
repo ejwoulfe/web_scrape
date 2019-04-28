@@ -12,6 +12,7 @@ function writeToCsv(array){
   fs.appendFileSync("./sub_materials.csv", csv);
 }
 
+
 (async() =>{
 
   const browser = await puppeteer.launch({headless:false});
@@ -24,61 +25,47 @@ function writeToCsv(array){
   await page.select('select.form-control', '200')
   await page.waitFor(3000);
 
-  //
-  //   var result = await page.evaluate(() =>
-  //   Array.from(document.querySelectorAll('tbody tr')).map(tr =>({
-  //     recipe_name: tr.querySelector('tbody tr td.dt-title a b').innerHTML,
-  //     material1_quantity: tr.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(1)').innerText,
-  //     material2_quantity: tr.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(2)').innerText,
-  //     material3_quantity: tr.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(3)').innerText
-  //     // material2_quantity: tr.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(4)').innerText,
-  //     // material2_quantity: tr.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(5)').innerText
-  //
-  //
-  //   }))
-  //
-  // );
+  let episodes_details = await page.evaluate(() => {
 
- const nameAndMats = await page.$$eval(rowSelector,
-   rows =>
-  {
-    var sub_materials =  rows.map((row =>({
-      recipe_name: row.querySelector('tbody tr td.dt-title a b').innerHTML,
-      material1_quantity: row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(1)').innerText,
-      material2_quantity: row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(2)').innerText,
-      material3_quantity: row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(3)').innerText
-      // material4_quantity: row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(4)').innerText,
-      // material5_quantity: row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(5)').innerText
-})))
-return sub_materials
-})
+    let table = document.querySelector("table.table tbody");
+    let episode_panels = Array.from(table.children);
+    console.log(episode_panels);
 
 
-  console.log(nameAndMats);
 
-   // const  allMaterialTwo = await page.$$eval(rowSelector,
-   //   rows =>
-   //  {return rows.map((row)=>row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(2)').innerText)});
-   //
-   //  const  allMaterialThree = await page.$$eval(rowSelector,
-   //    rows =>
-   //   {return rows.map((row)=>row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(3)').innerText)});
-   //
+    let episodes_info = episode_panels.map(episode_panel => {
+     //let title = episode_panel.querySelector(".dt-title").textContent;
+     let craft_name = episode_panel.querySelector('.dt-title a b').textContent
+    let craft_quantity = episode_panel.querySelectorAll(".dt-reward a div");
+     let datetime = episode_panel.querySelectorAll(".dt-reward a");
+     const items = [];
+     const quantities = [];
+     for (let element of datetime) {
+       items.push(element.href);
+     }
+     for (let element of craft_quantity) {
+       quantities.push(element.textContent);
+     }
+     return {craft_name, quantities, items};
+   });
+   return episodes_info;
 
-//      if (await page.$('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(4)') !== null){
-//      const  allMaterialFour = await page.$$eval(rowSelector,
-//        rows =>
-//        {return rows.map((row)=>row.querySelector('tbody tr td.dt-reward div.iconset_wrapper_medium:nth-child(4)').innerText)});
-// }else{
-//
-//     return "cheese"
-// }
+});
+console.log(episodes_details)
 
-//
-//   if (await page.$(selector) !== null) console.log('found');
-// else console.log('not found');
+// let items = await page.evaluate(extractItems);
+// console.log(items);
+
 
   // writeToCsv(result);
+  // function subMaterialsForEachRow(rowArray){
+  //
+  //   console.log((rowArray[0]));
+  //
+  //
+  // }
+  //
+  // subMaterialsForEachRow(data)
 
 
 await browser.close();
