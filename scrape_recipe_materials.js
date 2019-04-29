@@ -2,15 +2,13 @@ const puppeteer = require('puppeteer');
 const url = 'https://bdocodex.com/us/recipes/culinary/';
 const fs = require('fs');
 const { parse } = require('json2csv');
-const rowSelector = "table.table tbody tr";
-
-
 
 
 function writeToCsv(array){
   const csv = parse(array);
   fs.appendFileSync("./sub_materials.csv", csv);
 }
+
 
 
 (async() =>{
@@ -37,21 +35,29 @@ function writeToCsv(array){
      //let title = episode_panel.querySelector(".dt-title").textContent;
      let craft_name = episode_panel.querySelector('.dt-title a b').textContent
     let craft_quantity = episode_panel.querySelectorAll(".dt-reward a div");
-     let datetime = episode_panel.querySelectorAll(".dt-reward a");
+     let materials_list = episode_panel.querySelectorAll(".dt-reward a");
      const items = [];
      const quantities = [];
-     for (let element of datetime) {
+     for (let element of materials_list) {
        items.push(element.href);
      }
      for (let element of craft_quantity) {
+       if(element.textContent===''){
+       quantities.push('1');
+     }else{
        quantities.push(element.textContent);
      }
-     return {craft_name, quantities, items};
+     }
+     // return {craft_name, quantities, items};
+     return items
    });
    return episodes_info;
 
 });
-console.log(episodes_details)
+  //console.log(episodes_details);
+  writeToCsv(episodes_details);
+
+
 
 // let items = await page.evaluate(extractItems);
 // console.log(items);

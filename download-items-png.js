@@ -39,7 +39,6 @@ function downloadImages(){csv.fromPath('itemList.csv')
       const page = await browser.newPage();
       var url = String(getLink(i, links));
       var file = String(getName(i, names));
-      
       var viewSource = await page.goto(url);
       await page.waitFor(2000);
       const imageUrl = await page.evaluate(() =>
