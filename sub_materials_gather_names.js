@@ -11,7 +11,7 @@ fs.readFile('materials.txt', function(err, data) {
    // console.log(array[0].replace(/"/g, '').split(",")[0])
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   for(var i = 0; i<array.length;i++){
@@ -21,9 +21,8 @@ async function run() {
       }
       else{
         const page = await browser.newPage();
-       await page.goto(array[i].replace(/"/g, '').split(",")[z], {waitUntil: 'domcontentloaded'});
+       await page.goto(array[i].replace(/"/g, '').split(",")[z], {waitUntil: 'networkidle0'});
        const text = page.evaluate(() => document.querySelector('table.smallertext span.item_title b').innerHTML);
-       await page.waitFor(3000);
        text.then(function(result){
          writeStream.write(result.trim() + ", ");
        })

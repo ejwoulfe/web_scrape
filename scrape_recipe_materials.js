@@ -1,7 +1,11 @@
 const puppeteer = require('puppeteer');
-const url = 'https://bdocodex.com/us/recipes/culinary/';
+const processing_url = 'https://bdocodex.com/us/mrecipes/';
+const alchemy_url = 'https://bdocodex.com/us/recipes/alchemy/';
+const cook_url = 'https://bdocodex.com/us/recipes/culinary/';
 const fs = require('fs');
 const { parse } = require('json2csv');
+const fields = ['itemName']
+const opts = {fields};
 
 
 function writeToCsv(array){
@@ -18,45 +22,53 @@ function writeToCsv(array){
   const page = await browser.newPage();
   await page.setViewport({ width: 1200, height: 1200 })
 
-  await page.goto(url, {waitUntil: 'domcontentloaded'});
+  await page.goto(cook_url, {waitUntil: 'domcontentloaded'});
   await page.waitFor(2000);
   await page.select('select.form-control', '200')
-  await page.waitFor(3000);
+  await page.waitFor(10000);
 
+//  for(var i = 0; i<8;i++){
   let episodes_details = await page.evaluate(() => {
 
     let table = document.querySelector("table.table tbody");
     let episode_panels = Array.from(table.children);
-    console.log(episode_panels);
 
 
 
     let episodes_info = episode_panels.map(episode_panel => {
      //let title = episode_panel.querySelector(".dt-title").textContent;
-     let craft_name = episode_panel.querySelector('.dt-title a b').textContent
-    let craft_quantity = episode_panel.querySelectorAll(".dt-reward a div");
-     let materials_list = episode_panel.querySelectorAll(".dt-reward a");
-     const items = [];
-     const quantities = [];
-     for (let element of materials_list) {
-       items.push(element.href);
-     }
+     //let craft_name = episode_panel.querySelector('.dt-title a b')
+     //const names = [];
+     let craft_quantity = episode_panel.querySelectorAll("td:nth-child(7) div:nth-child(2)");
+    //  let materials_list = episode_panel.querySelectorAll("td:nth-child(8) a");
+    //  const items = [];
+      const quantities = [];
+
+    //  names.push(craft_name.textContent);
+
+     // for (let element of materials_list) {
+     //   items.push(element.href);
+     // }
+
      for (let element of craft_quantity) {
-       if(element.textContent===''){
-       quantities.push('1');
-     }else{
-       quantities.push(element.textContent);
+       if(element.textContent.trim()===''){
+         quantities.push('1');
+       }else{
+       quantities.push(element.textContent.trim());
      }
      }
-     // return {craft_name, quantities, items};
-     return items
+
+     return quantities;
    });
+
    return episodes_info;
 
 });
-  //console.log(episodes_details);
   writeToCsv(episodes_details);
+//  await page.click('li.paginate_button.next');
+//  await page.waitFor(2000);
 
+//}
 
 
 // let items = await page.evaluate(extractItems);
