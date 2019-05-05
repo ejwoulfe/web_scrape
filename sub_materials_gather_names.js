@@ -5,16 +5,17 @@ let writeStream = fs.createWriteStream('gathering_names.txt');
 
 
 
-fs.readFile('materials.txt', function(err, data) {
+fs.readFile('Processing/Processing_sub_materials.txt', function(err, data) {
    if(err) throw err;
    var array = data.toString().split("\n");
    // console.log(array[0].replace(/"/g, '').split(",")[0])
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-
-  for(var i = 0; i<array.length;i++){
+  
+for(var j = 0; j<8;j++){
+  for(var i = 683; i<array.length;i++){
     for(var z = 0; z< array[i].split(",").length;z++){
       if(array[i].replace(/"/g, '').split(",")[z]==='\r'){
         z+1;
@@ -32,7 +33,10 @@ async function run() {
  }
  writeStream.write("\n");
 }
+await page.click('li.paginate_button.next');
+await page.waitFor(2000);
 
+}
 
 
   browser.close();

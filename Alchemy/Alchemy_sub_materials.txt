@@ -1,125 +1,125 @@
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5439/","https://bdocodex.com/us/materialgroup/17/","https://bdocodex.com/us/item/9015/",
-"https://bdocodex.com/us/item/42399/","https://bdocodex.com/us/item/42400/","https://bdocodex.com/us/item/42401/",
-"https://bdocodex.com/us/item/42395/","https://bdocodex.com/us/item/42396/","https://bdocodex.com/us/item/42397/",
-"https://bdocodex.com/us/item/9733/","https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/item/4805/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5301/"
-"https://bdocodex.com/us/item/5439/","https://bdocodex.com/us/item/5401/","https://bdocodex.com/us/item/9001/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/5006/","https://bdocodex.com/us/item/4801/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/materialgroup/16/",
-"https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/materialgroup/17/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/item/5403/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/4901/",
-"https://bdocodex.com/us/item/6601/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5419/","https://bdocodex.com/us/item/5011/","https://bdocodex.com/us/item/5963/"
-"https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/materialgroup/3/","https://bdocodex.com/us/item/5439/",
-"https://bdocodex.com/us/item/6604/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5412/","https://bdocodex.com/us/item/5006/","https://bdocodex.com/us/item/5954/"
-"https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5410/","https://bdocodex.com/us/item/5439/","https://bdocodex.com/us/materialgroup/15/",
-"https://bdocodex.com/us/item/6605/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5418/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/5962/"
-"https://bdocodex.com/us/item/6606/","https://bdocodex.com/us/item/6533/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5408/","https://bdocodex.com/us/item/5012/"
-"https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/item/5408/","https://bdocodex.com/us/item/5009/","https://bdocodex.com/us/item/4901/",
-"https://bdocodex.com/us/item/6602/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5420/","https://bdocodex.com/us/item/5008/","https://bdocodex.com/us/item/5956/"
-"https://bdocodex.com/us/item/6603/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5416/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/item/5960/"
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5409/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/materialgroup/15/",
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/materialgroup/18/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/520/",
-"https://bdocodex.com/us/item/42411/","https://bdocodex.com/us/item/42412/","https://bdocodex.com/us/item/6601/","https://bdocodex.com/us/item/5963/",
-"https://bdocodex.com/us/item/6601/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5010/","https://bdocodex.com/us/item/5958/","https://bdocodex.com/us/item/5414/"
-"https://bdocodex.com/us/item/5409/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/materialgroup/15/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5410/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/item/5407/","https://bdocodex.com/us/item/5002/","https://bdocodex.com/us/item/4901/",
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5402/","https://bdocodex.com/us/materialgroup/18/","https://bdocodex.com/us/item/517/",
-"https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/520/",
-"https://bdocodex.com/us/item/6604/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5417/","https://bdocodex.com/us/item/5003/","https://bdocodex.com/us/item/5961/"
-"https://bdocodex.com/us/item/5410/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/materialgroup/16/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/5409/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/materialgroup/16/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/item/5412/","https://bdocodex.com/us/item/5010/","https://bdocodex.com/us/item/4805/",
-"https://bdocodex.com/us/item/6605/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5413/","https://bdocodex.com/us/item/5005/","https://bdocodex.com/us/item/5955/"
-"https://bdocodex.com/us/item/6352/","https://bdocodex.com/us/item/5403/","https://bdocodex.com/us/item/5002/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/item/5408/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/item/5403/","https://bdocodex.com/us/item/4805/","https://bdocodex.com/us/item/5002/",
-"https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/item/5402/","https://bdocodex.com/us/item/5003/","https://bdocodex.com/us/item/4803/",
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5401/","https://bdocodex.com/us/materialgroup/16/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/item/5407/","https://bdocodex.com/us/item/5003/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/5402/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/materialgroup/15/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/5203/","https://bdocodex.com/us/item/5410/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/item/5955/",
-"https://bdocodex.com/us/item/5201/","https://bdocodex.com/us/item/5409/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/5955/",
-"https://bdocodex.com/us/item/5215/","https://bdocodex.com/us/item/5402/","https://bdocodex.com/us/item/5003/","https://bdocodex.com/us/item/4802/",
-"https://bdocodex.com/us/item/5209/","https://bdocodex.com/us/item/5403/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/5211/","https://bdocodex.com/us/item/5404/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/5205/","https://bdocodex.com/us/item/5407/","https://bdocodex.com/us/item/5002/","https://bdocodex.com/us/item/5954/",
-"https://bdocodex.com/us/item/5213/","https://bdocodex.com/us/item/5401/","https://bdocodex.com/us/item/5002/","https://bdocodex.com/us/item/4802/",
-"https://bdocodex.com/us/item/5207/","https://bdocodex.com/us/item/5408/","https://bdocodex.com/us/item/5003/","https://bdocodex.com/us/item/5954/",
-"https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/item/5404/","https://bdocodex.com/us/item/5003/","https://bdocodex.com/us/item/4802/",
-"https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/item/5401/","https://bdocodex.com/us/item/5009/","https://bdocodex.com/us/item/4802/",
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/4070/","https://bdocodex.com/us/item/5957/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/6602/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5415/","https://bdocodex.com/us/item/5959/","https://bdocodex.com/us/item/5009/"
-"https://bdocodex.com/us/item/9741/","https://bdocodex.com/us/item/5010/","https://bdocodex.com/us/item/5958/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/6354/"
-"https://bdocodex.com/us/item/6603/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5411/","https://bdocodex.com/us/item/5007/","https://bdocodex.com/us/item/5957/"
-"https://bdocodex.com/us/item/5020/","https://bdocodex.com/us/item/5007/","https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/item/4802/","https://bdocodex.com/us/item/6656/"
-"https://bdocodex.com/us/item/5601/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/5602/","https://bdocodex.com/us/item/5419/",
-"https://bdocodex.com/us/item/9736/","https://bdocodex.com/us/item/5012/","https://bdocodex.com/us/item/5951/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/6604/"
-"https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5002/","https://bdocodex.com/us/item/5955/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/5006/","https://bdocodex.com/us/item/5954/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/materialgroup/19/",
-"https://bdocodex.com/us/item/5017/","https://bdocodex.com/us/item/5517/","https://bdocodex.com/us/item/4802/","https://bdocodex.com/us/item/5011/","https://bdocodex.com/us/item/5526/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5204/","https://bdocodex.com/us/item/4054/","https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15012/","https://bdocodex.com/us/item/5205/","https://bdocodex.com/us/item/4454/","https://bdocodex.com/us/item/5402/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15020/","https://bdocodex.com/us/item/5207/","https://bdocodex.com/us/item/5410/","https://bdocodex.com/us/item/4251/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5212/","https://bdocodex.com/us/item/4257/","https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15006/","https://bdocodex.com/us/item/5211/","https://bdocodex.com/us/item/4466/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15013/","https://bdocodex.com/us/item/5211/","https://bdocodex.com/us/item/4457/","https://bdocodex.com/us/item/5403/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15014/","https://bdocodex.com/us/item/5209/","https://bdocodex.com/us/item/4460/","https://bdocodex.com/us/materialgroup/18/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5208/","https://bdocodex.com/us/item/4251/","https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15003/","https://bdocodex.com/us/item/5205/","https://bdocodex.com/us/item/4057/","https://bdocodex.com/us/materialgroup/16/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15004/","https://bdocodex.com/us/item/5207/","https://bdocodex.com/us/item/4060/","https://bdocodex.com/us/materialgroup/15/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15005/","https://bdocodex.com/us/item/5209/","https://bdocodex.com/us/item/4063/","https://bdocodex.com/us/materialgroup/19/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5202/","https://bdocodex.com/us/item/4063/","https://bdocodex.com/us/item/6352/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5214/","https://bdocodex.com/us/item/4260/","https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15027/","https://bdocodex.com/us/item/5209/","https://bdocodex.com/us/item/4451/","https://bdocodex.com/us/item/5439/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5210/","https://bdocodex.com/us/item/4254/","https://bdocodex.com/us/item/6352/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5202/","https://bdocodex.com/us/item/4051/","https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15028/","https://bdocodex.com/us/item/5213/","https://bdocodex.com/us/item/4457/","https://bdocodex.com/us/item/5404/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5214/","https://bdocodex.com/us/item/4451/","https://bdocodex.com/us/item/6352/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5206/","https://bdocodex.com/us/item/4467/","https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5203/","https://bdocodex.com/us/item/4260/","https://bdocodex.com/us/item/5406/","https://bdocodex.com/us/item/15031/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5206/","https://bdocodex.com/us/item/4057/","https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15009/","https://bdocodex.com/us/item/5201/","https://bdocodex.com/us/item/4469/","https://bdocodex.com/us/item/5009/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15018/","https://bdocodex.com/us/item/5203/","https://bdocodex.com/us/item/4468/","https://bdocodex.com/us/item/5408/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5208/","https://bdocodex.com/us/item/4463/","https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5212/","https://bdocodex.com/us/item/4251/","https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5204/","https://bdocodex.com/us/item/4457/","https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5208/","https://bdocodex.com/us/item/4468/","https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15017/","https://bdocodex.com/us/item/5201/","https://bdocodex.com/us/item/4467/","https://bdocodex.com/us/item/5407/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15008/","https://bdocodex.com/us/item/5215/","https://bdocodex.com/us/item/4468/","https://bdocodex.com/us/item/5004/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15002/","https://bdocodex.com/us/item/5203/","https://bdocodex.com/us/item/4054/","https://bdocodex.com/us/materialgroup/17/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5201/","https://bdocodex.com/us/item/4051/","https://bdocodex.com/us/materialgroup/18/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15029/","https://bdocodex.com/us/item/5215/","https://bdocodex.com/us/item/4460/","https://bdocodex.com/us/item/5405/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5206/","https://bdocodex.com/us/item/4460/","https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5210/","https://bdocodex.com/us/item/4469/","https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15010/","https://bdocodex.com/us/item/5203/","https://bdocodex.com/us/item/4251/","https://bdocodex.com/us/item/5003/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5204/","https://bdocodex.com/us/item/4466/","https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5216/","https://bdocodex.com/us/item/4060/","https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15030/","https://bdocodex.com/us/item/5201/","https://bdocodex.com/us/item/5002/","https://bdocodex.com/us/item/4463/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15015/","https://bdocodex.com/us/item/5213/","https://bdocodex.com/us/item/4463/","https://bdocodex.com/us/materialgroup/17/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/materialgroup/14/","https://bdocodex.com/us/item/5216/","https://bdocodex.com/us/item/4454/","https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15011/","https://bdocodex.com/us/item/5207/","https://bdocodex.com/us/item/4451/","https://bdocodex.com/us/item/5401/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15016/","https://bdocodex.com/us/item/5215/","https://bdocodex.com/us/item/4466/","https://bdocodex.com/us/materialgroup/16/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15007/","https://bdocodex.com/us/item/5213/","https://bdocodex.com/us/item/4467/","https://bdocodex.com/us/item/5002/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/15019/","https://bdocodex.com/us/item/5205/","https://bdocodex.com/us/item/4469/","https://bdocodex.com/us/item/5409/","https://bdocodex.com/us/materialgroup/14/"
-"https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/item/15019/","https://bdocodex.com/us/item/5604/","https://bdocodex.com/us/item/44084/","https://bdocodex.com/us/item/4901/"
-"https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/4051/","https://bdocodex.com/us/item/4006/","https://bdocodex.com/us/item/5956/",
-"https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/item/5006/","https://bdocodex.com/us/item/5207/","https://bdocodex.com/us/item/4801/",
-"https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/item/5007/","https://bdocodex.com/us/item/5205/","https://bdocodex.com/us/item/4802/",
-"https://bdocodex.com/us/item/6351/","https://bdocodex.com/us/item/5011/","https://bdocodex.com/us/item/5201/","https://bdocodex.com/us/item/4803/",
-"https://bdocodex.com/us/item/6352/","https://bdocodex.com/us/item/5008/","https://bdocodex.com/us/item/5203/","https://bdocodex.com/us/item/4805/",
-"https://bdocodex.com/us/item/6352/","https://bdocodex.com/us/item/5217/","https://bdocodex.com/us/item/4805/","https://bdocodex.com/us/item/5005/",
-"https://bdocodex.com/us/item/6355/","https://bdocodex.com/us/item/5005/","https://bdocodex.com/us/item/5211/","https://bdocodex.com/us/item/4804/",
-"https://bdocodex.com/us/item/9727/","https://bdocodex.com/us/item/5961/","https://bdocodex.com/us/item/5005/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/5301/"
-"https://bdocodex.com/us/item/9727/","https://bdocodex.com/us/item/4805/","https://bdocodex.com/us/item/5406/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/5301/"
-"https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/item/5005/","https://bdocodex.com/us/item/5009/","https://bdocodex.com/us/item/5954/",
-"https://bdocodex.com/us/item/5439/","https://bdocodex.com/us/item/5402/","https://bdocodex.com/us/item/9002/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/item/5401/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/517/",
-"https://bdocodex.com/us/item/5005/","https://bdocodex.com/us/item/4802/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/materialgroup/17/",
-"https://bdocodex.com/us/item/7704/","https://bdocodex.com/us/item/5203/","https://bdocodex.com/us/item/9057/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/5019/","https://bdocodex.com/us/item/5205/","https://bdocodex.com/us/item/5018/","https://bdocodex.com/us/item/4801/","https://bdocodex.com/us/item/5526/"
-"https://bdocodex.com/us/item/5007/","https://bdocodex.com/us/item/5956/","https://bdocodex.com/us/item/5302/","https://bdocodex.com/us/materialgroup/15/",
-"https://bdocodex.com/us/item/5017/","https://bdocodex.com/us/item/5516/","https://bdocodex.com/us/item/4805/","https://bdocodex.com/us/item/5007/","https://bdocodex.com/us/item/5525/"
-"https://bdocodex.com/us/item/9729/","https://bdocodex.com/us/item/6353/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/6656/","https://bdocodex.com/us/item/5301/"
-"https://bdocodex.com/us/item/9729/","https://bdocodex.com/us/item/518/","https://bdocodex.com/us/item/521/","https://bdocodex.com/us/item/6656/",
-"https://bdocodex.com/us/item/5007/","https://bdocodex.com/us/item/5955/","https://bdocodex.com/us/item/5301/","https://bdocodex.com/us/materialgroup/18/",
-"https://bdocodex.com/us/item/6354/","https://bdocodex.com/us/item/5402/","https://bdocodex.com/us/item/5001/","https://bdocodex.com/us/item/4802/",
+Pure Powder Reagent, Wild Grass, Blood 2, Olive Oil, 
+Ardan's Broken Jewel I, Ardan's Broken Jewel II, Ardan's Broken Jewel III, 
+Askasha's Broken Magic Weapon I, Askasha's Broken Magic Weapon II, Askasha's Broken Magic Weapon III, 
+Shining Powder, Sinner's Blood, Powder of Time, Pure Powder Reagent, Clear Liquid Reagent, 
+Wild Grass, Sunrise Herb, Salt, Purified Water, 
+Spirit's Leaf, Powder of Darkness, Clear Liquid Reagent, Blood 1, 
+Clear Liquid Reagent, Ash Sap, Blood 2, Purified Water, 
+Legendary Beast's Blood, Fire Flake Flower, Ash Sap, Black Stone Powder, 
+Oil of Regeneration, Pure Powder Reagent, Amanita Mushroom, Red Tree Lump, Trace of Memory, 
+Clear Liquid Reagent, Purified Water, Fruits, Wild Grass, 
+Oil of Corruption, Pure Powder Reagent, Tiger Mushroom, Spirit's Leaf, Trace of the Earth, 
+Clear Liquid Reagent, Cloud Mushroom, Wild Grass, Blood 4, 
+Oil of Tranquility, Clear Liquid Reagent, Ancient Mushroom, Ash Sap, Trace of Death, 
+Oil of the Abyss, Coral Crystal, Clear Liquid Reagent, Arrow Mushroom, White Cedar Sap, 
+Sinner's Blood, Arrow Mushroom, Fir Sap, Black Stone Powder, 
+Oil of Storms, Pure Powder Reagent, Truffle Mushroom, Old Tree Bark, Trace of Savagery, 
+Oil of Fortitude, Clear Liquid Reagent, Hump Mushroom, Birch Sap, Trace of Forest, 
+Pure Powder Reagent, Dwarf Mushroom, Birch Sap, Blood 4, 
+Pure Powder Reagent, Blood 3, Purified Water, MP Potion (Small), 
+Incomplete First Element, Arenda's Special Synthesis Base, Oil of Regeneration, Trace of Memory, 
+Oil of Regeneration, Clear Liquid Reagent, Cedar Sap, Trace of Battle, Ghost Mushroom, 
+Dwarf Mushroom, Ash Sap, Blood 4, Purified Water, 
+Pure Powder Reagent, Cloud Mushroom, Ash Sap, Purified Water, 
+Clown's Blood, Fortune Teller Mushroom, Maple Sap, Black Stone Powder, 
+Pure Powder Reagent, Silver Azalea, Blood 3, HP Potion (Small), 
+Clear Liquid Reagent, Ash Sap, Purified Water, MP Potion (Small), 
+Oil of Corruption, Clear Liquid Reagent, Bluffer Mushroom, Pine Sap, Trace of Violence, 
+Cloud Mushroom, Birch Sap, Blood 1, Purified Water, 
+Dwarf Mushroom, Birch Sap, Blood 1, Purified Water, 
+Clown's Blood, Tiger Mushroom, Cedar Sap, Powder of Time, 
+Oil of Tranquility, Pure Powder Reagent, Emperor Mushroom, Bloody Tree Knot, Trace of Ascension, 
+Tyrant's Blood, Fire Flake Flower, Maple Sap, Powder of Darkness, 
+Legendary Beast's Blood, Arrow Mushroom, Birch Sap, Powder of Darkness, 
+Wise Man's Blood, Fire Flake Flower, Powder of Time, Maple Sap, 
+Legendary Beast's Blood, Silver Azalea, Pine Sap, Powder of Crevice, 
+Pure Powder Reagent, Sunrise Herb, Blood 1, Purified Water, 
+Wise Man's Blood, Fortune Teller Mushroom, Pine Sap, Powder of Darkness, 
+Silver Azalea, Ash Sap, Blood 4, Purified Water, 
+Fruit of Abundance, Cloud Mushroom, Birch Sap, Trace of Ascension, 
+Fruit of Crimson Flame, Dwarf Mushroom, Ash Sap, Trace of Ascension, 
+Fruit of Destruction, Silver Azalea, Pine Sap, Powder of Flame, 
+Fruit of Enchantment, Fire Flake Flower, Ash Sap, Powder of Darkness, 
+Fruit of Magic Power, Dry Mane Grass, Birch Sap, Powder of Darkness, 
+Fruit of Nature, Fortune Teller Mushroom, Maple Sap, Trace of the Earth, 
+Fruit of Perfection, Sunrise Herb, Maple Sap, Powder of Flame, 
+Fruit of the Sun, Arrow Mushroom, Pine Sap, Trace of the Earth, 
+Clown's Blood, Dry Mane Grass, Pine Sap, Powder of Flame, 
+Wise Man's Blood, Sunrise Herb, Fir Sap, Powder of Flame, 
+Pure Powder Reagent, Processed Coal, Trace of Origin, Purified Water, 
+Oil of Storms, Clear Liquid Reagent, Fog Mushroom, Trace of Hunting, Fir Sap, 
+Griffon Claw, Cedar Sap, Trace of Battle, Purified Water, Sinner's Blood, 
+Oil of Fortitude, Pure Powder Reagent, Sky Mushroom, Monk's Branch, Trace of Origin, 
+Thuja Sap, Monk's Branch, Clown's Blood, Powder of Flame, Purified Water, 
+Insectivore Plant Powder, Powder of Darkness, 
+Insectivore Plant Sap, Amanita Mushroom, 
+Fugitive Khalk's Skin, White Cedar Sap, Trace of Chaos, Purified Water, Oil of Corruption, 
+Clear Liquid Reagent, Maple Sap, Trace of Ascension, Powder of Darkness, 
+Spirit's Leaf, Trace of the Earth, Pure Powder Reagent, Blood 5, 
+Moss Tree Sap, Volcanic Umbrella Mushroom, Powder of Flame, Red Tree Lump, Violet Flower, 
+Gemstones, Essence of Abundance, Melted Lead Shard, Wise Man's Blood, Gemstones, 
+Magic Crystal of Nature - Adamantine, Fruit of Nature, Sapphire, Silver Azalea, Gemstones, 
+Magic Crystal of Enchantment - Agility, Fruit of the Sun, Cloud Mushroom, Melted Silver Shard, Gemstones, 
+Gemstones, Essence of Magic Power, Melted Platinum Shard, Wise Man's Blood, Gemstones, 
+Magic Crystal of Abundance - Armor, Fruit of Magic Power, Translucent Crystal, Ash Sap, Gemstones, 
+Magic Crystal of Nature - Ascension, Fruit of Magic Power, Topaz, Fire Flake Flower, Gemstones, 
+Magic Crystal of the Sun - Assault, Fruit of Enchantment, Emerald, Blood 3, Gemstones, 
+Gemstones, Essence of the Sun, Melted Silver Shard, Sinner's Blood, Gemstones, 
+Magic Crystal of Crimson Flame - Carnage, Fruit of Nature, Melted Copper Shard, Blood 1, Gemstones, 
+Magic Crystal of Crimson Flame - Carnage, Fruit of the Sun, Melted Tin Shard, Blood 4, Gemstones, 
+Magic Crystal of Crimson Flame - Carnage, Fruit of Enchantment, Melted Zinc Shard, Blood 5, Gemstones, 
+Gemstones, Essence of Crimson Flame, Melted Zinc Shard, Tyrant's Blood, Gemstones, 
+Gemstones, Essence of Perfection, Polished Opal, Legendary Beast's Blood, Gemstones, 
+Magic Crystal of Nature - Descent, Fruit of Enchantment, Ruby, Wild Grass, Gemstones, 
+Gemstones, Essence of Enchantment, Melted Gold Shard, Tyrant's Blood, Gemstones, 
+Gemstones, Essence of Crimson Flame, Melted Iron Shard, Clown's Blood, Gemstones, 
+Magic Crystal of Nature - Endurance, Fruit of Perfection, Topaz, Dry Mane Grass, Gemstones, 
+Gemstones, Essence of Perfection, Ruby, Tyrant's Blood, Gemstones, 
+Gemstones, Essence of Nature, Mud Crystal, Clown's Blood, Gemstones, 
+Gemstones, Fruit of Abundance, Polished Opal, Everlasting Herb, Magic Crystal of Enchantment - Experience, 
+Gemstones, Essence of Nature, Melted Copper Shard, Legendary Beast's Blood, Gemstones, 
+Magic Crystal of Abundance - Healing, Fruit of Crimson Flame, Green Crystal, Fir Sap, Gemstones, 
+Magic Crystal of Enchantment - Intimidation, Fruit of Abundance, Red Crystal, Arrow Mushroom, Gemstones, 
+Gemstones, Essence of the Sun, Diamond, Sinner's Blood, Gemstones, 
+Gemstones, Essence of Magic Power, Melted Silver Shard, Sinner's Blood, Gemstones, 
+Gemstones, Essence of Abundance, Topaz, Wise Man's Blood, Gemstones, 
+Gemstones, Essence of the Sun, Red Crystal, Wise Man's Blood, Gemstones, 
+Magic Crystal of Enchantment - Memory, Fruit of Crimson Flame, Mud Crystal, Fortune Teller Mushroom, Gemstones, 
+Magic Crystal of Abundance - Patience, Fruit of Destruction, Red Crystal, Birch Sap, Gemstones, 
+Magic Crystal of Crimson Flame - Power, Fruit of Abundance, Melted Lead Shard, Blood 2, Gemstones, 
+Gemstones, Fruit of Crimson Flame, Melted Iron Shard, Blood 3, Gemstones, 
+Magic Crystal of the Sun - Precision, Fruit of Destruction, Emerald, Silk Honey Grass, Gemstones, 
+Gemstones, Essence of Nature, Emerald, Legendary Beast's Blood, Gemstones, 
+Gemstones, Essence of Enchantment, Green Crystal, Legendary Beast's Blood, Gemstones, 
+Magic Crystal of Abundance - Resonance, Fruit of Abundance, Melted Silver Shard, Pine Sap, Gemstones, 
+Gemstones, Essence of Abundance, Translucent Crystal, Clown's Blood, Gemstones, 
+Gemstones, Essence of Destruction, Melted Tin Shard, Sinner's Blood, Gemstones, 
+Magic Crystal of the Sun - Boulder, Fruit of Crimson Flame, Maple Sap, Diamond, Gemstones, 
+Magic Crystal of the Sun - Sturdiness, Fruit of Perfection, Diamond, Blood 2, Gemstones, 
+Gemstones, Essence of Destruction, Sapphire, Clown's Blood, Gemstones, 
+Magic Crystal of Nature - Swiftness, Fruit of the Sun, Ruby, Sunrise Herb, Gemstones, 
+Magic Crystal of the Sun - Valor, Fruit of Destruction, Translucent Crystal, Blood 1, Gemstones, 
+Magic Crystal of Abundance - Vigor, Fruit of Perfection, Mud Crystal, Maple Sap, Gemstones, 
+Magic Crystal of Enchantment - Vision, Fruit of Nature, Green Crystal, Dwarf Mushroom, Gemstones, 
+Sinner's Blood, Magic Crystal of Enchantment - Vision, Herbal Gunpowder, Sticky Liquid, Black Stone Powder, 
+Clear Liquid Reagent, Melted Iron Shard, Rough Stone, Trace of Savagery, 
+Sinner's Blood, Spirit's Leaf, Fruit of the Sun, Powder of Darkness, 
+Clown's Blood, Monk's Branch, Fruit of Nature, Powder of Flame, 
+Legendary Beast's Blood, Red Tree Lump, Fruit of Crimson Flame, Powder of Crevice, 
+Tyrant's Blood, Old Tree Bark, Fruit of Abundance, Powder of Time, 
+Tyrant's Blood, Deep Sea Fruit, Powder of Time, Bloody Tree Knot, 
+Wise Man's Blood, Bloody Tree Knot, Fruit of Magic Power, Powder of Earth, 
+Blue Whale Oil, Trace of Violence, Bloody Tree Knot, Purified Water, Clear Liquid Reagent, 
+Blue Whale Oil, Powder of Time, Everlasting Herb, Purified Water, Clear Liquid Reagent, 
+Pure Powder Reagent, Bloody Tree Knot, Fir Sap, Trace of the Earth, 
+Wild Grass, Silver Azalea, Sugar, Purified Water, 
+Clear Liquid Reagent, Sunrise Herb, Purified Water, HP Potion (Small), 
+Bloody Tree Knot, Powder of Flame, Clear Liquid Reagent, Blood 2, 
+Top-Quality Cooking Honey, Fruit of Abundance, Essence of Liquor, Purified Water, 
+Dead Tree Essence, Fruit of Nature, Loopy Tree Sap, Powder of Darkness, Violet Flower, 
+Monk's Branch, Trace of Savagery, Pure Powder Reagent, Blood 4, 
+Moss Tree Sap, Blue Umbrella Mushroom, Powder of Time, Monk's Branch, Sky Blue Flower, 
+Blue Whale Tendon, Clown's Blood, Ash Sap, Purified Water, Clear Liquid Reagent, 
+Blue Whale Tendon, HP Potion (Medium), MP Potion (Medium), Purified Water, 
+Monk's Branch, Trace of Ascension, Clear Liquid Reagent, Blood 3, 
+Sinner's Blood, Silver Azalea, Ash Sap, Powder of Flame, 
