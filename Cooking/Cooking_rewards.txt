@@ -1,111 +1,104 @@
-"https://bdocodex.com/us/item/9205/","https://bdocodex.com/us/item/9294/"
-"https://bdocodex.com/us/item/9204/","https://bdocodex.com/us/item/9293/"
-"https://bdocodex.com/us/item/9209/","https://bdocodex.com/us/item/9298/"
-"https://bdocodex.com/us/item/9601/","https://bdocodex.com/us/item/9602/"
-"https://bdocodex.com/us/item/9213/","https://bdocodex.com/us/item/9283/"
-"https://bdocodex.com/us/item/9213/","https://bdocodex.com/us/item/9283/"
-"https://bdocodex.com/us/item/9402/","https://bdocodex.com/us/item/9436/"
-"https://bdocodex.com/us/item/9408/","https://bdocodex.com/us/item/9452/"
-"https://bdocodex.com/us/item/9477/","https://bdocodex.com/us/item/9478/"
-"https://bdocodex.com/us/item/9605/","https://bdocodex.com/us/item/9606/"
-"https://bdocodex.com/us/item/9203/","https://bdocodex.com/us/item/9282/"
-"https://bdocodex.com/us/item/9268/","https://bdocodex.com/us/item/9273/"
-"https://bdocodex.com/us/item/9307/","https://bdocodex.com/us/item/9310/"
-"https://bdocodex.com/us/item/9309/","https://bdocodex.com/us/item/9312/"
-"https://bdocodex.com/us/item/9308/","https://bdocodex.com/us/item/9311/"
-"https://bdocodex.com/us/item/9220/","https://bdocodex.com/us/item/9305/"
-"https://bdocodex.com/us/item/9422/","https://bdocodex.com/us/item/9448/"
-"https://bdocodex.com/us/item/9219/","https://bdocodex.com/us/item/9304/"
-"https://bdocodex.com/us/item/9410/","https://bdocodex.com/us/item/9453/"
-"https://bdocodex.com/us/item/9006/",
-"https://bdocodex.com/us/item/9694/",
-"https://bdocodex.com/us/item/9057/",
-"https://bdocodex.com/us/item/9262/","https://bdocodex.com/us/item/9279/"
-"https://bdocodex.com/us/item/9216/","https://bdocodex.com/us/item/9301/"
-"https://bdocodex.com/us/item/9208/","https://bdocodex.com/us/item/9297/"
-"https://bdocodex.com/us/item/9423/","https://bdocodex.com/us/item/9449/"
-"https://bdocodex.com/us/item/9418/","https://bdocodex.com/us/item/9428/"
-"https://bdocodex.com/us/item/9494/","https://bdocodex.com/us/item/9495/"
-"https://bdocodex.com/us/item/9215/","https://bdocodex.com/us/item/9300/"
-"https://bdocodex.com/us/item/9403/","https://bdocodex.com/us/item/9437/"
-"https://bdocodex.com/us/item/9407/","https://bdocodex.com/us/item/9429/"
-"https://bdocodex.com/us/item/9256/","https://bdocodex.com/us/item/9271/"
-"https://bdocodex.com/us/item/9258/","https://bdocodex.com/us/item/9285/"
-"https://bdocodex.com/us/item/9257/","https://bdocodex.com/us/item/9278/"
-"https://bdocodex.com/us/item/9264/","https://bdocodex.com/us/item/9287/"
-"https://bdocodex.com/us/item/9259/","https://bdocodex.com/us/item/9274/"
-"https://bdocodex.com/us/item/9201/","https://bdocodex.com/us/item/9280/"
-"https://bdocodex.com/us/item/9486/","https://bdocodex.com/us/item/9487/"
-"https://bdocodex.com/us/item/54017/",
-"https://bdocodex.com/us/item/9255/","https://bdocodex.com/us/item/9275/"
-"https://bdocodex.com/us/item/9492/","https://bdocodex.com/us/item/9493/"
-"https://bdocodex.com/us/item/9427/","https://bdocodex.com/us/item/9431/"
-"https://bdocodex.com/us/item/9461/","https://bdocodex.com/us/item/9462/"
-"https://bdocodex.com/us/item/9267/","https://bdocodex.com/us/item/9290/"
-"https://bdocodex.com/us/item/9465/","https://bdocodex.com/us/item/9467/"
-"https://bdocodex.com/us/item/9479/","https://bdocodex.com/us/item/9480/"
-"https://bdocodex.com/us/item/9210/",
-"https://bdocodex.com/us/item/9206/","https://bdocodex.com/us/item/9295/"
-"https://bdocodex.com/us/item/9266/","https://bdocodex.com/us/item/9289/"
-"https://bdocodex.com/us/item/9266/","https://bdocodex.com/us/item/9289/"
-"https://bdocodex.com/us/item/9459/","https://bdocodex.com/us/item/9460/"
-"https://bdocodex.com/us/item/9459/","https://bdocodex.com/us/item/9460/"
-"https://bdocodex.com/us/item/9635/","https://bdocodex.com/us/item/9636/"
-"https://bdocodex.com/us/item/9469/","https://bdocodex.com/us/item/9470/"
-"https://bdocodex.com/us/item/9463/","https://bdocodex.com/us/item/9464/"
-"https://bdocodex.com/us/item/9631/",
-"https://bdocodex.com/us/item/9425/","https://bdocodex.com/us/item/9435/"
-"https://bdocodex.com/us/item/9406/","https://bdocodex.com/us/item/9451/"
-"https://bdocodex.com/us/item/9634/",
-"https://bdocodex.com/us/item/9404/","https://bdocodex.com/us/item/9438/"
-"https://bdocodex.com/us/item/9416/","https://bdocodex.com/us/item/9444/"
-"https://bdocodex.com/us/item/9265/","https://bdocodex.com/us/item/9288/"
-"https://bdocodex.com/us/item/9415/","https://bdocodex.com/us/item/9443/"
-"https://bdocodex.com/us/item/9424/","https://bdocodex.com/us/item/9434/"
-"https://bdocodex.com/us/item/9414/","https://bdocodex.com/us/item/9442/"
-"https://bdocodex.com/us/item/9607/","https://bdocodex.com/us/item/9608/"
-"https://bdocodex.com/us/item/9263/","https://bdocodex.com/us/item/9277/"
-"https://bdocodex.com/us/item/9261/","https://bdocodex.com/us/item/9276/"
-"https://bdocodex.com/us/item/9269/","https://bdocodex.com/us/item/9291/"
-"https://bdocodex.com/us/item/54018/",
-"https://bdocodex.com/us/item/54018/",
-"https://bdocodex.com/us/item/9475/","https://bdocodex.com/us/item/9476/"
-"https://bdocodex.com/us/item/9412/","https://bdocodex.com/us/item/9454/"
-"https://bdocodex.com/us/item/9202/","https://bdocodex.com/us/item/9281/"
-"https://bdocodex.com/us/item/9217/","https://bdocodex.com/us/item/9302/"
-"https://bdocodex.com/us/item/9471/","https://bdocodex.com/us/item/9472/"
-"https://bdocodex.com/us/item/9483/","https://bdocodex.com/us/item/9484/"
-"https://bdocodex.com/us/item/9316/","https://bdocodex.com/us/item/9317/"
-"https://bdocodex.com/us/item/9004/",
-"https://bdocodex.com/us/item/9488/","https://bdocodex.com/us/item/9489/"
-"https://bdocodex.com/us/item/9421/","https://bdocodex.com/us/item/9433/"
-"https://bdocodex.com/us/item/9419/","https://bdocodex.com/us/item/9446/"
-"https://bdocodex.com/us/item/9413/","https://bdocodex.com/us/item/9441/"
-"https://bdocodex.com/us/item/9603/","https://bdocodex.com/us/item/9604/"
-"https://bdocodex.com/us/item/9490/","https://bdocodex.com/us/item/9491/"
-"https://bdocodex.com/us/item/9417/","https://bdocodex.com/us/item/9445/"
-"https://bdocodex.com/us/item/9260/","https://bdocodex.com/us/item/9286/"
-"https://bdocodex.com/us/item/9632/",
-"https://bdocodex.com/us/item/9211/",
-"https://bdocodex.com/us/item/9637/",
-"https://bdocodex.com/us/item/9637/",
-"https://bdocodex.com/us/item/9401/","https://bdocodex.com/us/item/9430/"
-"https://bdocodex.com/us/item/9405/","https://bdocodex.com/us/item/9450/"
-"https://bdocodex.com/us/item/9409/","https://bdocodex.com/us/item/9439/"
-"https://bdocodex.com/us/item/9473/","https://bdocodex.com/us/item/9474/"
-"https://bdocodex.com/us/item/9411/","https://bdocodex.com/us/item/9440/"
-"https://bdocodex.com/us/item/9455/","https://bdocodex.com/us/item/9457/"
-"https://bdocodex.com/us/item/9318/","https://bdocodex.com/us/item/9319/"
-"https://bdocodex.com/us/item/9466/","https://bdocodex.com/us/item/9468/"
-"https://bdocodex.com/us/item/9426/","https://bdocodex.com/us/item/9432/"
-"https://bdocodex.com/us/item/9420/","https://bdocodex.com/us/item/9447/"
-"https://bdocodex.com/us/item/9241/","https://bdocodex.com/us/item/9284/"
-"https://bdocodex.com/us/item/9207/","https://bdocodex.com/us/item/9296/"
-"https://bdocodex.com/us/item/54030/",
-"https://bdocodex.com/us/item/9270/","https://bdocodex.com/us/item/9292/"
-"https://bdocodex.com/us/item/9214/","https://bdocodex.com/us/item/9299/"
-"https://bdocodex.com/us/item/9218/","https://bdocodex.com/us/item/9303/"
-"https://bdocodex.com/us/item/9609/","https://bdocodex.com/us/item/9610/"
-"https://bdocodex.com/us/item/9066/",
-"https://bdocodex.com/us/item/9456/","https://bdocodex.com/us/item/9458/"
-"https://bdocodex.com/us/item/9003/",
+Aloe Cookie, Sweet Aloe Cookie, 
+Aloe Yogurt, Thick Aloe Yogurt, 
+Assorted Side Dishes, Plentiful Assorted Side Dishes, 
+Balenos Meal, Special Balenos Meal, 
+Beer, Cold Draft Beer, 
+Boiled Bird Eggs, Appealing Boiled Bird Egg, 
+Borscht, Fragrant Borscht, 
+Butter-Roasted Lobster, Golden Butter-Roasted Lobster, 
+Calpheon Meal, Special Calpheon Meal, 
+Cheese Gratin, Chewy Cheese Gratin, 
+Cheese Pie, High-Quality Cheese Pie, 
+Coconut Cocktail, Chilled Coconut Cocktail, 
+Coconut Fried Fish, Crispy Coconut Fried Fish, 
+Coconut Pasta, Sweet Coconut Pasta, 
+Couscous, Classic Couscous, 
+Dark Pudding, Bloody Dark Pudding, 
+Date Palm Wine, Mild Date Palm Wine, 
+Desert Dumpling, Chewy Desert Dumpling, 
+Dressing, 
+Energizing Cron Meal, 
+Essence of Liquor, 
+Exotic Herbal Wine, Full-bodied Exotic Herbal Wine, 
+Fig Pie, Sweet Fig Pie, 
+Fish Fillet Chips, Mouth-watering Fish Fillet Chips, 
+Fish Fillet Salad, Fresh Fish Fillet Salad, 
+Fish Soup, Special Fish Soup, 
+Five-Grain Chicken Porridge, Thick Five-Grain Chicken Porridge, 
+Freekeh Snake Stew, Thick Freekeh Snake Stew, 
+Fried Bird, Divine Fried Bird, 
+Fried Fish, Crispy Fried Fish, 
+Fried Vegetables, Crispy Fried Vegetables, 
+Fruit and Vegetable Salad, Fresh Fruit and Vegetable Salad, 
+Fruit Juice, Thick Fruit Juice, 
+Fruit Pie, Sweet Fruit Pie, 
+Fruit Pudding, Special Fruit Pudding, 
+Fruit Wine, Luscious Fruit Wine, 
+Ghormeh Sabzi, Thick Ghormeh Sabzi, 
+Good Feed, 
+Grain Soup, Special Grain Soup, 
+Grilled Bird Meat, Steaming Hot Grilled Bird Meat, 
+Grilled Sausage, Smoked Sausage, 
+Grilled Scorpion, Crispy Grilled Scorpion, 
+Ham Sandwich, High-Quality Ham Sandwich, 
+Hard-Boiled Shellfish, Big Hard-Boiled Shellfish, 
+High-Quality Carrot Juice, 
+Honey Wine, Tangy Honey Wine, 
+Honeycomb Cookie, Crispy Honeycomb Cookie, 
+Hunter's Salad, Fresh Hunter's Salad, 
+Kamasylvia Meal, Special Kamasylvia Meal, 
+Khalk's Fermented Wine, Khalk's Strong Fermented Wine, 
+King of Jungle Hamburg, Jumbo King of Jungle Hamburg, 
+Knight Combat Rations, 
+Lean Meat Salad, Top Grade Lean Meat Salad, 
+Lizard Kebab, Lean Lizard Kebab, 
+Margoria Seafood Meal, 
+Meat Croquette, Crispy Meat Croquette, 
+Meat Pasta, Spaghetti alla Bolognese, 
+Meat Pie, Lean Meat Pie, 
+Meat Sandwich, High-Quality Meat Sandwich, 
+Meat Soup, Special Meat Soup, 
+Meat Stew, Thick Meat Stew, 
+Mediah Meal, Special Mediah Meal, 
+Milk Tea, Smooth Milk Tea, 
+Oatmeal, Refined Oatmeal, 
+Omelet, Soft Omelet, 
+Organic Feed, 
+Pan-Fried Oyster, Aromatic Pan-Fried Oyster, 
+Pickled Fish, Sour Pickled Fish, 
+Pickled Vegetables, Sweet and Sour Pickled Vegetable, 
+Pistachio Fried Rice, Savory Pistachio Fried Rice, 
+Prawn Salad, Sweet and Sour Prawn Salad, 
+Rainbow Button Mushroom Cheese Melt, Mild Rainbow Button Mushroom Cheese Melt, 
+Rainbow Button Mushroom Sandwich, Sweet Rainbow Button Mushroom Sandwich, 
+Red Sauce, 
+Roast Marmot, Golden Roast Marmot, 
+Seafood Grilled with Butter, Savory Seafood Grilled with Butter, 
+Seafood Mushroom Salad, Special Seafood Mushroom Salad, 
+Seafood Pasta, High-Quality Seafood Pasta, 
+Serendia Meal, Special Serendia Meal, 
+Skewered Llama Cheese Melt, Spicy Skewered Llama Cheese Melt, 
+Smoked Fish Steak, Golden Smoked Fish Steak, 
+Soft Bread, Moist Milk Bread, 
+Special Arehaza Meal, 
+Special Carrot Juice, 
+Special Drieghanese Meal, 
+Steak, Juicy Steak, 
+Steamed Bird, Well-aged Steamed Bird, 
+Steamed Fish, Lean Steamed Fish, 
+Steamed Prawn, Hearty Steamed Prawn, 
+Steamed Seafood, Plentiful Steamed Fish, 
+Steamed Whale Meat, Chewy Steamed Whale Meat, 
+Stir-Fried Bracken, Savory Stir-Fried Bracken, 
+Stir-Fried Meat, Special Stir-Fried Meat, 
+Stir-Fried Seafood, Special Stir-Fried Seafood, 
+Stir-Fried Vegetables, Crispy Stir-Fried Vegetables, 
+Sute Tea, Healthy Sute Tea, 
+Sweet Honey Wine, 
+Tea With Fine Scent, Tea with Strong Scent, 
+Teff Bread, Spongy Teff Bread, 
+Teff Sandwich, Spicy Teff Sandwich, 
+Valencia Meal, Special Valencia Meal, 
+Vinegar, 
+Whale Meat Salad, Fresh Whale Meat Salad, 
+White Sauce, 

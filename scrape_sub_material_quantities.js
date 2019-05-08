@@ -3,7 +3,7 @@ const processing_url = 'https://bdocodex.com/us/mrecipes/';
 const alchemy_url = 'https://bdocodex.com/us/recipes/alchemy/';
 const cook_url = 'https://bdocodex.com/us/recipes/culinary/';
 const fs = require('fs');
-let writeStream = fs.createWriteStream('Processing_quantites.txt');
+let writeStream = fs.createWriteStream('Processing_rewards_quantites.txt');
 
 
 
@@ -46,7 +46,7 @@ async function run() {
      //let title = row.querySelector(".dt-title").textContent;
      //let craft_name = row.querySelector('.dt-title a b')
      //const names = [];
-     let material_amount = row.querySelectorAll('td:nth-child(7) a');
+     let material_amount = row.querySelectorAll('td:nth-child(8) a');
      let materials = Array.from(material_amount);
      let ayy = materials.map(row2 => {
      var divs = [];

@@ -17,17 +17,49 @@ function writeToCsv(array){
 
 (async() =>{
 
-  const browser = await puppeteer.launch({headless:false});
+  const browser = await puppeteer.launch({headless:true});
 
   const page = await browser.newPage();
   await page.setViewport({ width: 1200, height: 1200 })
 
-  await page.goto(cook_url, {waitUntil: 'domcontentloaded'});
+  await page.goto(processing_url, {waitUntil: 'domcontentloaded'});
   await page.waitFor(2000);
   await page.select('select.form-control', '200')
-  await page.waitFor(10000);
+  await page.waitFor(2000);
+  
+  //page 2
+  await page.click('li.paginate_button.next');
+  await page.waitFor(2000);
+  //page 3
+  await page.click('li.paginate_button.next');
+  await page.waitFor(2000);
+  //page 4
+  await page.click('li.paginate_button.next');
+  await page.waitFor(2000);
+  //page 5
+  await page.click('li.paginate_button.next');
+  await page.waitFor(2000);
+  //page 6
+  await page.click('li.paginate_button.next');
+  await page.waitFor(2000);
+  // //page 7
+  // await page.click('li.paginate_button.next');
+  // await page.waitFor(2000);
+  // //page 8
+  // await page.click('li.paginate_button.next');
+  // await page.waitFor(2000);
 
-//  for(var i = 0; i<8;i++){
+
+// Page 3 has 4 empty elements
+// Page 6 has 2 empty elements
+
+
+
+
+
+
+
+// for(var i = 0; i<8;i++){
   let episodes_details = await page.evaluate(() => {
 
     let table = document.querySelector("table.table tbody");
@@ -39,34 +71,27 @@ function writeToCsv(array){
      //let title = episode_panel.querySelector(".dt-title").textContent;
      //let craft_name = episode_panel.querySelector('.dt-title a b')
      //const names = [];
-     let craft_quantity = episode_panel.querySelectorAll("td:nth-child(7) div:nth-child(2)");
-    //  let materials_list = episode_panel.querySelectorAll("td:nth-child(8) a");
-    //  const items = [];
-      const quantities = [];
+     let materials_list = episode_panel.querySelectorAll("td:nth-child(7) a");
+     const items = [];
+
 
     //  names.push(craft_name.textContent);
 
-     // for (let element of materials_list) {
-     //   items.push(element.href);
-     // }
-
-     for (let element of craft_quantity) {
-       if(element.textContent.trim()===''){
-         quantities.push('1');
-       }else{
-       quantities.push(element.textContent.trim());
-     }
+     for (let element of materials_list) {
+       items.push(element.href);
      }
 
-     return quantities;
+    
+
+     return items;
    });
 
    return episodes_info;
 
 });
-  writeToCsv(episodes_details);
-//  await page.click('li.paginate_button.next');
-//  await page.waitFor(2000);
+ writeToCsv(episodes_details);
+ // await page.click('li.paginate_button.next');
+ // await page.waitFor(2000);
 
 //}
 
