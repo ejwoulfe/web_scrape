@@ -1,5 +1,4 @@
 "Antidote Elixir"
-"Broken Alchemy Stone Shard"
 "Clear Liquid Reagent"
 "Clown's Blood"
 "Defense Elixir"
