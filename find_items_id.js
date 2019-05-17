@@ -15,7 +15,7 @@ con.connect(function(err) {
 
 
 
-var data = fs.readFileSync('Alchemy/Alchemy_rewards.txt', 'utf8');
+var data = fs.readFileSync('Alchemy/Alchemy_sub_materials.txt', 'utf8');
 var hold = data.split("\r");
 
 // for(var i = 0; i < hold.length;i++){

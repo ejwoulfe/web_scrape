@@ -2,7 +2,7 @@ const fs = require('fs');
 var readline = require('readline');
 let writeStream = fs.createWriteStream('organized_sql.txt');
 var textByLine = fs.readFileSync('all_items_ids.txt').toString().split("\n");
-fs.readFile('Alchemy/Alchemy_rewards.txt', function(err, data) {
+fs.readFile('Alchemy/Alchemy_sub_materials.txt', function(err, data) {
    if(err) throw err;
    var array = data.toString().split("\n");
    //array.length-1
