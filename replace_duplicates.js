@@ -2,21 +2,39 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const { parse } = require('json2csv');
 var readline = require('readline');
-let writeStream = fs.createWriteStream('fast_sql.txt');
-var id = 2105;
+let writeStreamOneItem = fs.createWriteStream('Sub_Materials_Inserts/oneItem.txt');
+let writeStreamTwoItem = fs.createWriteStream('Sub_Materials_Inserts/twoItem.txt');
+let writeStreamThreeItem = fs.createWriteStream('Sub_Materials_Inserts/threeItem.txt');
+let writeStreamFourItem = fs.createWriteStream('Sub_Materials_Inserts/fourItem.txt');
+let writeStreamFiveItem = fs.createWriteStream('Sub_Materials_Inserts/fiveItem.txt');
 
 
-fs.readFile('Processing/Processing_sub_materials.txt', function(err, data) {
+fs.readFile('Processing/FormattedIDs/sql_format.txt', function(err, data) {
    if(err) throw err;
    var array = data.toString().split("\n");
   // for(var i = 0; i< array.length;i++) {
-//     let unique = [...new Set(array)];
+
+for(var i = 0; i < array.length; i++){
+  //  console.log(array[i].split(",").length -1);
+    if(array[i].split(",").length - 1 == 4){
+      writeStreamOneItem.write(array[i]);
+      writeStreamOneItem.write("\n");
+    }else if(array[i].split(",").length - 1 == 6){
+      writeStreamTwoItem.write(array[i]);
+      writeStreamTwoItem.write("\n");
+    }else if(array[i].split(",").length - 1 == 8){
+      writeStreamThreeItem.write(array[i]);
+      writeStreamThreeItem.write("\n");
+    }else if(array[i].split(",").length - 1 == 10){
+      writeStreamFourItem.write(array[i]);
+      writeStreamFourItem.write("\n");
+    }else if(array[i].split(",").length - 1 == 12){
+      writeStreamFiveItem.write(array[i]);
+      writeStreamFiveItem.write("\n");
+    }
+  
+}
      
-     for(var i = 571; i< 668;i++) {
-       writeStream.write("(" + id++ + ', ' + '"' +  array[i].replace(",", '') + '",' + '"' + "../assets/item_images/" + array[i].replace(",", '') + '.png", ' + '"Base"'  + "),");
-       writeStream.write("\n");
- 
-     }
 
    //}
 });
