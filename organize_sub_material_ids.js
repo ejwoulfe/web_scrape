@@ -1,8 +1,8 @@
 const fs = require('fs');
 var readline = require('readline');
 let writeStream = fs.createWriteStream('organized_sql.txt');
-var textByLine = fs.readFileSync('all_items_ids.txt').toString().split("\n");
-fs.readFile('Alchemy/Alchemy_sub_materials.txt', function(err, data) {
+var textByLine = fs.readFileSync('Processing/Rewards_Table_Data/processing_rewards_ids.txt').toString().split("\n");
+fs.readFile('Processing/Processing_rewards.txt', function(err, data) {
    if(err) throw err;
    var array = data.toString().split("\n");
    //array.length-1
@@ -13,9 +13,9 @@ fs.readFile('Alchemy/Alchemy_sub_materials.txt', function(err, data) {
      
   
      if(z===amountOfMaterials-1){
-       writeStream.write(textByLine[0]);
+       writeStream.write(String(textByLine[0]));
      }else{
-     writeStream.write(textByLine[0] + ", ");
+     writeStream.write(String(textByLine[0]) + ", ");
    }
    textByLine.shift()
     

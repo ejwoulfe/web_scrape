@@ -1,6 +1,6 @@
 const fs = require('fs');
 var mysql = require('mysql');
-let writeStream = fs.createWriteStream('alchemy_recipes_ids.txt');
+let writeStream = fs.createWriteStream('processing_rewards_ids.txt');
 var arr = [];
 var con = mysql.createConnection({
   host: "localhost",
@@ -15,21 +15,21 @@ con.connect(function(err) {
 
 
 
-var data = fs.readFileSync('Alchemy/Alchemy_recipe_name.txt', 'utf8');
+var data = fs.readFileSync('Processing/Processing_rewards.txt', 'utf8');
 var hold = data.split("\r");
 // for(var i = 0; i < hold.length;i++){
 for(var i = 0; i < hold.length;i++){
     var itemList = (hold[i].split(","));
-    for(var z = 0; z < itemList.length;z++){
+    for(var z = 0; z < itemList.length-1;z++){
       var item = itemList[z].trim();
       
       con.query("SELECT material_id FROM materials_table WHERE material_name = " + "\"" + item + "\"", function (err, result, fields) {
     if (err) throw err;
     if(result===[]){
     }
-     writeStream.write(JSON.stringify(result));
-     writeStream.write("\n")
-
+     // writeStream.write(JSON.stringify(result));
+     // writeStream.write("\n")
+     console.log(result);
 
 
 
