@@ -28,20 +28,20 @@ function writeToCsv(array){
   await page.waitFor(2000);
   
   //page 2
-  await page.click('li.paginate_button.next');
-  await page.waitFor(2000);
-  //page 3
-  await page.click('li.paginate_button.next');
-  await page.waitFor(2000);
-  //page 4
-  await page.click('li.paginate_button.next');
-  await page.waitFor(2000);
-  //page 5
-  await page.click('li.paginate_button.next');
-  await page.waitFor(2000);
-  //page 6
-  await page.click('li.paginate_button.next');
-  await page.waitFor(2000);
+  // await page.click('li.paginate_button.next');
+  // await page.waitFor(2000);
+  // //page 3
+  // await page.click('li.paginate_button.next');
+  // await page.waitFor(2000);
+  // //page 4
+  // await page.click('li.paginate_button.next');
+  // await page.waitFor(2000);
+  // //page 5
+  // await page.click('li.paginate_button.next');
+  // await page.waitFor(2000);
+  // //page 6
+  // await page.click('li.paginate_button.next');
+  // await page.waitFor(2000);
   // //page 7
   // await page.click('li.paginate_button.next');
   // await page.waitFor(2000);

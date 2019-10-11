@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const url = 'https://bdocodex.com/us/recipes/alchemy/';
+const url = 'https://bdocodex.com/us/mrecipes/';
 const fs = require('fs');
 const { parse } = require('json2csv');
 
@@ -26,7 +26,8 @@ function writeToCsv(array){
     
     Array.from(document.querySelectorAll('tbody tr')).map(tr =>({
       itemName: tr.querySelector('tbody tr b').textContent,
-      itemImage: tr.querySelector('tbody tr td.dt-icon img').src,
+      itemImage: tr.querySelector('tbody tr td:nth-child(2) img').src,
+      
       
     }))
     
