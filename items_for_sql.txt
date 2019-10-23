@@ -1,955 +1,0 @@
-(947,"Abyssal Brass Ingot","../assets/item_images/Abyssal Brass Ingot.png","Base"),
-(948,"Blue Whale Molar","../assets/item_images/Blue Whale Molar.png","Base"),
-(949,"Emergency Ship Repair Kit","../assets/item_images/Emergency Ship Repair Kit.png","Base"),
-(950,"Ferocious Leather","../assets/item_images/Ferocious Leather.png","Base"),
-(951,"Forest Fury","../assets/item_images/Forest Fury.png","Base"),
-(952,"Fugitive Khalk's Shiny Claw","../assets/item_images/Fugitive Khalk's Shiny Claw.png","Base"),
-(953,"Garmoth's Heart","../assets/item_images/Garmoth's Heart.png","Base"),
-(954,"Garmoth's Scale","../assets/item_images/Garmoth's Scale.png","Base"),
-(955,"Intact Griffon's Beak","../assets/item_images/Intact Griffon's Beak.png","Base"),
-(956,"Mystical Cleaning Oil","../assets/item_images/Mystical Cleaning Oil.png","Base"),
-(957,"Unidentifiable Fish","../assets/item_images/Unidentifiable Fish.png","Base"),
-(958,"Whale Meat","../assets/item_images/Whale Meat.png","Base"),
-(959,"Alchemy Stone Shard","../assets/item_images/Alchemy Stone Shard.png","Base"),
-(960,"Blue Whale Bone","../assets/item_images/Blue Whale Bone.png","Base"),
-(961,"Blue Whale Oil","../assets/item_images/Blue Whale Oil.png","Base"),
-(962,"Coral Crystal","../assets/item_images/Coral Crystal.png","Base"),
-(963,"Dragon Scale Fossil","../assets/item_images/Dragon Scale Fossil.png","Base"),
-(964,"Fugitive Khalk's Horn","../assets/item_images/Fugitive Khalk's Horn.png","Base"),
-(965,"Fugitive Khalk's Skin","../assets/item_images/Fugitive Khalk's Skin.png","Base"),
-(966,"Golden Pearl","../assets/item_images/Golden Pearl.png","Base"),
-(967,"Ship Repair Kit","../assets/item_images/Ship Repair Kit.png","Base"),
-(968,"Special Acacia Seed","../assets/item_images/Special Acacia Seed.png","Base"),
-(969,"Special Amanita Mushroom","../assets/item_images/Special Amanita Mushroom.png","Base"),
-(970,"Special Amanita Mushroom Hypha","../assets/item_images/Special Amanita Mushroom Hypha.png","Base"),
-(971,"Special Ancient Mushroom","../assets/item_images/Special Ancient Mushroom.png","Base"),
-(972,"Special Ancient Mushroom Hypha","../assets/item_images/Special Ancient Mushroom Hypha.png","Base"),
-(973,"Special Arrow Mushroom","../assets/item_images/Special Arrow Mushroom.png","Base"),
-(974,"Special Arrow Mushroom Hypha","../assets/item_images/Special Arrow Mushroom Hypha.png","Base"),
-(975,"Special Barley","../assets/item_images/Special Barley.png","Base"),
-(976,"Special Barley Seed","../assets/item_images/Special Barley Seed.png","Base"),
-(977,"Special Bluffer Mushroom","../assets/item_images/Special Bluffer Mushroom.png","Base"),
-(978,"Special Bluffer Mushroom Hypha","../assets/item_images/Special Bluffer Mushroom Hypha.png","Base"),
-(979,"Special Bouquet Mushroom","../assets/item_images/Special Bouquet Mushroom.png","Base"),
-(980,"Special Bouquet Mushroom Hypha","../assets/item_images/Special Bouquet Mushroom Hypha.png","Base"),
-(981,"Special Carrot Seed","../assets/item_images/Special Carrot Seed.png","Base"),
-(982,"Special Chicken Feed","../assets/item_images/Special Chicken Feed.png","Base"),
-(983,"Special Cloud Mushroom","../assets/item_images/Special Cloud Mushroom.png","Base"),
-(984,"Special Cloud Mushroom Hypha","../assets/item_images/Special Cloud Mushroom Hypha.png","Base"),
-(985,"Special Corn","../assets/item_images/Special Corn.png","Base"),
-(986,"Special Corn Seed","../assets/item_images/Special Corn Seed.png","Base"),
-(987,"Special Dalvenia Alrea","../assets/item_images/Special Dalvenia Alrea.png","Base"),
-(988,"Special Dalvenia Alrea Seed","../assets/item_images/Special Dalvenia Alrea Seed.png","Base"),
-(989,"Special Dry Mane Grass","../assets/item_images/Special Dry Mane Grass.png","Base"),
-(990,"Special Dry Mane Grass Seed","../assets/item_images/Special Dry Mane Grass Seed.png","Base"),
-(991,"Special Dwarf Mushroom","../assets/item_images/Special Dwarf Mushroom.png","Base"),
-(992,"Special Dwarf Mushroom Hypha","../assets/item_images/Special Dwarf Mushroom Hypha.png","Base"),
-(993,"Special Emperor Mushroom","../assets/item_images/Special Emperor Mushroom.png","Base"),
-(994,"Special Emperor Mushroom Hypha","../assets/item_images/Special Emperor Mushroom Hypha.png","Base"),
-(995,"Special Fig","../assets/item_images/Special Fig.png","Base"),
-(996,"Special Fig Seed","../assets/item_images/Special Fig Seed.png","Base"),
-(997,"Special Fire Flake Flower","../assets/item_images/Special Fire Flake Flower.png","Base"),
-(998,"Special Fire Flake Flower Seed","../assets/item_images/Special Fire Flake Flower Seed.png","Base"),
-(999,"Special Fog Mushroom","../assets/item_images/Special Fog Mushroom.png","Base"),
-(1000,"Special Fog Mushroom Hypha","../assets/item_images/Special Fog Mushroom Hypha.png","Base"),
-(1001,"Special Fortune Teller Mushroom","../assets/item_images/Special Fortune Teller Mushroom.png","Base"),
-(1002,"Special Fortune Teller Mushroom Hypha","../assets/item_images/Special Fortune Teller Mushroom Hypha.png","Base"),
-(1003,"Special Freekeh","../assets/item_images/Special Freekeh.png","Base"),
-(1004,"Special Freekeh Seed","../assets/item_images/Special Freekeh Seed.png","Base"),
-(1005,"Special Garlic","../assets/item_images/Special Garlic.png","Base"),
-(1006,"Special Garlic Seed","../assets/item_images/Special Garlic Seed.png","Base"),
-(1007,"Special Ghost Mushroom","../assets/item_images/Special Ghost Mushroom.png","Base"),
-(1008,"Special Ghost Mushroom Hypha","../assets/item_images/Special Ghost Mushroom Hypha.png","Base"),
-(1009,"Special Grape","../assets/item_images/Special Grape.png","Base"),
-(1010,"Special Grape Seed","../assets/item_images/Special Grape Seed.png","Base"),
-(1011,"Special Haystack","../assets/item_images/Special Haystack.png","Base"),
-(1012,"Special Hot Pepper","../assets/item_images/Special Hot Pepper.png","Base"),
-(1013,"Special Hot Pepper Seed","../assets/item_images/Special Hot Pepper Seed.png","Base"),
-(1014,"Special Hump Mushroom","../assets/item_images/Special Hump Mushroom.png","Base"),
-(1015,"Special Hump Mushroom Hypha","../assets/item_images/Special Hump Mushroom Hypha.png","Base"),
-(1016,"Special Leccinum","../assets/item_images/Special Leccinum.png","Base"),
-(1017,"Special Leccinum Hypha","../assets/item_images/Special Leccinum Hypha.png","Base"),
-(1018,"Special Nolina","../assets/item_images/Special Nolina.png","Base"),
-(1019,"Special Nolina Seed","../assets/item_images/Special Nolina Seed.png","Base"),
-(1020,"Special Nutmeg","../assets/item_images/Special Nutmeg.png","Base"),
-(1021,"Special Nutmeg Seed","../assets/item_images/Special Nutmeg Seed.png","Base"),
-(1022,"Special Olive","../assets/item_images/Special Olive.png","Base"),
-(1023,"Special Olive Seed","../assets/item_images/Special Olive Seed.png","Base"),
-(1024,"Special Onion","../assets/item_images/Special Onion.png","Base"),
-(1025,"Special Onion Seed","../assets/item_images/Special Onion Seed.png","Base"),
-(1026,"Special Paprika","../assets/item_images/Special Paprika.png","Base"),
-(1027,"Special Paprika Seed","../assets/item_images/Special Paprika Seed.png","Base"),
-(1028,"Special Penestraria","../assets/item_images/Special Penestraria.png","Base"),
-(1029,"Special Penestraria Seed","../assets/item_images/Special Penestraria Seed.png","Base"),
-(1030,"Special Pepper","../assets/item_images/Special Pepper.png","Base"),
-(1031,"Special Pepper Seed","../assets/item_images/Special Pepper Seed.png","Base"),
-(1032,"Special Pie Mushroom","../assets/item_images/Special Pie Mushroom.png","Base"),
-(1033,"Special Pie Mushroom Hypha","../assets/item_images/Special Pie Mushroom Hypha.png","Base"),
-(1034,"Special Potato","../assets/item_images/Special Potato.png","Base"),
-(1035,"Special Pumpkin","../assets/item_images/Special Pumpkin.png","Base"),
-(1036,"Special Pumpkin Seed","../assets/item_images/Special Pumpkin Seed.png","Base"),
-(1037,"Special Purple Mushroom","../assets/item_images/Special Purple Mushroom.png","Base"),
-(1038,"Special Purple Mushroom Hypha","../assets/item_images/Special Purple Mushroom Hypha.png","Base"),
-(1039,"Special Seed Potato","../assets/item_images/Special Seed Potato.png","Base"),
-(1040,"Special Seed Sweet Potato","../assets/item_images/Special Seed Sweet Potato.png","Base"),
-(1041,"Special Silk Honey Grass","../assets/item_images/Special Silk Honey Grass.png","Base"),
-(1042,"Special Silk Honey Grass Seed","../assets/item_images/Special Silk Honey Grass Seed.png","Base"),
-(1043,"Special Silver Azalea","../assets/item_images/Special Silver Azalea.png","Base"),
-(1044,"Special Silver Azalea Seed","../assets/item_images/Special Silver Azalea Seed.png","Base"),
-(1045,"Special Sky Mushroom","../assets/item_images/Special Sky Mushroom.png","Base"),
-(1046,"Special Sky Mushroom Hypha","../assets/item_images/Special Sky Mushroom Hypha.png","Base"),
-(1047,"Special Star Anise","../assets/item_images/Special Star Anise.png","Base"),
-(1048,"Special Star Anise Seed","../assets/item_images/Special Star Anise Seed.png","Base"),
-(1049,"Special Strawberry","../assets/item_images/Special Strawberry.png","Base"),
-(1050,"Special Strawberry Seed","../assets/item_images/Special Strawberry Seed.png","Base"),
-(1051,"Special Sunflower","../assets/item_images/Special Sunflower.png","Base"),
-(1052,"Special Sunflower Seed","../assets/item_images/Special Sunflower Seed.png","Base"),
-(1053,"Special Sunrise Herb","../assets/item_images/Special Sunrise Herb.png","Base"),
-(1054,"Special Sunrise Herb Seed","../assets/item_images/Special Sunrise Herb Seed.png","Base"),
-(1055,"Special Sweet Potato","../assets/item_images/Special Sweet Potato.png","Base"),
-(1056,"Special Teff","../assets/item_images/Special Teff.png","Base"),
-(1057,"Special Teff Seed","../assets/item_images/Special Teff Seed.png","Base"),
-(1058,"Special Tiger Mushroom","../assets/item_images/Special Tiger Mushroom.png","Base"),
-(1059,"Special Tiger Mushroom Hypha","../assets/item_images/Special Tiger Mushroom Hypha.png","Base"),
-(1060,"Special Tomato","../assets/item_images/Special Tomato.png","Base"),
-(1061,"Special Tomato Seed","../assets/item_images/Special Tomato Seed.png","Base"),
-(1062,"Special Wheat","../assets/item_images/Special Wheat.png","Base"),
-(1063,"Special Wheat Seed","../assets/item_images/Special Wheat Seed.png","Base"),
-(1064,"Top-Quality Cooking Honey","../assets/item_images/Top-Quality Cooking Honey.png","Base"),
-(1065,"Tridana Giant Clam Shellfish","../assets/item_images/Tridana Giant Clam Shellfish.png","Base"),
-(1066,"Vell's Fine Powder","../assets/item_images/Vell's Fine Powder.png","Base"),
-(1067,"Warm Seed","../assets/item_images/Warm Seed.png","Base"),
-(1068,"Blue Whale Meat","../assets/item_images/Blue Whale Meat.png","Base"),
-(1069,"Blue Whale Tendon","../assets/item_images/Blue Whale Tendon.png","Base"),
-(1070,"Crocodile Meat","../assets/item_images/Crocodile Meat.png","Base"),
-(1071,"Good Chicken Feed","../assets/item_images/Good Chicken Feed.png","Base"),
-(1072,"High-Quality Acacia Seed","../assets/item_images/High-Quality Acacia Seed.png","Base"),
-(1073,"High-Quality Amanita Mushroom","../assets/item_images/High-Quality Amanita Mushroom.png","Base"),
-(1074,"High-Quality Amanita Mushroom Hypha","../assets/item_images/High-Quality Amanita Mushroom Hypha.png","Base"),
-(1075,"High-Quality Ancient Mushroom","../assets/item_images/High-Quality Ancient Mushroom.png","Base"),
-(1076,"High-Quality Ancient Mushroom Hypha","../assets/item_images/High-Quality Ancient Mushroom Hypha.png","Base"),
-(1077,"High-Quality Arrow Mushroom","../assets/item_images/High-Quality Arrow Mushroom.png","Base"),
-(1078,"High-Quality Arrow Mushroom Hypha","../assets/item_images/High-Quality Arrow Mushroom Hypha.png","Base"),
-(1079,"High-Quality Barley","../assets/item_images/High-Quality Barley.png","Base"),
-(1080,"High-Quality Barley Seed","../assets/item_images/High-Quality Barley Seed.png","Base"),
-(1081,"High-Quality Bluffer Mushroom","../assets/item_images/High-Quality Bluffer Mushroom.png","Base"),
-(1082,"High-Quality Bluffer Mushroom Hypha","../assets/item_images/High-Quality Bluffer Mushroom Hypha.png","Base"),
-(1083,"High-Quality Bouquet Mushroom","../assets/item_images/High-Quality Bouquet Mushroom.png","Base"),
-(1084,"High-Quality Bouquet Mushroom Hypha","../assets/item_images/High-Quality Bouquet Mushroom Hypha.png","Base"),
-(1085,"High-Quality Carrot Seed","../assets/item_images/High-Quality Carrot Seed.png","Base"),
-(1086,"High-Quality Cloud Mushroom","../assets/item_images/High-Quality Cloud Mushroom.png","Base"),
-(1087,"High-Quality Cloud Mushroom Hypha","../assets/item_images/High-Quality Cloud Mushroom Hypha.png","Base"),
-(1088,"High-Quality Cooking Honey","../assets/item_images/High-Quality Cooking Honey.png","Base"),
-(1089,"High-Quality Corn","../assets/item_images/High-Quality Corn.png","Base"),
-(1090,"High-Quality Corn Seed","../assets/item_images/High-Quality Corn Seed.png","Base"),
-(1091,"High-Quality Dalvenia Alrea","../assets/item_images/High-Quality Dalvenia Alrea.png","Base"),
-(1092,"High-Quality Dalvenia Alrea Seed","../assets/item_images/High-Quality Dalvenia Alrea Seed.png","Base"),
-(1093,"High-Quality Dry Mane Grass","../assets/item_images/High-Quality Dry Mane Grass.png","Base"),
-(1094,"High-Quality Dry Mane Grass Seed","../assets/item_images/High-Quality Dry Mane Grass Seed.png","Base"),
-(1095,"High-Quality Dwarf Mushroom","../assets/item_images/High-Quality Dwarf Mushroom.png","Base"),
-(1096,"High-Quality Dwarf Mushroom Hypha","../assets/item_images/High-Quality Dwarf Mushroom Hypha.png","Base"),
-(1097,"High-Quality Emperor Mushroom","../assets/item_images/High-Quality Emperor Mushroom.png","Base"),
-(1098,"High-Quality Emperor Mushroom Hypha","../assets/item_images/High-Quality Emperor Mushroom Hypha.png","Base"),
-(1099,"High-Quality Fig","../assets/item_images/High-Quality Fig.png","Base"),
-(1100,"High-Quality Fig Seed","../assets/item_images/High-Quality Fig Seed.png","Base"),
-(1101,"High-Quality Fire Flake Flower","../assets/item_images/High-Quality Fire Flake Flower.png","Base"),
-(1102,"High-Quality Fire Flake Flower Seed","../assets/item_images/High-Quality Fire Flake Flower Seed.png","Base"),
-(1103,"High-Quality Fog Mushroom","../assets/item_images/High-Quality Fog Mushroom.png","Base"),
-(1104,"High-Quality Fog Mushroom Hypha","../assets/item_images/High-Quality Fog Mushroom Hypha.png","Base"),
-(1105,"High-Quality Fortune Teller Mushroom","../assets/item_images/High-Quality Fortune Teller Mushroom.png","Base"),
-(1106,"High-Quality Fortune Teller Mushroom Hypha","../assets/item_images/High-Quality Fortune Teller Mushroom Hypha.png","Base"),
-(1107,"High-Quality Freekeh","../assets/item_images/High-Quality Freekeh.png","Base"),
-(1108,"High-Quality Freekeh Seed","../assets/item_images/High-Quality Freekeh Seed.png","Base"),
-(1109,"High-Quality Garlic","../assets/item_images/High-Quality Garlic.png","Base"),
-(1110,"High-Quality Garlic Seed","../assets/item_images/High-Quality Garlic Seed.png","Base"),
-(1111,"High-Quality Ghost Mushroom","../assets/item_images/High-Quality Ghost Mushroom.png","Base"),
-(1112,"High-Quality Ghost Mushroom Hypha","../assets/item_images/High-Quality Ghost Mushroom Hypha.png","Base"),
-(1113,"High-Quality Grape","../assets/item_images/High-Quality Grape.png","Base"),
-(1114,"High-Quality Grape Seed","../assets/item_images/High-Quality Grape Seed.png","Base"),
-(1115,"High-Quality Haystack","../assets/item_images/High-Quality Haystack.png","Base"),
-(1116,"High-Quality Hot Pepper","../assets/item_images/High-Quality Hot Pepper.png","Base"),
-(1117,"High-Quality Hot Pepper Seed","../assets/item_images/High-Quality Hot Pepper Seed.png","Base"),
-(1118,"High-Quality Hump Mushroom","../assets/item_images/High-Quality Hump Mushroom.png","Base"),
-(1119,"High-Quality Hump Mushroom Hypha","../assets/item_images/High-Quality Hump Mushroom Hypha.png","Base"),
-(1120,"High-Quality Leccinum","../assets/item_images/High-Quality Leccinum.png","Base"),
-(1121,"High-Quality Leccinum Mushroom Hypha","../assets/item_images/High-Quality Leccinum Mushroom Hypha.png","Base"),
-(1122,"High-Quality Nolina","../assets/item_images/High-Quality Nolina.png","Base"),
-(1123,"High-Quality Nolina Seed","../assets/item_images/High-Quality Nolina Seed.png","Base"),
-(1124,"High-Quality Nutmeg","../assets/item_images/High-Quality Nutmeg.png","Base"),
-(1125,"High-Quality Nutmeg Seed","../assets/item_images/High-Quality Nutmeg Seed.png","Base"),
-(1126,"High-Quality Olive","../assets/item_images/High-Quality Olive.png","Base"),
-(1127,"High-Quality Olive Seed","../assets/item_images/High-Quality Olive Seed.png","Base"),
-(1128,"High-Quality Onion","../assets/item_images/High-Quality Onion.png","Base"),
-(1129,"High-Quality Onion Seed","../assets/item_images/High-Quality Onion Seed.png","Base"),
-(1130,"High-Quality Paprika","../assets/item_images/High-Quality Paprika.png","Base"),
-(1131,"High-Quality Paprika Seed","../assets/item_images/High-Quality Paprika Seed.png","Base"),
-(1132,"High-Quality Penestraria","../assets/item_images/High-Quality Penestraria.png","Base"),
-(1133,"High-Quality Penestraria Seed","../assets/item_images/High-Quality Penestraria Seed.png","Base"),
-(1134,"High-Quality Pepper","../assets/item_images/High-Quality Pepper.png","Base"),
-(1135,"High-Quality Pepper Seed","../assets/item_images/High-Quality Pepper Seed.png","Base"),
-(1136,"High-Quality Pie Mushroom","../assets/item_images/High-Quality Pie Mushroom.png","Base"),
-(1137,"High-Quality Pie Mushroom Hypha","../assets/item_images/High-Quality Pie Mushroom Hypha.png","Base"),
-(1138,"High-Quality Potato","../assets/item_images/High-Quality Potato.png","Base"),
-(1139,"High-Quality Pumpkin","../assets/item_images/High-Quality Pumpkin.png","Base"),
-(1140,"High-Quality Pumpkin Seed","../assets/item_images/High-Quality Pumpkin Seed.png","Base"),
-(1141,"High-Quality Purple Mushroom","../assets/item_images/High-Quality Purple Mushroom.png","Base"),
-(1142,"High-Quality Purple Mushroom Hypha","../assets/item_images/High-Quality Purple Mushroom Hypha.png","Base"),
-(1143,"High-Quality Seed Potato","../assets/item_images/High-Quality Seed Potato.png","Base"),
-(1144,"High-Quality Seed Sweet Potato","../assets/item_images/High-Quality Seed Sweet Potato.png","Base"),
-(1145,"High-Quality Silk Honey Grass","../assets/item_images/High-Quality Silk Honey Grass.png","Base"),
-(1146,"High-Quality Silk Honey Grass Seed","../assets/item_images/High-Quality Silk Honey Grass Seed.png","Base"),
-(1147,"High-Quality Silver Azalea","../assets/item_images/High-Quality Silver Azalea.png","Base"),
-(1148,"High-Quality Silver Azalea Seed","../assets/item_images/High-Quality Silver Azalea Seed.png","Base"),
-(1149,"High-Quality Sky Mushroom","../assets/item_images/High-Quality Sky Mushroom.png","Base"),
-(1150,"High-Quality Sky Mushroom Hypha","../assets/item_images/High-Quality Sky Mushroom Hypha.png","Base"),
-(1151,"High-Quality Star Anise","../assets/item_images/High-Quality Star Anise.png","Base"),
-(1152,"High-Quality Star Anise Seed","../assets/item_images/High-Quality Star Anise Seed.png","Base"),
-(1153,"High-Quality Strawberry","../assets/item_images/High-Quality Strawberry.png","Base"),
-(1154,"High-Quality Strawberry Seed","../assets/item_images/High-Quality Strawberry Seed.png","Base"),
-(1155,"High-Quality Sunflower","../assets/item_images/High-Quality Sunflower.png","Base"),
-(1156,"High-Quality Sunflower Seed","../assets/item_images/High-Quality Sunflower Seed.png","Base"),
-(1157,"High-Quality Sunrise Herb","../assets/item_images/High-Quality Sunrise Herb.png","Base"),
-(1158,"High-Quality Sunrise Herb Seed","../assets/item_images/High-Quality Sunrise Herb Seed.png","Base"),
-(1159,"High-Quality Sweet Potato","../assets/item_images/High-Quality Sweet Potato.png","Base"),
-(1160,"High-Quality Teff","../assets/item_images/High-Quality Teff.png","Base"),
-(1161,"High-Quality Teff Seed","../assets/item_images/High-Quality Teff Seed.png","Base"),
-(1162,"High-Quality Tiger Mushroom","../assets/item_images/High-Quality Tiger Mushroom.png","Base"),
-(1163,"High-Quality Tiger Mushroom Hypha","../assets/item_images/High-Quality Tiger Mushroom Hypha.png","Base"),
-(1164,"High-Quality Tomato","../assets/item_images/High-Quality Tomato.png","Base"),
-(1165,"High-Quality Tomato Seed","../assets/item_images/High-Quality Tomato Seed.png","Base"),
-(1166,"High-Quality Wheat","../assets/item_images/High-Quality Wheat.png","Base"),
-(1167,"High-Quality Wheat Seed","../assets/item_images/High-Quality Wheat Seed.png","Base"),
-(1168,"Ship Repair Material","../assets/item_images/Ship Repair Material.png","Base"),
-(1169,"Soft Whale Meat","../assets/item_images/Soft Whale Meat.png","Base"),
-(1170,"Acacia Plank","../assets/item_images/Acacia Plank.png","Base"),
-(1171,"Acacia Plywood","../assets/item_images/Acacia Plywood.png","Base"),
-(1172,"Acacia Sap","../assets/item_images/Acacia Sap.png","Base"),
-(1173,"Acacia Seed","../assets/item_images/Acacia Seed.png","Base"),
-(1174,"Acacia Timber","../assets/item_images/Acacia Timber.png","Base"),
-(1175,"Alluvial Gold","../assets/item_images/Alluvial Gold.png","Base"),
-(1176,"Aloe","../assets/item_images/Aloe.png","Base"),
-(1177,"Amanita Mushroom","../assets/item_images/Amanita Mushroom.png","Base"),
-(1178,"Amanita Mushroom Hypha","../assets/item_images/Amanita Mushroom Hypha.png","Base"),
-(1179,"Ancient Mushroom","../assets/item_images/Ancient Mushroom.png","Base"),
-(1180,"Ancient Mushroom Hypha","../assets/item_images/Ancient Mushroom Hypha.png","Base"),
-(1181,"Apple","../assets/item_images/Apple.png","Base"),
-(1182,"Arrow Mushroom","../assets/item_images/Arrow Mushroom.png","Base"),
-(1183,"Arrow Mushroom Hypha","../assets/item_images/Arrow Mushroom Hypha.png","Base"),
-(1184,"Ash Plank","../assets/item_images/Ash Plank.png","Base"),
-(1185,"Ash Plywood","../assets/item_images/Ash Plywood.png","Base"),
-(1186,"Ash Sap","../assets/item_images/Ash Sap.png","Base"),
-(1187,"Ash Timber","../assets/item_images/Ash Timber.png","Base"),
-(1188,"Audria","../assets/item_images/Audria.png","Base"),
-(1189,"Bag of Muddy Water","../assets/item_images/Bag of Muddy Water.png","Base"),
-(1190,"Banana","../assets/item_images/Banana.png","Base"),
-(1191,"Barley","../assets/item_images/Barley.png","Base"),
-(1192,"Barley Dough","../assets/item_images/Barley Dough.png","Base"),
-(1193,"Barley Flour","../assets/item_images/Barley Flour.png","Base"),
-(1194,"Barley Seed","../assets/item_images/Barley Seed.png","Base"),
-(1195,"Bat Blood","../assets/item_images/Bat Blood.png","Base"),
-(1196,"Bear Blood","../assets/item_images/Bear Blood.png","Base"),
-(1197,"Bear Hide","../assets/item_images/Bear Hide.png","Base"),
-(1198,"Bear Meat","../assets/item_images/Bear Meat.png","Base"),
-(1199,"Beef","../assets/item_images/Beef.png","Base"),
-(1200,"Belladonna Elephant Hide","../assets/item_images/Belladonna Elephant Hide.png","Base"),
-(1201,"Big Amanita Mushroom","../assets/item_images/Big Amanita Mushroom.png","Base"),
-(1202,"Big Ancient Mushroom","../assets/item_images/Big Ancient Mushroom.png","Base"),
-(1203,"Big Arrow Mushroom","../assets/item_images/Big Arrow Mushroom.png","Base"),
-(1204,"Big Bluffer Mushroom","../assets/item_images/Big Bluffer Mushroom.png","Base"),
-(1205,"Big Cloud Mushroom","../assets/item_images/Big Cloud Mushroom.png","Base"),
-(1206,"Big Dwarf Mushroom","../assets/item_images/Big Dwarf Mushroom.png","Base"),
-(1207,"Big Emperor Mushroom","../assets/item_images/Big Emperor Mushroom.png","Base"),
-(1208,"Big Fog Mushroom","../assets/item_images/Big Fog Mushroom.png","Base"),
-(1209,"Big Fortune Teller Mushroom","../assets/item_images/Big Fortune Teller Mushroom.png","Base"),
-(1210,"Big Ghost Mushroom","../assets/item_images/Big Ghost Mushroom.png","Base"),
-(1211,"Big Hump Mushroom","../assets/item_images/Big Hump Mushroom.png","Base"),
-(1212,"Big Sky Mushroom","../assets/item_images/Big Sky Mushroom.png","Base"),
-(1213,"Big Tiger Mushroom","../assets/item_images/Big Tiger Mushroom.png","Base"),
-(1214,"Birch Plank","../assets/item_images/Birch Plank.png","Base"),
-(1215,"Birch Plywood","../assets/item_images/Birch Plywood.png","Base"),
-(1216,"Birch Sap","../assets/item_images/Birch Sap.png","Base"),
-(1217,"Birch Timber","../assets/item_images/Birch Timber.png","Base"),
-(1218,"Bird Meat","../assets/item_images/Bird Meat.png","Base"),
-(1219,"Black Crystal","../assets/item_images/Black Crystal.png","Base"),
-(1220,"Black Gold Ingot","../assets/item_images/Black Gold Ingot.png","Base"),
-(1221,"Black Leopard Hide","../assets/item_images/Black Leopard Hide.png","Base"),
-(1222,"Black Seed","../assets/item_images/Black Seed.png","Base"),
-(1223,"Black Stone Powder","../assets/item_images/Black Stone Powder.png","Base"),
-(1224,"Blood Ruby","../assets/item_images/Blood Ruby.png","Base"),
-(1225,"Bloody Tree Knot","../assets/item_images/Bloody Tree Knot.png","Base"),
-(1226,"Blue Coral","../assets/item_images/Blue Coral.png","Base"),
-(1227,"Blue Crystal","../assets/item_images/Blue Crystal.png","Base"),
-(1228,"Blue Flower","../assets/item_images/Blue Flower.png","Base"),
-(1229,"Blue Umbrella Mushroom","../assets/item_images/Blue Umbrella Mushroom.png","Base"),
-(1230,"Bluffer Mushroom","../assets/item_images/Bluffer Mushroom.png","Base"),
-(1231,"Bluffer Mushroom Hypha","../assets/item_images/Bluffer Mushroom Hypha.png","Base"),
-(1232,"Bottle of River Water","../assets/item_images/Bottle of River Water.png","Base"),
-(1233,"Bottle of Sea Water","../assets/item_images/Bottle of Sea Water.png","Base"),
-(1234,"Bouquet Mushroom","../assets/item_images/Bouquet Mushroom.png","Base"),
-(1235,"Bouquet Mushroom Hypha","../assets/item_images/Bouquet Mushroom Hypha.png","Base"),
-(1236,"Bracken","../assets/item_images/Bracken.png","Base"),
-(1237,"Brass Ingot","../assets/item_images/Brass Ingot.png","Base"),
-(1238,"Breezy White Coral","../assets/item_images/Breezy White Coral.png","Base"),
-(1239,"Brilliant Opal","../assets/item_images/Brilliant Opal.png","Base"),
-(1240,"Bronze Ingot","../assets/item_images/Bronze Ingot.png","Base"),
-(1241,"Bumpy Seed","../assets/item_images/Bumpy Seed.png","Base"),
-(1242,"Bunch of Dry Mane Grass","../assets/item_images/Bunch of Dry Mane Grass.png","Base"),
-(1243,"Bunch of Fire Flake Flowers","../assets/item_images/Bunch of Fire Flake Flowers.png","Base"),
-(1244,"Bunch of Silk Honey Grass","../assets/item_images/Bunch of Silk Honey Grass.png","Base"),
-(1245,"Bunch of Silver Azaleas","../assets/item_images/Bunch of Silver Azaleas.png","Base"),
-(1246,"Butter","../assets/item_images/Butter.png","Base"),
-(1247,"Byproduct Fertilizer","../assets/item_images/Byproduct Fertilizer.png","Base"),
-(1248,"Cabbage","../assets/item_images/Cabbage.png","Base"),
-(1249,"Cactus Rind","../assets/item_images/Cactus Rind.png","Base"),
-(1250,"Cactus Sap","../assets/item_images/Cactus Sap.png","Base"),
-(1251,"Cactus Thorn","../assets/item_images/Cactus Thorn.png","Base"),
-(1252,"Capturing Rope","../assets/item_images/Capturing Rope.png","Base"),
-(1253,"Carrot Seed","../assets/item_images/Carrot Seed.png","Base"),
-(1254,"Cedar Plank","../assets/item_images/Cedar Plank.png","Base"),
-(1255,"Cedar Plywood","../assets/item_images/Cedar Plywood.png","Base"),
-(1256,"Cedar Sap","../assets/item_images/Cedar Sap.png","Base"),
-(1257,"Cedar Timber","../assets/item_images/Cedar Timber.png","Base"),
-(1258,"Cheese","../assets/item_images/Cheese.png","Base"),
-(1259,"Cheetah Dragon Blood","../assets/item_images/Cheetah Dragon Blood.png","Base"),
-(1260,"Cheetah Dragon Hide","../assets/item_images/Cheetah Dragon Hide.png","Base"),
-(1261,"Cheetah Dragon Meat","../assets/item_images/Cheetah Dragon Meat.png","Base"),
-(1262,"Cherry","../assets/item_images/Cherry.png","Base"),
-(1263,"Chicken Feed","../assets/item_images/Chicken Feed.png","Base"),
-(1264,"Chicken Meat","../assets/item_images/Chicken Meat.png","Base"),
-(1265,"Cinnamon","../assets/item_images/Cinnamon.png","Base"),
-(1266,"Clear Liquid Reagent","../assets/item_images/Clear Liquid Reagent.png","Base"),
-(1267,"Cloud Mushroom","../assets/item_images/Cloud Mushroom.png","Base"),
-(1268,"Cloud Mushroom Hypha","../assets/item_images/Cloud Mushroom Hypha.png","Base"),
-(1269,"Clown's Blood","../assets/item_images/Clown's Blood.png","Base"),
-(1270,"Coal","../assets/item_images/Coal.png","Base"),
-(1271,"Cobra Blood","../assets/item_images/Cobra Blood.png","Base"),
-(1272,"Coconut","../assets/item_images/Coconut.png","Base"),
-(1273,"Contorted Seed","../assets/item_images/Contorted Seed.png","Base"),
-(1274,"Cooking Honey","../assets/item_images/Cooking Honey.png","Base"),
-(1275,"Copper Ingot","../assets/item_images/Copper Ingot.png","Base"),
-(1276,"Copper Ore","../assets/item_images/Copper Ore.png","Base"),
-(1277,"Coral Piece","../assets/item_images/Coral Piece.png","Base"),
-(1278,"Corn","../assets/item_images/Corn.png","Base"),
-(1279,"Corn Dough","../assets/item_images/Corn Dough.png","Base"),
-(1280,"Corn Flour","../assets/item_images/Corn Flour.png","Base"),
-(1281,"Corn Seed","../assets/item_images/Corn Seed.png","Base"),
-(1282,"Cotton","../assets/item_images/Cotton.png","Base"),
-(1283,"Cotton Fabric","../assets/item_images/Cotton Fabric.png","Base"),
-(1284,"Cotton Yarn","../assets/item_images/Cotton Yarn.png","Base"),
-(1285,"Cream","../assets/item_images/Cream.png","Base"),
-(1286,"Crumbled Rock Powder","../assets/item_images/Crumbled Rock Powder.png","Base"),
-(1287,"Dalvenia Alrea","../assets/item_images/Dalvenia Alrea.png","Base"),
-(1288,"Dalvenia Alrea Seed","../assets/item_images/Dalvenia Alrea Seed.png","Base"),
-(1289,"Date Palm","../assets/item_images/Date Palm.png","Base"),
-(1290,"Daybreak Blue Coral","../assets/item_images/Daybreak Blue Coral.png","Base"),
-(1291,"Dead Tree Essence","../assets/item_images/Dead Tree Essence.png","Base"),
-(1292,"Deep Sea Fruit","../assets/item_images/Deep Sea Fruit.png","Base"),
-(1293,"Deer Blood","../assets/item_images/Deer Blood.png","Base"),
-(1294,"Deer Hide","../assets/item_images/Deer Hide.png","Base"),
-(1295,"Deer Meat","../assets/item_images/Deer Meat.png","Base"),
-(1296,"Desert Herb","../assets/item_images/Desert Herb.png","Base"),
-(1297,"Diamond","../assets/item_images/Diamond.png","Base"),
-(1298,"Dinosaur Blood","../assets/item_images/Dinosaur Blood.png","Base"),
-(1299,"Dinosaur Hide","../assets/item_images/Dinosaur Hide.png","Base"),
-(1300,"Dinosaur Meat","../assets/item_images/Dinosaur Meat.png","Base"),
-(1301,"Distilled Water","../assets/item_images/Distilled Water.png","Base"),
-(1302,"Dressing","../assets/item_images/Dressing.png","Base"),
-(1303,"Dried Amberjack","../assets/item_images/Dried Amberjack.png","Base"),
-(1304,"Dried Amur Goby","../assets/item_images/Dried Amur Goby.png","Base"),
-(1305,"Dried Amur Ide","../assets/item_images/Dried Amur Ide.png","Base"),
-(1306,"Dried Amur Minnow","../assets/item_images/Dried Amur Minnow.png","Base"),
-(1307,"Dried Angler","../assets/item_images/Dried Angler.png","Base"),
-(1308,"Dried Arowana","../assets/item_images/Dried Arowana.png","Base"),
-(1309,"Dried Atka Mackerel","../assets/item_images/Dried Atka Mackerel.png","Base"),
-(1310,"Dried Barbel Steed","../assets/item_images/Dried Barbel Steed.png","Base"),
-(1311,"Dried Bass","../assets/item_images/Dried Bass.png","Base"),
-(1312,"Dried Beltfish","../assets/item_images/Dried Beltfish.png","Base"),
-(1313,"Dried Bigeye","../assets/item_images/Dried Bigeye.png","Base"),
-(1314,"Dried Bitterling","../assets/item_images/Dried Bitterling.png","Base"),
-(1315,"Dried Black Shiner","../assets/item_images/Dried Black Shiner.png","Base"),
-(1316,"Dried Blackfin Sweeper","../assets/item_images/Dried Blackfin Sweeper.png","Base"),
-(1317,"Dried Bleeker","../assets/item_images/Dried Bleeker.png","Base"),
-(1318,"Dried Blue Tang","../assets/item_images/Dried Blue Tang.png","Base"),
-(1319,"Dried Bluefish","../assets/item_images/Dried Bluefish.png","Base"),
-(1320,"Dried Bluegill","../assets/item_images/Dried Bluegill.png","Base"),
-(1321,"Dried Bubble Eye","../assets/item_images/Dried Bubble Eye.png","Base"),
-(1322,"Dried Burbot","../assets/item_images/Dried Burbot.png","Base"),
-(1323,"Dried Butterflyfish","../assets/item_images/Dried Butterflyfish.png","Base"),
-(1324,"Dried Carp","../assets/item_images/Dried Carp.png","Base"),
-(1325,"Dried Catfish","../assets/item_images/Dried Catfish.png","Base"),
-(1326,"Dried Cero","../assets/item_images/Dried Cero.png","Base"),
-(1327,"Dried Checkerboard Wrasse","../assets/item_images/Dried Checkerboard Wrasse.png","Base"),
-(1328,"Dried Cherry Icefish","../assets/item_images/Dried Cherry Icefish.png","Base"),
-(1329,"Dried Cherry Salmon","../assets/item_images/Dried Cherry Salmon.png","Base"),
-(1330,"Dried Clownfish","../assets/item_images/Dried Clownfish.png","Base"),
-(1331,"Dried Common Minnow","../assets/item_images/Dried Common Minnow.png","Base"),
-(1332,"Dried Crab","../assets/item_images/Dried Crab.png","Base"),
-(1333,"Dried Crawfish","../assets/item_images/Dried Crawfish.png","Base"),
-(1334,"Dried Croaker","../assets/item_images/Dried Croaker.png","Base"),
-(1335,"Dried Crucian Carp","../assets/item_images/Dried Crucian Carp.png","Base"),
-(1336,"Dried Cuttlefish","../assets/item_images/Dried Cuttlefish.png","Base"),
-(1337,"Dried Cuvier","../assets/item_images/Dried Cuvier.png","Base"),
-(1338,"Dried Dace","../assets/item_images/Dried Dace.png","Base"),
-(1339,"Dried Diamond Minnow","../assets/item_images/Dried Diamond Minnow.png","Base"),
-(1340,"Dried Dollarfish","../assets/item_images/Dried Dollarfish.png","Base"),
-(1341,"Dried Dolphinfish","../assets/item_images/Dried Dolphinfish.png","Base"),
-(1342,"Dried Filefish","../assets/item_images/Dried Filefish.png","Base"),
-(1343,"Dried Flatfish","../assets/item_images/Dried Flatfish.png","Base"),
-(1344,"Dried Flounder","../assets/item_images/Dried Flounder.png","Base"),
-(1345,"Dried Flying Fish","../assets/item_images/Dried Flying Fish.png","Base"),
-(1346,"Dried Fourfinger Threadfin","../assets/item_images/Dried Fourfinger Threadfin.png","Base"),
-(1347,"Dried Freshwater Eel","../assets/item_images/Dried Freshwater Eel.png","Base"),
-(1348,"Dried Goby Minnow","../assets/item_images/Dried Goby Minnow.png","Base"),
-(1349,"Dried Golden-Thread","../assets/item_images/Dried Golden-Thread.png","Base"),
-(1350,"Dried Grass Carp","../assets/item_images/Dried Grass Carp.png","Base"),
-(1351,"Dried Grayling","../assets/item_images/Dried Grayling.png","Base"),
-(1352,"Dried Greenling","../assets/item_images/Dried Greenling.png","Base"),
-(1353,"Dried Grouper","../assets/item_images/Dried Grouper.png","Base"),
-(1354,"Dried Grunt","../assets/item_images/Dried Grunt.png","Base"),
-(1355,"Dried Gunnel","../assets/item_images/Dried Gunnel.png","Base"),
-(1356,"Dried Gurnard","../assets/item_images/Dried Gurnard.png","Base"),
-(1357,"Dried Herring","../assets/item_images/Dried Herring.png","Base"),
-(1358,"Dried Horn Fish","../assets/item_images/Dried Horn Fish.png","Base"),
-(1359,"Dried Jellyfish","../assets/item_images/Dried Jellyfish.png","Base"),
-(1360,"Dried John Dory","../assets/item_images/Dried John Dory.png","Base"),
-(1361,"Dried Korean Loach","../assets/item_images/Dried Korean Loach.png","Base"),
-(1362,"Dried Kuhlia Marginata","../assets/item_images/Dried Kuhlia Marginata.png","Base"),
-(1363,"Dried Leather Carp","../assets/item_images/Dried Leather Carp.png","Base"),
-(1364,"Dried Lenok","../assets/item_images/Dried Lenok.png","Base"),
-(1365,"Dried Lobster","../assets/item_images/Dried Lobster.png","Base"),
-(1366,"Dried Mackerel","../assets/item_images/Dried Mackerel.png","Base"),
-(1367,"Dried Mackerel Pike","../assets/item_images/Dried Mackerel Pike.png","Base"),
-(1368,"Dried Mandarin Fish","../assets/item_images/Dried Mandarin Fish.png","Base"),
-(1369,"Dried Maomao","../assets/item_images/Dried Maomao.png","Base"),
-(1370,"Dried Miho Spine Loach","../assets/item_images/Dried Miho Spine Loach.png","Base"),
-(1371,"Dried Minnow","../assets/item_images/Dried Minnow.png","Base"),
-(1372,"Dried Moray","../assets/item_images/Dried Moray.png","Base"),
-(1373,"Dried Mori","../assets/item_images/Dried Mori.png","Base"),
-(1374,"Dried Mudfish","../assets/item_images/Dried Mudfish.png","Base"),
-(1375,"Dried Mudskipper","../assets/item_images/Dried Mudskipper.png","Base"),
-(1376,"Dried Mullet","../assets/item_images/Dried Mullet.png","Base"),
-(1377,"Dried Nibbler","../assets/item_images/Dried Nibbler.png","Base"),
-(1378,"Dried Notch Jaw","../assets/item_images/Dried Notch Jaw.png","Base"),
-(1379,"Dried Octopus","../assets/item_images/Dried Octopus.png","Base"),
-(1380,"Dried Oily Shiner","../assets/item_images/Dried Oily Shiner.png","Base"),
-(1381,"Dried Pacu","../assets/item_images/Dried Pacu.png","Base"),
-(1382,"Dried Pearl Oyster Flesh","../assets/item_images/Dried Pearl Oyster Flesh.png","Base"),
-(1383,"Dried Perch","../assets/item_images/Dried Perch.png","Base"),
-(1384,"Dried Pintado","../assets/item_images/Dried Pintado.png","Base"),
-(1385,"Dried Piranha","../assets/item_images/Dried Piranha.png","Base"),
-(1386,"Dried Pomfret","../assets/item_images/Dried Pomfret.png","Base"),
-(1387,"Dried Porcupine Fish","../assets/item_images/Dried Porcupine Fish.png","Base"),
-(1388,"Dried Porgy","../assets/item_images/Dried Porgy.png","Base"),
-(1389,"Dried Ray","../assets/item_images/Dried Ray.png","Base"),
-(1390,"Dried Rock Hind","../assets/item_images/Dried Rock Hind.png","Base"),
-(1391,"Dried Rockfish","../assets/item_images/Dried Rockfish.png","Base"),
-(1392,"Dried Rosefish","../assets/item_images/Dried Rosefish.png","Base"),
-(1393,"Dried Rosy Bitterling","../assets/item_images/Dried Rosy Bitterling.png","Base"),
-(1394,"Dried Round Herring","../assets/item_images/Dried Round Herring.png","Base"),
-(1395,"Dried Roundtail Paradisefish","../assets/item_images/Dried Roundtail Paradisefish.png","Base"),
-(1396,"Dried Salmon","../assets/item_images/Dried Salmon.png","Base"),
-(1397,"Dried Sandeel","../assets/item_images/Dried Sandeel.png","Base"),
-(1398,"Dried Sandfish","../assets/item_images/Dried Sandfish.png","Base"),
-(1399,"Dried Sardine","../assets/item_images/Dried Sardine.png","Base"),
-(1400,"Dried Saurel","../assets/item_images/Dried Saurel.png","Base"),
-(1401,"Dried Scorpion Fish","../assets/item_images/Dried Scorpion Fish.png","Base"),
-(1402,"Dried Sea Bass","../assets/item_images/Dried Sea Bass.png","Base"),
-(1403,"Dried Sea Eel","../assets/item_images/Dried Sea Eel.png","Base"),
-(1404,"Dried Seahorse","../assets/item_images/Dried Seahorse.png","Base"),
-(1405,"Dried Shellfish","../assets/item_images/Dried Shellfish.png","Base"),
-(1406,"Dried Shuttles Hoppfish","../assets/item_images/Dried Shuttles Hoppfish.png","Base"),
-(1407,"Dried Siganid","../assets/item_images/Dried Siganid.png","Base"),
-(1408,"Dried Silver Stripe Round Herring","../assets/item_images/Dried Silver Stripe Round Herring.png","Base"),
-(1409,"Dried Skipjack","../assets/item_images/Dried Skipjack.png","Base"),
-(1410,"Dried Smelt","../assets/item_images/Dried Smelt.png","Base"),
-(1411,"Dried Smokey Chromis","../assets/item_images/Dried Smokey Chromis.png","Base"),
-(1412,"Dried Snakehead","../assets/item_images/Dried Snakehead.png","Base"),
-(1413,"Dried Soho Bitterling","../assets/item_images/Dried Soho Bitterling.png","Base"),
-(1414,"Dried Spined Loach","../assets/item_images/Dried Spined Loach.png","Base"),
-(1415,"Dried Spotted Barbel","../assets/item_images/Dried Spotted Barbel.png","Base"),
-(1416,"Dried Squid","../assets/item_images/Dried Squid.png","Base"),
-(1417,"Dried Starfish","../assets/item_images/Dried Starfish.png","Base"),
-(1418,"Dried Stickleback","../assets/item_images/Dried Stickleback.png","Base"),
-(1419,"Dried Stone Moroko","../assets/item_images/Dried Stone Moroko.png","Base"),
-(1420,"Dried Striped Catfish","../assets/item_images/Dried Striped Catfish.png","Base"),
-(1421,"Dried Striped Shiner","../assets/item_images/Dried Striped Shiner.png","Base"),
-(1422,"Dried Stumpy Bullhead","../assets/item_images/Dried Stumpy Bullhead.png","Base"),
-(1423,"Dried Sturgeon","../assets/item_images/Dried Sturgeon.png","Base"),
-(1424,"Dried Sunfish","../assets/item_images/Dried Sunfish.png","Base"),
-(1425,"Dried Surfperch","../assets/item_images/Dried Surfperch.png","Base"),
-(1426,"Dried Sweetfish","../assets/item_images/Dried Sweetfish.png","Base"),
-(1427,"Dried Swellfish","../assets/item_images/Dried Swellfish.png","Base"),
-(1428,"Dried Swiri","../assets/item_images/Dried Swiri.png","Base"),
-(1429,"Dried Swordfish","../assets/item_images/Dried Swordfish.png","Base"),
-(1430,"Dried Tapertail Anchovy","../assets/item_images/Dried Tapertail Anchovy.png","Base"),
-(1431,"Dried Terrapin","../assets/item_images/Dried Terrapin.png","Base"),
-(1432,"Dried Tilefish","../assets/item_images/Dried Tilefish.png","Base"),
-(1433,"Dried Tongue Sole","../assets/item_images/Dried Tongue Sole.png","Base"),
-(1434,"Dried Trout","../assets/item_images/Dried Trout.png","Base"),
-(1435,"Dried Tuna","../assets/item_images/Dried Tuna.png","Base"),
-(1436,"Dried Whiting","../assets/item_images/Dried Whiting.png","Base"),
-(1437,"Dried Yellow-Head Catfish","../assets/item_images/Dried Yellow-Head Catfish.png","Base"),
-(1438,"Dried Yellowfin Sculpin","../assets/item_images/Dried Yellowfin Sculpin.png","Base"),
-(1439,"Dried-Up Seed","../assets/item_images/Dried-Up Seed.png","Base"),
-(1440,"Dry Mane Grass","../assets/item_images/Dry Mane Grass.png","Base"),
-(1441,"Dry Mane Grass Seed","../assets/item_images/Dry Mane Grass Seed.png","Base"),
-(1442,"Dwarf Mushroom","../assets/item_images/Dwarf Mushroom.png","Base"),
-(1443,"Dwarf Mushroom Hypha","../assets/item_images/Dwarf Mushroom Hypha.png","Base"),
-(1444,"Egg","../assets/item_images/Egg.png","Base"),
-(1445,"Elder Tree Plank","../assets/item_images/Elder Tree Plank.png","Base"),
-(1446,"Elder Tree Plywood","../assets/item_images/Elder Tree Plywood.png","Base"),
-(1447,"Elder Tree Sap","../assets/item_images/Elder Tree Sap.png","Base"),
-(1448,"Elder Tree Timber","../assets/item_images/Elder Tree Timber.png","Base"),
-(1449,"Emerald","../assets/item_images/Emerald.png","Base"),
-(1450,"Emperor Mushroom","../assets/item_images/Emperor Mushroom.png","Base"),
-(1451,"Emperor Mushroom Hypha","../assets/item_images/Emperor Mushroom Hypha.png","Base"),
-(1452,"Empty Crystal","../assets/item_images/Empty Crystal.png","Base"),
-(1453,"Enhanced Flax Fabric","../assets/item_images/Enhanced Flax Fabric.png","Base"),
-(1454,"Essence of Abundance","../assets/item_images/Essence of Abundance.png","Base"),
-(1455,"Essence of Crimson Flame","../assets/item_images/Essence of Crimson Flame.png","Base"),
-(1456,"Essence of Deep Sea","../assets/item_images/Essence of Deep Sea.png","Base"),
-(1457,"Essence of Destruction","../assets/item_images/Essence of Destruction.png","Base"),
-(1458,"Essence of Enchantment","../assets/item_images/Essence of Enchantment.png","Base"),
-(1459,"Essence of Liquor","../assets/item_images/Essence of Liquor.png","Base"),
-(1460,"Essence of Magic Power","../assets/item_images/Essence of Magic Power.png","Base"),
-(1461,"Essence of Nature","../assets/item_images/Essence of Nature.png","Base"),
-(1462,"Essence of Perfection","../assets/item_images/Essence of Perfection.png","Base"),
-(1463,"Essence of the Sun","../assets/item_images/Essence of the Sun.png","Base"),
-(1464,"Everlasting Herb","../assets/item_images/Everlasting Herb.png","Base"),
-(1465,"Eyelash Cup","../assets/item_images/Eyelash Cup.png","Base"),
-(1466,"Fancy Feather","../assets/item_images/Fancy Feather.png","Base"),
-(1467,"Fancy Reptile Skin","../assets/item_images/Fancy Reptile Skin.png","Base"),
-(1468,"Feather Wolf Hide","../assets/item_images/Feather Wolf Hide.png","Base"),
-(1469,"Fig","../assets/item_images/Fig.png","Base"),
-(1470,"Fig Seed","../assets/item_images/Fig Seed.png","Base"),
-(1471,"Fine Fancy Feather","../assets/item_images/Fine Fancy Feather.png","Base"),
-(1472,"Fine Fancy Reptile Skin","../assets/item_images/Fine Fancy Reptile Skin.png","Base"),
-(1473,"Fine Hard Hide","../assets/item_images/Fine Hard Hide.png","Base"),
-(1474,"Fine Lightweight Plume","../assets/item_images/Fine Lightweight Plume.png","Base"),
-(1475,"Fine Soft Hide","../assets/item_images/Fine Soft Hide.png","Base"),
-(1476,"Fine Thick Fur","../assets/item_images/Fine Thick Fur.png","Base"),
-(1477,"Fine Thin Hide","../assets/item_images/Fine Thin Hide.png","Base"),
-(1478,"Fine Tough Hide","../assets/item_images/Fine Tough Hide.png","Base"),
-(1479,"Fir Plank","../assets/item_images/Fir Plank.png","Base"),
-(1480,"Fir Plywood","../assets/item_images/Fir Plywood.png","Base"),
-(1481,"Fir Sap","../assets/item_images/Fir Sap.png","Base"),
-(1482,"Fir Timber","../assets/item_images/Fir Timber.png","Base"),
-(1483,"Fire Flake Flower","../assets/item_images/Fire Flake Flower.png","Base"),
-(1484,"Fire Flake Flower Seed","../assets/item_images/Fire Flake Flower Seed.png","Base"),
-(1485,"Fire Horn","../assets/item_images/Fire Horn.png","Base"),
-(1486,"Flamingo Blood","../assets/item_images/Flamingo Blood.png","Base"),
-(1487,"Flamingo Meat","../assets/item_images/Flamingo Meat.png","Base"),
-(1488,"Flamingo Plume","../assets/item_images/Flamingo Plume.png","Base"),
-(1489,"Flax","../assets/item_images/Flax.png","Base"),
-(1490,"Flax Fabric","../assets/item_images/Flax Fabric.png","Base"),
-(1491,"Flax Seed","../assets/item_images/Flax Seed.png","Base"),
-(1492,"Flax Thread","../assets/item_images/Flax Thread.png","Base"),
-(1493,"Fleece","../assets/item_images/Fleece.png","Base"),
-(1494,"Fog Mushroom","../assets/item_images/Fog Mushroom.png","Base"),
-(1495,"Fog Mushroom Hypha","../assets/item_images/Fog Mushroom Hypha.png","Base"),
-(1496,"Forest Emerald","../assets/item_images/Forest Emerald.png","Base"),
-(1497,"Fortune Teller Mushroom","../assets/item_images/Fortune Teller Mushroom.png","Base"),
-(1498,"Fortune Teller Mushroom Hypha","../assets/item_images/Fortune Teller Mushroom Hypha.png","Base"),
-(1499,"Fox Blood","../assets/item_images/Fox Blood.png","Base"),
-(1500,"Fox Hide","../assets/item_images/Fox Hide.png","Base"),
-(1501,"Fox Meat","../assets/item_images/Fox Meat.png","Base"),
-(1502,"Freekeh","../assets/item_images/Freekeh.png","Base"),
-(1503,"Freekeh Flour","../assets/item_images/Freekeh Flour.png","Base"),
-(1504,"Freekeh Flour Dough","../assets/item_images/Freekeh Flour Dough.png","Base"),
-(1505,"Freekeh Seed","../assets/item_images/Freekeh Seed.png","Base"),
-(1506,"Fruit of Abundance","../assets/item_images/Fruit of Abundance.png","Base"),
-(1507,"Fruit of Crimson Flame","../assets/item_images/Fruit of Crimson Flame.png","Base"),
-(1508,"Fruit of Destruction","../assets/item_images/Fruit of Destruction.png","Base"),
-(1509,"Fruit of Enchantment","../assets/item_images/Fruit of Enchantment.png","Base"),
-(1510,"Fruit of Magic Power","../assets/item_images/Fruit of Magic Power.png","Base"),
-(1511,"Fruit of Nature","../assets/item_images/Fruit of Nature.png","Base"),
-(1512,"Fruit of Perfection","../assets/item_images/Fruit of Perfection.png","Base"),
-(1513,"Fruit of the Sun","../assets/item_images/Fruit of the Sun.png","Base"),
-(1514,"Garlic","../assets/item_images/Garlic.png","Base"),
-(1515,"Garlic Seed","../assets/item_images/Garlic Seed.png","Base"),
-(1516,"Gazelle Hide","../assets/item_images/Gazelle Hide.png","Base"),
-(1517,"Gazelle Meat","../assets/item_images/Gazelle Meat.png","Base"),
-(1518,"Gem Polisher","../assets/item_images/Gem Polisher.png","Base"),
-(1519,"Ghost Mushroom","../assets/item_images/Ghost Mushroom.png","Base"),
-(1520,"Ghost Mushroom Hypha","../assets/item_images/Ghost Mushroom Hypha.png","Base"),
-(1521,"Gigantic Seed","../assets/item_images/Gigantic Seed.png","Base"),
-(1522,"Glossy Bone Piece","../assets/item_images/Glossy Bone Piece.png","Base"),
-(1523,"Glossy Seed","../assets/item_images/Glossy Seed.png","Base"),
-(1524,"Glue","../assets/item_images/Glue.png","Base"),
-(1525,"Goat Blood","../assets/item_images/Goat Blood.png","Base"),
-(1526,"Goat Hide","../assets/item_images/Goat Hide.png","Base"),
-(1527,"Goat Meat","../assets/item_images/Goat Meat.png","Base"),
-(1528,"Gold Ingot","../assets/item_images/Gold Ingot.png","Base"),
-(1529,"Gold Ore","../assets/item_images/Gold Ore.png","Base"),
-(1530,"Gold Topaz","../assets/item_images/Gold Topaz.png","Base"),
-(1531,"Golden Coral","../assets/item_images/Golden Coral.png","Base"),
-(1532,"Golden Sun Coral","../assets/item_images/Golden Sun Coral.png","Base"),
-(1533,"Grape","../assets/item_images/Grape.png","Base"),
-(1534,"Grape Seed","../assets/item_images/Grape Seed.png","Base"),
-(1535,"Green Coral","../assets/item_images/Green Coral.png","Base"),
-(1536,"Green Crystal","../assets/item_images/Green Crystal.png","Base"),
-(1537,"Green Pendulous Mushroom","../assets/item_images/Green Pendulous Mushroom.png","Base"),
-(1538,"Griffon Claw","../assets/item_images/Griffon Claw.png","Base"),
-(1539,"Griffon Feather","../assets/item_images/Griffon Feather.png","Base"),
-(1540,"Griffon Leather","../assets/item_images/Griffon Leather.png","Base"),
-(1541,"Ground Bird Meat","../assets/item_images/Ground Bird Meat.png","Base"),
-(1542,"Half-Moon Seed","../assets/item_images/Half-Moon Seed.png","Base"),
-(1543,"Hard Hide","../assets/item_images/Hard Hide.png","Base"),
-(1544,"Hard Pillar","../assets/item_images/Hard Pillar.png","Base"),
-(1545,"Haystack","../assets/item_images/Haystack.png","Base"),
-(1546,"Hazel Tree Fruit","../assets/item_images/Hazel Tree Fruit.png","Base"),
-(1547,"Herbal Gunpowder","../assets/item_images/Herbal Gunpowder.png","Base"),
-(1548,"Herbal Poison","../assets/item_images/Herbal Poison.png","Base"),
-(1549,"Hot Pepper","../assets/item_images/Hot Pepper.png","Base"),
-(1550,"Hot Pepper Seed","../assets/item_images/Hot Pepper Seed.png","Base"),
-(1551,"Hump Mushroom","../assets/item_images/Hump Mushroom.png","Base"),
-(1552,"Hump Mushroom Hypha","../assets/item_images/Hump Mushroom Hypha.png","Base"),
-(1553,"Indigo Lapis Lazuli","../assets/item_images/Indigo Lapis Lazuli.png","Base"),
-(1554,"Inorganic Fertilizer","../assets/item_images/Inorganic Fertilizer.png","Base"),
-(1555,"Insectivore Plant Flower","../assets/item_images/Insectivore Plant Flower.png","Base"),
-(1556,"Insectivore Plant Leaf","../assets/item_images/Insectivore Plant Leaf.png","Base"),
-(1557,"Insectivore Plant Powder","../assets/item_images/Insectivore Plant Powder.png","Base"),
-(1558,"Insectivore Plant Root","../assets/item_images/Insectivore Plant Root.png","Base"),
-(1559,"Insectivore Plant Sap","../assets/item_images/Insectivore Plant Sap.png","Base"),
-(1560,"Insectivore Plant Stalk","../assets/item_images/Insectivore Plant Stalk.png","Base"),
-(1561,"Iron Ingot","../assets/item_images/Iron Ingot.png","Base"),
-(1562,"Iron Ore","../assets/item_images/Iron Ore.png","Base"),
-(1563,"Jade Coral Ingot","../assets/item_images/Jade Coral Ingot.png","Base"),
-(1564,"Knitting Yarn","../assets/item_images/Knitting Yarn.png","Base"),
-(1565,"Kuku Bird Blood","../assets/item_images/Kuku Bird Blood.png","Base"),
-(1566,"Kuku Bird Meat","../assets/item_images/Kuku Bird Meat.png","Base"),
-(1567,"Lamb Meat","../assets/item_images/Lamb Meat.png","Base"),
-(1568,"Lapis Lazuli","../assets/item_images/Lapis Lazuli.png","Base"),
-(1569,"Lead Ingot","../assets/item_images/Lead Ingot.png","Base"),
-(1570,"Lead Ore","../assets/item_images/Lead Ore.png","Base"),
-(1571,"Leather Glaze","../assets/item_images/Leather Glaze.png","Base"),
-(1572,"Leccinum","../assets/item_images/Leccinum.png","Base"),
-(1573,"Leccinum Hypha","../assets/item_images/Leccinum Hypha.png","Base"),
-(1574,"Legendary Beast's Blood","../assets/item_images/Legendary Beast's Blood.png","Base"),
-(1575,"Lightweight Plume","../assets/item_images/Lightweight Plume.png","Base"),
-(1576,"Lion Blood","../assets/item_images/Lion Blood.png","Base"),
-(1577,"Lion Hide","../assets/item_images/Lion Hide.png","Base"),
-(1578,"Lion Meat","../assets/item_images/Lion Meat.png","Base"),
-(1579,"Lizard Blood","../assets/item_images/Lizard Blood.png","Base"),
-(1580,"Lizard Hide","../assets/item_images/Lizard Hide.png","Base"),
-(1581,"Lizard Meat","../assets/item_images/Lizard Meat.png","Base"),
-(1582,"Llama Blood","../assets/item_images/Llama Blood.png","Base"),
-(1583,"Llama Hide","../assets/item_images/Llama Hide.png","Base"),
-(1584,"Llama Meat","../assets/item_images/Llama Meat.png","Base"),
-(1585,"Log","../assets/item_images/Log.png","Base"),
-(1586,"Loopy Tree Plank","../assets/item_images/Loopy Tree Plank.png","Base"),
-(1587,"Loopy Tree Plywood","../assets/item_images/Loopy Tree Plywood.png","Base"),
-(1588,"Loopy Tree Sap","../assets/item_images/Loopy Tree Sap.png","Base"),
-(1589,"Loopy Tree Timber","../assets/item_images/Loopy Tree Timber.png","Base"),
-(1590,"Maple Plank","../assets/item_images/Maple Plank.png","Base"),
-(1591,"Maple Plywood","../assets/item_images/Maple Plywood.png","Base"),
-(1592,"Maple Sap","../assets/item_images/Maple Sap.png","Base"),
-(1593,"Maple Timber","../assets/item_images/Maple Timber.png","Base"),
-(1594,"Margoria Dark Iron","../assets/item_images/Margoria Dark Iron.png","Base"),
-(1595,"Marmot Blood","../assets/item_images/Marmot Blood.png","Base"),
-(1596,"Marmot Hide","../assets/item_images/Marmot Hide.png","Base"),
-(1597,"Marmot Meat","../assets/item_images/Marmot Meat.png","Base"),
-(1598,"Melted Copper Shard","../assets/item_images/Melted Copper Shard.png","Base"),
-(1599,"Melted Gold Shard","../assets/item_images/Melted Gold Shard.png","Base"),
-(1600,"Melted Iron Shard","../assets/item_images/Melted Iron Shard.png","Base"),
-(1601,"Melted Lead Shard","../assets/item_images/Melted Lead Shard.png","Base"),
-(1602,"Melted Mythril Shard","../assets/item_images/Melted Mythril Shard.png","Base"),
-(1603,"Melted Noc Shard","../assets/item_images/Melted Noc Shard.png","Base"),
-(1604,"Melted Platinum Shard","../assets/item_images/Melted Platinum Shard.png","Base"),
-(1605,"Melted Silver Shard","../assets/item_images/Melted Silver Shard.png","Base"),
-(1606,"Melted Tin Shard","../assets/item_images/Melted Tin Shard.png","Base"),
-(1607,"Melted Titanium Shard","../assets/item_images/Melted Titanium Shard.png","Base"),
-(1608,"Melted Vanadium Shard","../assets/item_images/Melted Vanadium Shard.png","Base"),
-(1609,"Melted Zinc Shard","../assets/item_images/Melted Zinc Shard.png","Base"),
-(1610,"Metal Solvent","../assets/item_images/Metal Solvent.png","Base"),
-(1611,"Milk","../assets/item_images/Milk.png","Base"),
-(1612,"Mimosa Stalk","../assets/item_images/Mimosa Stalk.png","Base"),
-(1613,"Monk's Branch","../assets/item_images/Monk's Branch.png","Base"),
-(1614,"Monkey Blood","../assets/item_images/Monkey Blood.png","Base"),
-(1615,"Monkey Hide","../assets/item_images/Monkey Hide.png","Base"),
-(1616,"Moonlight Opal","../assets/item_images/Moonlight Opal.png","Base"),
-(1617,"Moss Tree Plank","../assets/item_images/Moss Tree Plank.png","Base"),
-(1618,"Moss Tree Plywood","../assets/item_images/Moss Tree Plywood.png","Base"),
-(1619,"Moss Tree Sap","../assets/item_images/Moss Tree Sap.png","Base"),
-(1620,"Moss Tree Timber","../assets/item_images/Moss Tree Timber.png","Base"),
-(1621,"Mud Crystal","../assets/item_images/Mud Crystal.png","Base"),
-(1622,"Mythril","../assets/item_images/Mythril.png","Base"),
-(1623,"Mythril Ingot","../assets/item_images/Mythril Ingot.png","Base"),
-(1624,"Noc Ingot","../assets/item_images/Noc Ingot.png","Base"),
-(1625,"Noc Ore","../assets/item_images/Noc Ore.png","Base"),
-(1626,"Nolina","../assets/item_images/Nolina.png","Base"),
-(1627,"Nolina Seed","../assets/item_images/Nolina Seed.png","Base"),
-(1628,"Nutmeg","../assets/item_images/Nutmeg.png","Base"),
-(1629,"Nutmeg Seed","../assets/item_images/Nutmeg Seed.png","Base"),
-(1630,"Ocean Sapphire","../assets/item_images/Ocean Sapphire.png","Base"),
-(1631,"Ogre Blood","../assets/item_images/Ogre Blood.png","Base"),
-(1632,"Oil of Corruption","../assets/item_images/Oil of Corruption.png","Base"),
-(1633,"Oil of Fortitude","../assets/item_images/Oil of Fortitude.png","Base"),
-(1634,"Oil of Regeneration","../assets/item_images/Oil of Regeneration.png","Base"),
-(1635,"Oil of Storms","../assets/item_images/Oil of Storms.png","Base"),
-(1636,"Oil of the Abyss","../assets/item_images/Oil of the Abyss.png","Base"),
-(1637,"Oil of Tranquility","../assets/item_images/Oil of Tranquility.png","Base"),
-(1638,"Old Tree Bark","../assets/item_images/Old Tree Bark.png","Base"),
-(1639,"Old Tree Branch","../assets/item_images/Old Tree Branch.png","Base"),
-(1640,"Olive","../assets/item_images/Olive.png","Base"),
-(1641,"Olive Seed","../assets/item_images/Olive Seed.png","Base"),
-(1642,"Onion","../assets/item_images/Onion.png","Base"),
-(1643,"Onion Seed","../assets/item_images/Onion Seed.png","Base"),
-(1644,"Organic Fertilizer","../assets/item_images/Organic Fertilizer.png","Base"),
-(1645,"Ox Blood","../assets/item_images/Ox Blood.png","Base"),
-(1646,"Ox Hide","../assets/item_images/Ox Hide.png","Base"),
-(1647,"Oyster","../assets/item_images/Oyster.png","Base"),
-(1648,"Palm Plank","../assets/item_images/Palm Plank.png","Base"),
-(1649,"Palm Plywood","../assets/item_images/Palm Plywood.png","Base"),
-(1650,"Palm Sap","../assets/item_images/Palm Sap.png","Base"),
-(1651,"Palm Timber","../assets/item_images/Palm Timber.png","Base"),
-(1652,"Paprika","../assets/item_images/Paprika.png","Base"),
-(1653,"Paprika Seed","../assets/item_images/Paprika Seed.png","Base"),
-(1654,"Pear","../assets/item_images/Pear.png","Base"),
-(1655,"Penestraria","../assets/item_images/Penestraria.png","Base"),
-(1656,"Penestraria Seed","../assets/item_images/Penestraria Seed.png","Base"),
-(1657,"Pepper","../assets/item_images/Pepper.png","Base"),
-(1658,"Pepper Seed","../assets/item_images/Pepper Seed.png","Base"),
-(1659,"Pie Mushroom","../assets/item_images/Pie Mushroom.png","Base"),
-(1660,"Pie Mushroom Hypha","../assets/item_images/Pie Mushroom Hypha.png","Base"),
-(1661,"Pig Blood","../assets/item_images/Pig Blood.png","Base"),
-(1662,"Pig Hide","../assets/item_images/Pig Hide.png","Base"),
-(1663,"Pile of Sunrise Herbs","../assets/item_images/Pile of Sunrise Herbs.png","Base"),
-(1664,"Pine Coated Plywood","../assets/item_images/Pine Coated Plywood.png","Base"),
-(1665,"Pine Plank","../assets/item_images/Pine Plank.png","Base"),
-(1666,"Pine Plywood","../assets/item_images/Pine Plywood.png","Base"),
-(1667,"Pine Sap","../assets/item_images/Pine Sap.png","Base"),
-(1668,"Pine Timber","../assets/item_images/Pine Timber.png","Base"),
-(1669,"Pineapple","../assets/item_images/Pineapple.png","Base"),
-(1670,"Pink Trumpet Mushroom","../assets/item_images/Pink Trumpet Mushroom.png","Base"),
-(1671,"Pistachio","../assets/item_images/Pistachio.png","Base"),
-(1672,"Platinum Ingot","../assets/item_images/Platinum Ingot.png","Base"),
-(1673,"Platinum Ore","../assets/item_images/Platinum Ore.png","Base"),
-(1674,"Plywood Hardener","../assets/item_images/Plywood Hardener.png","Base"),
-(1675,"Polished Opal","../assets/item_images/Polished Opal.png","Base"),
-(1676,"Polished Stone","../assets/item_images/Polished Stone.png","Base"),
-(1677,"Pork","../assets/item_images/Pork.png","Base"),
-(1678,"Potato","../assets/item_images/Potato.png","Base"),
-(1679,"Potato Dough","../assets/item_images/Potato Dough.png","Base"),
-(1680,"Potato Flour","../assets/item_images/Potato Flour.png","Base"),
-(1681,"Powder of Crevice","../assets/item_images/Powder of Crevice.png","Base"),
-(1682,"Powder of Darkness","../assets/item_images/Powder of Darkness.png","Base"),
-(1683,"Powder of Earth","../assets/item_images/Powder of Earth.png","Base"),
-(1684,"Powder of Flame","../assets/item_images/Powder of Flame.png","Base"),
-(1685,"Powder of Time","../assets/item_images/Powder of Time.png","Base"),
-(1686,"Prairie Green Coral","../assets/item_images/Prairie Green Coral.png","Base"),
-(1687,"Precious Blue Crystal","../assets/item_images/Precious Blue Crystal.png","Base"),
-(1688,"Precious Violet Crystal","../assets/item_images/Precious Violet Crystal.png","Base"),
-(1689,"Processed Coal","../assets/item_images/Processed Coal.png","Base"),
-(1690,"Pumpkin","../assets/item_images/Pumpkin.png","Base"),
-(1691,"Pumpkin Seed","../assets/item_images/Pumpkin Seed.png","Base"),
-(1692,"Pure Copper Crystal","../assets/item_images/Pure Copper Crystal.png","Base"),
-(1693,"Pure Gold Crystal","../assets/item_images/Pure Gold Crystal.png","Base"),
-(1694,"Pure Iron Crystal","../assets/item_images/Pure Iron Crystal.png","Base"),
-(1695,"Pure Lead Crystal","../assets/item_images/Pure Lead Crystal.png","Base"),
-(1696,"Pure Mythril Crystal","../assets/item_images/Pure Mythril Crystal.png","Base"),
-(1697,"Pure Noc Crystal","../assets/item_images/Pure Noc Crystal.png","Base"),
-(1698,"Pure Platinum Crystal","../assets/item_images/Pure Platinum Crystal.png","Base"),
-(1699,"Pure Powder Reagent","../assets/item_images/Pure Powder Reagent.png","Base"),
-(1700,"Pure Silver Crystal","../assets/item_images/Pure Silver Crystal.png","Base"),
-(1701,"Pure Tin Crystal","../assets/item_images/Pure Tin Crystal.png","Base"),
-(1702,"Pure Titanium Crystal","../assets/item_images/Pure Titanium Crystal.png","Base"),
-(1703,"Pure Vanadium Crystal","../assets/item_images/Pure Vanadium Crystal.png","Base"),
-(1704,"Pure Zinc Crystal","../assets/item_images/Pure Zinc Crystal.png","Base"),
-(1705,"Purified Water","../assets/item_images/Purified Water.png","Base"),
-(1706,"Purple Mushroom","../assets/item_images/Purple Mushroom.png","Base"),
-(1707,"Purple Mushroom Hypha","../assets/item_images/Purple Mushroom Hypha.png","Base"),
-(1708,"Purple Pink Flower","../assets/item_images/Purple Pink Flower.png","Base"),
-(1709,"Raccoon Blood","../assets/item_images/Raccoon Blood.png","Base"),
-(1710,"Raccoon Hide","../assets/item_images/Raccoon Hide.png","Base"),
-(1711,"Raccoon Meat","../assets/item_images/Raccoon Meat.png","Base"),
-(1712,"Rainbow Button Mushroom","../assets/item_images/Rainbow Button Mushroom.png","Base"),
-(1713,"Red Coral","../assets/item_images/Red Coral.png","Base"),
-(1714,"Red Crystal","../assets/item_images/Red Crystal.png","Base"),
-(1715,"Red Sauce","../assets/item_images/Red Sauce.png","Base"),
-(1716,"Red Tree Lump","../assets/item_images/Red Tree Lump.png","Base"),
-(1717,"Resplendent Diamond","../assets/item_images/Resplendent Diamond.png","Base"),
-(1718,"Resplendent Emerald","../assets/item_images/Resplendent Emerald.png","Base"),
-(1719,"Resplendent Lapis Lazuli","../assets/item_images/Resplendent Lapis Lazuli.png","Base"),
-(1720,"Resplendent Ruby","../assets/item_images/Resplendent Ruby.png","Base"),
-(1721,"Resplendent Sapphire","../assets/item_images/Resplendent Sapphire.png","Base"),
-(1722,"Resplendent Topaz","../assets/item_images/Resplendent Topaz.png","Base"),
-(1723,"Rhino Blood","../assets/item_images/Rhino Blood.png","Base"),
-(1724,"Rhino Hide","../assets/item_images/Rhino Hide.png","Base"),
-(1725,"Rhino Meat","../assets/item_images/Rhino Meat.png","Base"),
-(1726,"Rose","../assets/item_images/Rose.png","Base"),
-(1727,"Rough Black Crystal","../assets/item_images/Rough Black Crystal.png","Base"),
-(1728,"Rough Blue Crystal","../assets/item_images/Rough Blue Crystal.png","Base"),
-(1729,"Rough Diamond","../assets/item_images/Rough Diamond.png","Base"),
-(1730,"Rough Emerald","../assets/item_images/Rough Emerald.png","Base"),
-(1731,"Rough Green Crystal","../assets/item_images/Rough Green Crystal.png","Base"),
-(1732,"Rough Lapis Lazuli","../assets/item_images/Rough Lapis Lazuli.png","Base"),
-(1733,"Rough Mud Crystal","../assets/item_images/Rough Mud Crystal.png","Base"),
-(1734,"Rough Opal","../assets/item_images/Rough Opal.png","Base"),
-(1735,"Rough Red Crystal","../assets/item_images/Rough Red Crystal.png","Base"),
-(1736,"Rough Ruby","../assets/item_images/Rough Ruby.png","Base"),
-(1737,"Rough Sapphire","../assets/item_images/Rough Sapphire.png","Base"),
-(1738,"Rough Stone","../assets/item_images/Rough Stone.png","Base"),
-(1739,"Rough Topaz","../assets/item_images/Rough Topaz.png","Base"),
-(1740,"Rough Translucent Crystal","../assets/item_images/Rough Translucent Crystal.png","Base"),
-(1741,"Rough Violet Crystal","../assets/item_images/Rough Violet Crystal.png","Base"),
-(1742,"Ruby","../assets/item_images/Ruby.png","Base"),
-(1743,"Saffron","../assets/item_images/Saffron.png","Base"),
-(1744,"Sapphire","../assets/item_images/Sapphire.png","Base"),
-(1745,"Scorpion Blood","../assets/item_images/Scorpion Blood.png","Base"),
-(1746,"Scorpion Meat","../assets/item_images/Scorpion Meat.png","Base"),
-(1747,"Seed Potato","../assets/item_images/Seed Potato.png","Base"),
-(1748,"Seed Sweet Potato","../assets/item_images/Seed Sweet Potato.png","Base"),
-(1749,"Sheep Blood","../assets/item_images/Sheep Blood.png","Base"),
-(1750,"Sheep Hide","../assets/item_images/Sheep Hide.png","Base"),
-(1751,"Shelled Seed","../assets/item_images/Shelled Seed.png","Base"),
-(1752,"Shining Powder","../assets/item_images/Shining Powder.png","Base"),
-(1753,"Shiny Seed","../assets/item_images/Shiny Seed.png","Base"),
-(1754,"Shrimp","../assets/item_images/Shrimp.png","Base"),
-(1755,"Silk","../assets/item_images/Silk.png","Base"),
-(1756,"Silk Honey Grass","../assets/item_images/Silk Honey Grass.png","Base"),
-(1757,"Silk Honey Grass Seed","../assets/item_images/Silk Honey Grass Seed.png","Base"),
-(1758,"Silk Thread","../assets/item_images/Silk Thread.png","Base"),
-(1759,"Silkworm Cocoon","../assets/item_images/Silkworm Cocoon.png","Base"),
-(1760,"Silver Azalea","../assets/item_images/Silver Azalea.png","Base"),
-(1761,"Silver Azalea Seed","../assets/item_images/Silver Azalea Seed.png","Base"),
-(1762,"Silver Ingot","../assets/item_images/Silver Ingot.png","Base"),
-(1763,"Silver Ore","../assets/item_images/Silver Ore.png","Base"),
-(1764,"Sinner's Blood","../assets/item_images/Sinner's Blood.png","Base"),
-(1765,"Sky Blue Flower","../assets/item_images/Sky Blue Flower.png","Base"),
-(1766,"Sky Mushroom","../assets/item_images/Sky Mushroom.png","Base"),
-(1767,"Sky Mushroom Hypha","../assets/item_images/Sky Mushroom Hypha.png","Base"),
-(1768,"Small White Seed","../assets/item_images/Small White Seed.png","Base"),
-(1769,"Snake Meat","../assets/item_images/Snake Meat.png","Base"),
-(1770,"Snake Skin","../assets/item_images/Snake Skin.png","Base"),
-(1771,"Soft Ferri Feather","../assets/item_images/Soft Ferri Feather.png","Base"),
-(1772,"Soft Hide","../assets/item_images/Soft Hide.png","Base"),
-(1773,"Soft Kuku Bird Plume","../assets/item_images/Soft Kuku Bird Plume.png","Base"),
-(1774,"Spirit's Leaf","../assets/item_images/Spirit's Leaf.png","Base"),
-(1775,"Standardized Timber Square","../assets/item_images/Standardized Timber Square.png","Base"),
-(1776,"Star Anise","../assets/item_images/Star Anise.png","Base"),
-(1777,"Star Anise Mushroom","../assets/item_images/Star Anise Mushroom.png","Base"),
-(1778,"Star Anise Seed","../assets/item_images/Star Anise Seed.png","Base"),
-(1779,"Star Diamond","../assets/item_images/Star Diamond.png","Base"),
-(1780,"Steel","../assets/item_images/Steel.png","Base"),
-(1781,"Sticky Liquid","../assets/item_images/Sticky Liquid.png","Base"),
-(1782,"Strawberry","../assets/item_images/Strawberry.png","Base"),
-(1783,"Strawberry Seed","../assets/item_images/Strawberry Seed.png","Base"),
-(1784,"Sturdy Acacia Plywood","../assets/item_images/Sturdy Acacia Plywood.png","Base"),
-(1785,"Sturdy Ash Plywood","../assets/item_images/Sturdy Ash Plywood.png","Base"),
-(1786,"Sturdy Birch Plywood","../assets/item_images/Sturdy Birch Plywood.png","Base"),
-(1787,"Sturdy Cedar Plywood","../assets/item_images/Sturdy Cedar Plywood.png","Base"),
-(1788,"Sturdy Elder Tree Plywood","../assets/item_images/Sturdy Elder Tree Plywood.png","Base"),
-(1789,"Sturdy Fir Plywood","../assets/item_images/Sturdy Fir Plywood.png","Base"),
-(1790,"Sturdy Loopy Tree Plywood","../assets/item_images/Sturdy Loopy Tree Plywood.png","Base"),
-(1791,"Sturdy Maple Plywood","../assets/item_images/Sturdy Maple Plywood.png","Base"),
-(1792,"Sturdy Moss Tree Plywood","../assets/item_images/Sturdy Moss Tree Plywood.png","Base"),
-(1793,"Sturdy Palm Plywood","../assets/item_images/Sturdy Palm Plywood.png","Base"),
-(1794,"Sturdy Pine Plywood","../assets/item_images/Sturdy Pine Plywood.png","Base"),
-(1795,"Sturdy Thuja Plywood","../assets/item_images/Sturdy Thuja Plywood.png","Base"),
-(1796,"Sturdy Timber Square","../assets/item_images/Sturdy Timber Square.png","Base"),
-(1797,"Sturdy White Cedar Plywood","../assets/item_images/Sturdy White Cedar Plywood.png","Base"),
-(1798,"Sulfur","../assets/item_images/Sulfur.png","Base"),
-(1799,"Sunflower","../assets/item_images/Sunflower.png","Base"),
-(1800,"Sunflower Seed","../assets/item_images/Sunflower Seed.png","Base"),
-(1801,"Sunrise Herb","../assets/item_images/Sunrise Herb.png","Base"),
-(1802,"Sunrise Herb Seed","../assets/item_images/Sunrise Herb Seed.png","Base"),
-(1803,"Supreme Fancy Feather","../assets/item_images/Supreme Fancy Feather.png","Base"),
-(1804,"Supreme Fancy Reptile Skin","../assets/item_images/Supreme Fancy Reptile Skin.png","Base"),
-(1805,"Supreme Hard Hide","../assets/item_images/Supreme Hard Hide.png","Base"),
-(1806,"Supreme Lightweight Plume","../assets/item_images/Supreme Lightweight Plume.png","Base"),
-(1807,"Supreme Soft Hide","../assets/item_images/Supreme Soft Hide.png","Base"),
-(1808,"Supreme Thick Fur","../assets/item_images/Supreme Thick Fur.png","Base"),
-(1809,"Supreme Thin Hide","../assets/item_images/Supreme Thin Hide.png","Base"),
-(1810,"Supreme Tough Hide","../assets/item_images/Supreme Tough Hide.png","Base"),
-(1811,"Sweet Potato","../assets/item_images/Sweet Potato.png","Base"),
-(1812,"Sweet Potato Dough","../assets/item_images/Sweet Potato Dough.png","Base"),
-(1813,"Sweet Potato Flour","../assets/item_images/Sweet Potato Flour.png","Base"),
-(1814,"Teff","../assets/item_images/Teff.png","Base"),
-(1815,"Teff Flour","../assets/item_images/Teff Flour.png","Base"),
-(1816,"Teff Flour Dough","../assets/item_images/Teff Flour Dough.png","Base"),
-(1817,"Teff Seed","../assets/item_images/Teff Seed.png","Base"),
-(1818,"Thick Fur","../assets/item_images/Thick Fur.png","Base"),
-(1819,"Thin Hide","../assets/item_images/Thin Hide.png","Base"),
-(1820,"Thuja Plank","../assets/item_images/Thuja Plank.png","Base"),
-(1821,"Thuja Plywood","../assets/item_images/Thuja Plywood.png","Base"),
-(1822,"Thuja Sap","../assets/item_images/Thuja Sap.png","Base"),
-(1823,"Thuja Timber","../assets/item_images/Thuja Timber.png","Base"),
-(1824,"Tiger Mushroom","../assets/item_images/Tiger Mushroom.png","Base"),
-(1825,"Tiger Mushroom Hypha","../assets/item_images/Tiger Mushroom Hypha.png","Base"),
-(1826,"Tin Ingot","../assets/item_images/Tin Ingot.png","Base"),
-(1827,"Tin Ore","../assets/item_images/Tin Ore.png","Base"),
-(1828,"Titanium Ingot","../assets/item_images/Titanium Ingot.png","Base"),
-(1829,"Titanium Ore","../assets/item_images/Titanium Ore.png","Base"),
-(1830,"Tomato","../assets/item_images/Tomato.png","Base"),
-(1831,"Tomato Seed","../assets/item_images/Tomato Seed.png","Base"),
-(1832,"Topaz","../assets/item_images/Topaz.png","Base"),
-(1833,"Tough Flax Fabric","../assets/item_images/Tough Flax Fabric.png","Base"),
-(1834,"Tough Hide","../assets/item_images/Tough Hide.png","Base"),
-(1835,"Toxic Watermelon","../assets/item_images/Toxic Watermelon.png","Base"),
-(1836,"Trace of Ascension","../assets/item_images/Trace of Ascension.png","Base"),
-(1837,"Trace of Battle","../assets/item_images/Trace of Battle.png","Base"),
-(1838,"Trace of Chaos","../assets/item_images/Trace of Chaos.png","Base"),
-(1839,"Trace of Death","../assets/item_images/Trace of Death.png","Base"),
-(1840,"Trace of Despair","../assets/item_images/Trace of Despair.png","Base"),
-(1841,"Trace of Forest","../assets/item_images/Trace of Forest.png","Base"),
-(1842,"Trace of Hunting","../assets/item_images/Trace of Hunting.png","Base"),
-(1843,"Trace of Memory","../assets/item_images/Trace of Memory.png","Base"),
-(1844,"Trace of Origin","../assets/item_images/Trace of Origin.png","Base"),
-(1845,"Trace of Savagery","../assets/item_images/Trace of Savagery.png","Base"),
-(1846,"Trace of the Earth","../assets/item_images/Trace of the Earth.png","Base"),
-(1847,"Trace of Violence","../assets/item_images/Trace of Violence.png","Base"),
-(1848,"Trace of Wave","../assets/item_images/Trace of Wave.png","Base"),
-(1849,"Translucent Crystal","../assets/item_images/Translucent Crystal.png","Base"),
-(1850,"Troll Blood","../assets/item_images/Troll Blood.png","Base"),
-(1851,"Truffle Mushroom","../assets/item_images/Truffle Mushroom.png","Base"),
-(1852,"Tulip","../assets/item_images/Tulip.png","Base"),
-(1853,"Twilight Red Coral","../assets/item_images/Twilight Red Coral.png","Base"),
-(1854,"Tyrant's Blood","../assets/item_images/Tyrant's Blood.png","Base"),
-(1855,"Usable Scantling","../assets/item_images/Usable Scantling.png","Base"),
-(1856,"Vanadium Ingot","../assets/item_images/Vanadium Ingot.png","Base"),
-(1857,"Vanadium Ore","../assets/item_images/Vanadium Ore.png","Base"),
-(1858,"Vedelona","../assets/item_images/Vedelona.png","Base"),
-(1859,"Vinegar","../assets/item_images/Vinegar.png","Base"),
-(1860,"Violet Crystal","../assets/item_images/Violet Crystal.png","Base"),
-(1861,"Violet Flower","../assets/item_images/Violet Flower.png","Base"),
-(1862,"Volcanic Umbrella Mushroom","../assets/item_images/Volcanic Umbrella Mushroom.png","Base"),
-(1863,"Waragon Blood","../assets/item_images/Waragon Blood.png","Base"),
-(1864,"Waragon Hide","../assets/item_images/Waragon Hide.png","Base"),
-(1865,"Waragon Meat","../assets/item_images/Waragon Meat.png","Base"),
-(1866,"Weasel Blood","../assets/item_images/Weasel Blood.png","Base"),
-(1867,"Weasel Hide","../assets/item_images/Weasel Hide.png","Base"),
-(1868,"Weasel Meat","../assets/item_images/Weasel Meat.png","Base"),
-(1869,"Weeds","../assets/item_images/Weeds.png","Base"),
-(1870,"Wheat","../assets/item_images/Wheat.png","Base"),
-(1871,"Wheat Dough","../assets/item_images/Wheat Dough.png","Base"),
-(1872,"Wheat Flour","../assets/item_images/Wheat Flour.png","Base"),
-(1873,"Wheat Seed","../assets/item_images/Wheat Seed.png","Base"),
-(1874,"White Cedar Plank","../assets/item_images/White Cedar Plank.png","Base"),
-(1875,"White Cedar Plywood","../assets/item_images/White Cedar Plywood.png","Base"),
-(1876,"White Cedar Sap","../assets/item_images/White Cedar Sap.png","Base"),
-(1877,"White Cedar Timber","../assets/item_images/White Cedar Timber.png","Base"),
-(1878,"White Coral","../assets/item_images/White Coral.png","Base"),
-(1879,"White Flower Mushroom","../assets/item_images/White Flower Mushroom.png","Base"),
-(1880,"White Sauce","../assets/item_images/White Sauce.png","Base"),
-(1881,"White Umbrella Mushroom","../assets/item_images/White Umbrella Mushroom.png","Base"),
-(1882,"Wild Beehive","../assets/item_images/Wild Beehive.png","Base"),
-(1883,"Wild Grass","../assets/item_images/Wild Grass.png","Base"),
-(1884,"Wise Man's Blood","../assets/item_images/Wise Man's Blood.png","Base"),
-(1885,"Withered Acacia Seed","../assets/item_images/Withered Acacia Seed.png","Base"),
-(1886,"Withered Grape Seed","../assets/item_images/Withered Grape Seed.png","Base"),
-(1887,"Withered Sunrise Herb Seed","../assets/item_images/Withered Sunrise Herb Seed.png","Base"),
-(1888,"Withered Wheat Seed","../assets/item_images/Withered Wheat Seed.png","Base"),
-(1889,"Wolf Blood","../assets/item_images/Wolf Blood.png","Base"),
-(1890,"Wolf Hide","../assets/item_images/Wolf Hide.png","Base"),
-(1891,"Wolf Meat","../assets/item_images/Wolf Meat.png","Base"),
-(1892,"Wool","../assets/item_images/Wool.png","Base"),
-(1893,"Worm Blood","../assets/item_images/Worm Blood.png","Base"),
-(1894,"Worm Hide","../assets/item_images/Worm Hide.png","Base"),
-(1895,"Worm Meat","../assets/item_images/Worm Meat.png","Base"),
-(1896,"Yak Blood","../assets/item_images/Yak Blood.png","Base"),
-(1897,"Yak Hide","../assets/item_images/Yak Hide.png","Base"),
-(1898,"Yak Meat","../assets/item_images/Yak Meat.png","Base"),
-(1899,"Yellow Flower","../assets/item_images/Yellow Flower.png","Base"),
-(1900,"Zinc Ingot","../assets/item_images/Zinc Ingot.png","Base"),
-(1901,"Zinc Ore","../assets/item_images/Zinc Ore.png","Base");
